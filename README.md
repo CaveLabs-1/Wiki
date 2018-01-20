@@ -5,6 +5,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 
 * ### [Inception Phase](https://github.com/CaveLabs-1/Wiki/blob/master/Inception%20phase.md):
+  Conjunto de procesos y dinámicas orientadas a enfocar al equipo hacia el mismo objetivo
 
 --
 
