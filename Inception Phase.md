@@ -1,12 +1,10 @@
-# Inception Phase
-Here you'll find all the scripts, forms, standards, politics and guides that will help you in the inception phase
+# Fase de Incepción
+Aquí encontrarás todos los scripts, formas, estándares, políticas y guías de apoyo para la fase de incepción.
 
-## Requirements
+## Requerimientos
 
+## Planeación
 
-## Planning
+## Arquitectura
 
-## Architecture
-
-## Configuration
-
+## Configuración
