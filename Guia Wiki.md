@@ -42,6 +42,8 @@ Es importante tener como título principal el nombre del documento para que la p
 
 ![sintaxis](https://image.prntscr.com/image/qWt7qq-ESa_Ky4r3YVCyhg.png)
 
+Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018"
+
 <a id="Imagenes"></a> 
 ## No se agregar imágenes, links, etc aiuda 
 Para agregar links que lleven a algún apartado dentro del mismo documento:
@@ -54,4 +56,4 @@ Aquí hay una [guía oficial de Github](https://guides.github.com/features/maste
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Last edition: @pirty6 enero 22, 2018.
+Última edición: @pirty6 enero 22, 2018.
