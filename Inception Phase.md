@@ -5,13 +5,13 @@ Aquí encontrarás todos los scripts, formas, estándares, políticas y guías d
 
 |Script de requerimientos||
 |:---|---|
-|**Propósito**|Convertir la problemática principal en una listaa de requerimientos del sistema organizados por priodidades y factibilidad.|
+|**Propósito**|El propósito de este documento es que a través del proceso de definición de requerimientos se pueda obtener una lista de los requerimientos del sistema en cuestión ordenados por prioridad, tamaño y tiempo.|
 |**Criterios de entrada**|<ul><li>Problema general</li><li></li></ul> |
 
-|Paso|Actividades|Descripción|
+|Fase|Actividades|Descripción|
 |----|-----------|-----------|
-|1|||
-|2|||
+|1|Definición y análisis de problemática||
+|2|Definición y documentación de requerimientos||
 |3|||
 |4|||
 |5|||
