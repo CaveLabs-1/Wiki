@@ -2,6 +2,8 @@
 El propósito de esta guía es que cualquier miembro del equipo de CaveLabs sea capaz de agregar, descargar y editar contenido cumpliendo con las políticas del departamento. En ella se podrán encontrar los pasos que se deben seguir para manejar el contenido de la Wiki además de un breve manual donde se explicará la sintaxis que será utilizada por el departamento de CaveLabs.
 
 ## Index
+* [¿Qué es y cómo se come una Wiki?](#Wiki)
+
 * [¿Qué es lo que va en el README y cómo va ordenado?](#README)
 
 * [¿Cómo creo un nuevo documento y dónde lo guardo?](#NuevoDocumento)
@@ -11,11 +13,20 @@ El propósito de esta guía es que cualquier miembro del equipo de CaveLabs sea 
 * [Ya tengo mi documento ¿Ahora qué?](#DocumentoListo)
 
 * [No se agregar imágenes, links, etc aiuda](#Imagenes)
- 
+
+* [Bueno ahora ya se agregar imágenes pero ¿Que hago con las minutas?](#Minutas)
+
+<a id="Wiki"></a>
+## ¿Qué es y cómo se come una Wiki?
+
+De acuerdo a wikipedia una wiki es 
+> Un término que alude al nombre que recibe un sitio web, donde los mismos usuarios crean, modifican o eliminan contenidos que, generalmente, comparten.
+
+Por lo tanto la wiki de Cavelabs será un sitio dónde se encontrara la documentación de los procesos, minutas, guías, formatos, scripts, políticas, estándares y tutoriales o cursos que ayuden al departamento a mejorar.
 
 <a id="README"></a> 
 ## ¿Qué es lo que va en el README y cómo va ordenado? 
-El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontraran los links a los documentos principales de cada fase y documentos cuyo propósito sea general, por ejemplo un link hacia la página de minutas.
+El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontraran los links a los documentos principales de cada fase y documentos cuyo propósito sea general, por ejemplo un link hacia la página de minutas, o documentos que son utilizados en cualquier fase, por ejemplo la guía o formato para definir requerimientos.
 
 El index empieza con el nombre de las fases en orden de ejecución, por ejemplo primero va la fase de incepción, seguida del link hacia el documento de la fase de construcción y finalmente el link hacia la fase de transición. Después de los links fases (Incepción, construcción y transición) seguirán los links a los documentos de propósito general. 
 
@@ -27,6 +38,8 @@ Para cada guía y formato es necesario crear un documento nuevo que se encuentre
 
 Si la carpeta no está creada, se puede crear fácilmente de la siguiente manera
 ![carpetas](https://i.stack.imgur.com/9Ifmj.gif)
+
+Los documentos como guías, formatos o estándares deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en la fase de incepción serán guardadas en “incepción/guias/Guia Ejemplo.md” y así sucesivamente.
 
 Donde se escribe el nombre de la carpeta en el espacio correspondiente al nombre del archivo y despues se escribe “/” para indicar que es una carpeta. 
 
@@ -58,7 +71,15 @@ Para agregar links que lleven a algún apartado dentro del mismo documento:
 Eso esta muy chido pero sigo sin saber como agregar una imagen.
 Aquí hay una [guía oficial de Github](https://guides.github.com/features/mastering-markdown/) y esta otra [guía creada por el usuario adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), que te ayudarán en tu viaje de aprendizaje de Markdown.
 
+<a id="Minutas"></a>
+## Bueno ahora ya se agregar imágenes pero ¿Que hago con las minutas?
+
+Todas las minutas deben de encontrarse en la carpeta de minutas que se encuentra en el root de la wiki. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
+
+Después debe de haber un link en el archivo llamado “Minutas.md” cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo Minuta del 19 de Enero del 2018 que te dirija a la minuta en específico.
+
+
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 enero 22, 2018.
+Última edición: @pirty6 enero 23, 2018.
