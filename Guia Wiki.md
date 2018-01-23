@@ -2,7 +2,7 @@
 El propósito de esta guía es que cualquier miembro del equipo de CaveLabs sea capaz de agregar, descargar y editar contenido cumpliendo con las políticas del departamento. En ella se podrán encontrar los pasos que se deben seguir para manejar el contenido de la Wiki además de un breve manual donde se explicará la sintaxis que será utilizada por el departamento de CaveLabs.
 
 ## Index
-* [¿Qué es lo que va en el README y cómo va ordenado?](#¿Qué-es-lo-que-va-en-el-README-y-cómo-va-ordenado?)
+* [¿Qué es lo que va en el README y cómo va ordenado?](#README)
 
 * [¿Cómo creo un nuevo documento y dónde lo guardo?](#¿Cómo-creo-un-nuevo-documento-y-dónde-lo-guardo?)
 
@@ -13,7 +13,7 @@ El propósito de esta guía es que cualquier miembro del equipo de CaveLabs sea 
 * [No se agregar imágenes, links, etc aiuda](#No-se-agregar-imágenes,-links,-etc-aiuda)
  
  
-
+<a id="README"></a> 
 ## ¿Qué es lo que va en el README y cómo va ordenado? 
 El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontraran los links a los documentos principales de cada fase y documentos cuyo propósito sea general, por ejemplo un link hacia la página de minutas.
 
