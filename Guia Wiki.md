@@ -44,6 +44,11 @@ Es importante tener como título principal el nombre del documento para que la p
 
 Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018"
 
+Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request, donde el nombre de la rama que se crea será el nombre de la persona que lo cambió y que  fué lo que cambió, todo esto separado por un guión; por ejemplo “david-bitacora”. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master.
+
+![rama](https://image.prntscr.com/image/k-CINQVrTs2_iyL_lO_oAA.png)
+
+
 <a id="Imagenes"></a> 
 ## No se agregar imágenes, links, etc aiuda 
 Para agregar links que lleven a algún apartado dentro del mismo documento:
