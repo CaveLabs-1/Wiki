@@ -26,7 +26,7 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 <a id="CADHU"></a>
 ## Minutas CADHU
 
-<a id="Guía para llenar minutas"></a>
+<a id="Guía"></a>
 ## Guia
 - Llenar nombre de posibles asistentes.
 - Registrar posibles puntos a tratar, agenda.
