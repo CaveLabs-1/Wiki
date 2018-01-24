@@ -34,7 +34,7 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 - En caso de llegar a un acuerdo anotarlo en la parte de acuerdos.
 - En caso de tener pendientes, anotar el pendiente, el responsable y la fecha.
 - Poner check si asistió a la junta.
-- LOs asistentes deben de firmar para confirmar su asistencia.
+- Los asistentes deben de firmar para confirmar su asistencia.
 
 <a id="Formatos"></a>
 ## Formatos
