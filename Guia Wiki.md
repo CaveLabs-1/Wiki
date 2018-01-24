@@ -57,7 +57,7 @@ Es importante tener como título principal el nombre del documento para que la p
 
 ![sintaxis](https://image.prntscr.com/image/qWt7qq-ESa_Ky4r3YVCyhg.png)
 
-Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018"
+Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018". Si más personas aportaron al documento entonces se tienen que también poner sus usernames, por ejemplo "Última edición: @pirty6, @filyv enero 22, 2018".
 
 Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request, donde el nombre de la rama que se crea será el nombre de la persona que lo cambió, qué fué lo que cambió y en cuál documento, todo esto separado por un guión; por ejemplo “david-formatos-minuta”. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master. Si ya hay una rama con ese nombre entonces pondremos el número de edición al final del nombre separado por un guión, por ejemplo, la rama "david-formatos-minuta" ya fue creada y ya fue juntada a master pero es necesario editarla para agregar más información y eliminar procesos que no están funcionando, entonces como es la primera modificación desde que se creó el archivo bitácora, la rama que será creada cuando se haga un pull request será "david-formatos-minuta-1" y así sucesivamente.
 
