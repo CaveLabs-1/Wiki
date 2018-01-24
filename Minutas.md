@@ -6,7 +6,7 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 * [Minutas Team Leaders](#Leaders)
 * [Minutas Libélulas](#Libelulas)
 * [Minutas CADHU](#CADHU)
-* [Guía](#Guia)
+* [Guía](#Guía)
 * [Formatos](#Formatos)
 
 <a id="General"></a>
