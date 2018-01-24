@@ -77,6 +77,8 @@ Para agregar links que lleven a algún apartado dentro del mismo documento:
 
 ![anchors](https://image.prntscr.com/image/0aY45VJtQQaXv480psGp8g.png)
 
+Lo que dice en el id tiene que ser exactamente lo mismo que se encuentra dentro del parentesis, mientras que lo que se encuentra dentro de los brackets es el nombre, por lo tanto si tienes un id que sea "hewwo" (id="hewwo") lo que está dentro del paréntesis despues del # tiene que ser hewwo (#hewwo).
+
 Eso esta muy chido pero sigo sin saber como agregar una imagen.
 Aquí hay una [guía oficial de Github](https://guides.github.com/features/mastering-markdown/) y esta otra [guía creada por el usuario adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), que te ayudarán en tu viaje de aprendizaje de Markdown.
 
@@ -85,7 +87,7 @@ Aquí hay una [guía oficial de Github](https://guides.github.com/features/maste
 
 El formato usado por el departamento para las minutas se encuentra en la carpeta Minutas/Formatos. Todos los formatos relacionados a las minutas deben de encontrarse en esa carpeta.
 
-Todas las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki, por ejemplo una minuta del equipo de "CADHU" debe de encontrarse en la dirección Minutas/CADHU. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
+Todas las minutas deben de tener el siguiente nombre "Minuta Fecha" donde Fecha es la fecha en que se realizó, por ejemplo si hubo una minuta en el día 24 de enero de 2018, el documento se llamará "Minuta del 24 de enero del 2018". Las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki, por ejemplo una minuta del equipo de "CADHU" debe de encontrarse en la dirección Minutas/CADHU. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
 
 Después debe de haber un link en el archivo llamado “Minutas.md”, encontrado en el root de la wiki, en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales", lo mismo sucede con los formatos utilizados para las minutas.
 
