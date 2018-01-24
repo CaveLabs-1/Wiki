@@ -76,9 +76,11 @@ Aquí hay una [guía oficial de Github](https://guides.github.com/features/maste
 <a id="Minutas"></a>
 ## Bueno ahora ya se agregar imágenes pero ¿Que hago con las minutas?
 
-Todas las minutas deben de encontrarse en la carpeta de minutas que se encuentra en el root de la wiki. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
+El formato usado por el departamento para las minutas se encuentra en la carpeta Minutas/Formatos. Todos los formatos relacionados a las minutas deben de encontrarse en esa carpeta.
 
-Después debe de haber un link en el archivo llamado “Minutas.md” cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo Minuta del 19 de Enero del 2018 que te dirija a la minuta en específico.
+Todas las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki, por ejemplo una minuta del equipo de "CADHU" debe de encontrarse en la dirección Minutas/CADHU. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
+
+Después debe de haber un link en el archivo llamado “Minutas.md” en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales".
 
 
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
