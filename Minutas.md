@@ -17,6 +17,8 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 <a id="Leaders"></a>
 ## Minutas Team Leaders
 
+* [Minuta del 24 de Enero del 2018](https://github.com/CaveLabs1/Wiki/blob/master/Minutas/Team%20Leaders/Minuta%20de%2024%20enero%20de%202018.pdf)
+
 <a id="Libelulas"></a>
 ## Minutas Libélulas
 
