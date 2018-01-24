@@ -28,3 +28,6 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 
 <a id="Formatos"></a>
 ## Formatos
+* [Formato de minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Formatos/FORMATO%20MINUTA%20CAVELABS.docx)
+
+Última edición: @filyv enero 24, 2018
