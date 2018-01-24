@@ -39,7 +39,9 @@ Para cada guía y formato es necesario crear un documento nuevo que se encuentre
 Si la carpeta no está creada, se puede crear fácilmente de la siguiente manera
 ![carpetas](https://i.stack.imgur.com/9Ifmj.gif)
 
-Los documentos como guías, formatos o estándares deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en la fase de incepción serán guardadas en “incepción/guias/Guia Ejemplo.md” y así sucesivamente.
+Todos los documentos con excepción de los formatos y minutas deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en la fase de incepción serán guardadas en “incepción/guias/Guia Ejemplo.md” y así sucesivamente.
+
+Las minutas deberán de ser un pdf, para saber más de las minutas puedes ir al apartado de [Minutas](#Minutas), mientras que los formatos deberán de estar como un documento de word.
 
 Donde se escribe el nombre de la carpeta en el espacio correspondiente al nombre del archivo y despues se escribe “/” para indicar que es una carpeta. 
 
@@ -80,7 +82,7 @@ El formato usado por el departamento para las minutas se encuentra en la carpeta
 
 Todas las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki, por ejemplo una minuta del equipo de "CADHU" debe de encontrarse en la dirección Minutas/CADHU. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y la parte digital donde vienen los acuerdos y el resúmen de la junta. 
 
-Después debe de haber un link en el archivo llamado “Minutas.md” en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales".
+Después debe de haber un link en el archivo llamado “Minutas.md”, encontrado en el root de la wiki, en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales", lo mismo sucede con los formatos utilizados para las minutas.
 
 
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
