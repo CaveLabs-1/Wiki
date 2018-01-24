@@ -57,7 +57,9 @@ Es importante tener como título principal el nombre del documento para que la p
 
 Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018"
 
-Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request, donde el nombre de la rama que se crea será el nombre de la persona que lo cambió y que  fué lo que cambió, todo esto separado por un guión; por ejemplo “david-bitacora”. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master.
+Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request, donde el nombre de la rama que se crea será el nombre de la persona que lo cambió y qué fué lo que cambió todo esto separado por un guión; por ejemplo “david-bitacora”. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master. Si ya hay una rama con ese nombre entonces pondremos el número de edición al final del nombre separado por un guión, por ejemplo, la rama "david-bitacora" ya fue creada y ya fue juntada a master pero es necesario editarla para agregar más información y eliminar procesos que no están funcionando, entonces como es la primera modificación desde que se creó el archivo bitácora, la rama que será creada cuando se haga un pull request será "david-bitácora-1" y así sucesivamente.
+
+De esta manera será posible ver cuándo un documento fue creado, que será cuando no tenga número, y el número de veces que fue modificado.
 
 ![rama](https://image.prntscr.com/image/k-CINQVrTs2_iyL_lO_oAA.png)
 
@@ -82,4 +84,4 @@ Después debe de haber un link en el archivo llamado “Minutas.md” cuyo nombr
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 enero 23, 2018.
+Última edición: @pirty6 enero 24, 2018.
