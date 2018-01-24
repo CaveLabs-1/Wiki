@@ -27,7 +27,7 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 ## Minutas CADHU
 
 <a id="Guía"></a>
-## Guia
+## Guía
 - Llenar nombre de posibles asistentes.
 - Registrar posibles puntos a tratar, agenda.
 - Anotar notas de la junta en el apartado de notas.
