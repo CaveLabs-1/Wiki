@@ -39,7 +39,9 @@ Para cada guía y formato es necesario crear un documento nuevo que se encuentre
 Si la carpeta no está creada, se puede crear fácilmente de la siguiente manera
 ![carpetas](https://i.stack.imgur.com/9Ifmj.gif)
 
-Todos los documentos con excepción de los formatos y minutas deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en la fase de incepción serán guardadas en “incepción/guias/Guia Ejemplo.md” y así sucesivamente.
+Todos los documentos con excepción de las minutas deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en configuración serán guardadas en “configuracion/guias/Guia Ejemplo.md” y así sucesivamente.
+
+![formato](https://image.prntscr.com/image/G-z1g-2jRz_-GzJoXsaBqg.png)
 
 Las minutas deberán de ser un pdf, para saber más de las minutas puedes ir al apartado de [Minutas](#Minutas), mientras que los formatos deberán de estar como un documento de word.
 
@@ -95,4 +97,4 @@ Después debe de haber un link en el archivo llamado “Minutas.md”, encontrad
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 enero 24, 2018.
+Última edición: @pirty6 enero 30, 2018.
