@@ -15,7 +15,7 @@ Criterios de salida | Lista de líneas bases aprobados por el manager de configu
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Identificación | Identificar elemento de configuración con respecto a guia de elemento de configuración | Teammember
-2 | Documentación | Documentarlo en la Wiki oficial utilizando la [guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) | Miembro de CaveLabs que quiera versionar un elemento de configuración
+2 | Documentación | Documentarlo en la Wiki oficial utilizando la [guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) | Teammember
 
 
 ## Plan de implementación
