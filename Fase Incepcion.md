@@ -36,4 +36,8 @@ Aquí encontrarás todos los scripts, formas, estándares, políticas y guías d
 ### [Proceso para versionar un elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Scripts/Script%20Versionar.md) :
 Proceso para mantener un acuerdo sobre los controles de versiones utilizados en el proyecto
 
-Última edición: @pirty6 enero 29, 2018.
+### [Proceso para cambiar versión de línea base](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Scripts/Proceso%20Cambios.md) :
+Proceso para actualizar la versión y así mantener un acuerdo en el proyecto.
+
+
+Última edición: @filyv enero 29, 2018.
