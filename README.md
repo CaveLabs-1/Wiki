@@ -4,8 +4,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ## Index
 
 
-* ### [Fase de Incepción](https://github.com/CaveLabs-1/Wiki/blob/master/Fase%20Incepcion.md):
-  Conjunto de procesos y dinámicas orientadas a enfocar al equipo hacia el mismo objetivo
+* ### [Procesos para configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion.md)
+  Procesos utilizados para la configuración del proyecto
 * ### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md):
   Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
 * ### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md):
