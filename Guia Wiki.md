@@ -26,11 +26,13 @@ Por lo tanto la wiki de Cavelabs será un sitio dónde se encontrará la documen
 
 <a id="README"></a> 
 ## ¿Qué es lo que va en el README y cómo va ordenado? 
-El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontrarán los links a los documentos principales de cada fase y documentos cuyo propósito sea general, por ejemplo un link hacia la página de minutas, o documentos que son utilizados en cualquier fase, por ejemplo la guía o formato para definir requerimientos.
+El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontrarán los links a los documentos cuyo propósito sea general. Por ejemplo un link hacia la página de minutas, o la página de los procesos que son utilizados en arquitectura, configuración, planning, etc.
 
-El index empieza con el nombre de las fases en orden de ejecución, por ejemplo primero va la fase de incepción, seguida del link hacia el documento de la fase de construcción y finalmente el link hacia la fase de transición. Después de los links de las fases (incepción, construcción y transición) seguirán los links a los documentos de propósito general. 
+El index empieza con los links que dirigen a los procesos de cada módulo del CMMI, por ejemplo, el link que te dirige a los procesos de configuración, calidad, requerimientos. Después de estos links, seguirán los links a lo demás, por ejemplo el link de las minutas o tutoriales.
 
-El nombre del link debe de ser el nombre del documento y debajo del nombre una pequeña descripción no mayor a un renglón de qué es lo que se encuentra en ese archivo.
+![Readme](https://image.prntscr.com/image/S_Q9Ka2XQdqSKp23URZLQA.png)
+
+El nombre del link debe de ser pequeño pero que explique a qué es lo que contiene. Debajo del nombre una pequeña descripción no mayor a un renglón de qué es lo que se encuentra en ese archivo.
 
 <a id="NuevoDocumento"></a> 
 ## ¿Cómo creo un nuevo documento y dónde lo guardo?
@@ -39,9 +41,11 @@ Para cada guía y formato es necesario crear un documento nuevo que se encuentre
 Si la carpeta no está creada, se puede crear fácilmente de la siguiente manera
 ![carpetas](https://i.stack.imgur.com/9Ifmj.gif)
 
-Todos los documentos con excepción de las minutas deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en configuración serán guardadas en “configuracion/guias/Guia Ejemplo.md” y así sucesivamente.
+Todos los documentos con excepción de las minutas y los documentos donde estarán todos los links (configuracion.md, arquitectura.md, etc) deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en configuración serán guardadas en “configuracion/guias/Guia Ejemplo.md” y así sucesivamente.
 
 ![formato](https://image.prntscr.com/image/G-z1g-2jRz_-GzJoXsaBqg.png)
+
+Los documentos donde se encuentran sólamente links (configuración.md, arquitectura.md, calidad.md, etc) estarán en el root del proyecto.
 
 Las minutas deberán de ser un pdf, para saber más de las minutas puedes ir al apartado de [Minutas](#Minutas), mientras que los formatos deberán de estar como un documento de word.
 
@@ -58,6 +62,8 @@ El documento debe de tener el nombre en español y debe de utilizar espacios par
 Es importante tener como título principal el nombre del documento para que la persona tenga continuidad al documento que está leyendo. Después del título se debe de poner una pequeña introducción por si alguién no recuerda que es eso en específico. Después de la introducción, si el documento contiene varios apartados es necesario tener un index que vaya a los documentos necesitados o a las secciones del documento. Es importante seguir el siguiente formato de inicio para mantener una estandarización en toda la documentación del equipo.
 
 ![sintaxis](https://image.prntscr.com/image/qWt7qq-ESa_Ky4r3YVCyhg.png)
+
+Para los documentos de procesos es necesario tener un apartado de "Procesos Generales" que son todos los procesos que son utilizados en cualquier momento del desarrollo, después, si es necesario, tiene que tener un apartado de "Procesos utilizados en incepción" , donde estarán todos los procesos que se utilizan sólamente en la fase de incepción y así sucesivamente con las fases restantes (construcción y transición). Dentro de cada apartado no sólo se encontraran los procesos sino que también debe de haber apartados dentro de éstos para guías, formatos, etc. en el apartado correspondiente, por ejemplo, la plantilla para crear procesos deberá de estar dentro del apartado de "Formatos" que se encuentra en "Procesos Generales" en el archivo "procesos.md"
 
 Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018". Si más personas aportaron al documento entonces se tienen que también poner sus usernames, por ejemplo "Última edición: @pirty6, @filyv enero 22, 2018".
 
