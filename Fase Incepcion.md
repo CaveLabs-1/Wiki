@@ -33,3 +33,6 @@ Aquí encontrarás todos los scripts, formas, estándares, políticas y guías d
 
 <a id="Configuracion"></a>
 ## Configuración
+[Script para versionar un elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Scripts/Script%20Versionar.md)
+
+Última edición: @pirty6 enero 29, 2018.
