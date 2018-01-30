@@ -4,7 +4,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ## Index
 
 
-* ### [Procesos para configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion.md)
+* ### [Procesos configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion.md)
   Procesos utilizados para la configuración del proyecto
 * ### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md):
   Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
