@@ -3,7 +3,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 ## Index
 
-
+* ### [Procesos Arquitectura](#)
+  Procesos utilizados para el desarrollo de la arquitectura del proyecto
 * ### [Procesos configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion.md)
   Procesos utilizados para la configuración del proyecto
 * ### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md):
