@@ -1,6 +1,13 @@
 # Fase de Incepción
 Aquí encontrarás todos los scripts, formas, estándares, políticas y guías de apoyo para la fase de incepción.
 
+## Index
+* [Requerimientos](#Requerimientos)
+* [Planeación](#Planeacion)
+* [Arquitectura](#Arquitectura)
+* [Configuración](#Configuracion)
+
+<a id="Requerimientos"></a>
 ## Requerimientos
 
 |Script de requerimientos||
@@ -16,10 +23,13 @@ Aquí encontrarás todos los scripts, formas, estándares, políticas y guías d
 |4|||
 |5|||
 
-|
-
+<a id="Planeacion"></a>
 ## Planeación
 
+
+<a id="Arquitectura"></a>
 ## Arquitectura
 
+
+<a id="Configuracion"></a>
 ## Configuración
