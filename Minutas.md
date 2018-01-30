@@ -14,10 +14,15 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 
 * [Minuta del 19 de Enero del 2018](https://docs.google.com/document/d/1EN89qgyndWqjpRlwKopbz9UKX-VDm92xxdcxKhvjg6E/edit?usp=sharing)
 
+* [Minuta del 26 de Enero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Generales/Minuta%20de%2026%20de%20enero%20de%202018.pdf)
+
+
 <a id="Leaders"></a>
 ## Minutas Team Leaders
 
 * [Minuta del 24 de Enero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Team%20Leaders/Minuta%20de%2024%20enero%20de%202018.pdf)
+
+* [Minuta del 29 de Enero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Team%20Leaders/Minuta%20de%2029%20de%20enero%20de%202018.pdf)
 
 <a id="Libelulas"></a>
 ## Minutas Libélulas
@@ -42,4 +47,4 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 ## Formatos
 * [Formato de minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Formatos/FORMATO%20MINUTA%20CAVELABS.docx)
 
-Última edición: @marcomancha enero 24, 2018
+Última edición: @agovc enero 30, 2018
