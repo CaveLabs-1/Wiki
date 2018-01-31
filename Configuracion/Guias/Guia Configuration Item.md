@@ -17,24 +17,16 @@ La gestión de los elementos de configuración es importante porque de esta mane
 
 <a id="Lista"></a>
 ## Lista de Elementos de configuración
-Identifica el elemento de configuración que se quiera versionar y selecciona su respectiva guía para saber que hacer con ese elemento en específico.
+Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
 
 * Herramientas:
-  * Guía de herramientas
 * Código
-  * Guía de código
 * User Stories
-  * Guía de User Stories
-* Procesos
-  * [Guía de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
+* [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
 * Planes
-  * Guía de Planes
 * Diagramas
-  * Guía de Diagramas
 * Requisitos
-  * Guía de Requisitos
 * Roles
-  * Guía de Roles
 
 
 Última edición: @pirty6 enero 30, 2018.
