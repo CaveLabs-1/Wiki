@@ -14,13 +14,13 @@ Criterios de salida | Lista de líneas bases aprobados por el manager de configu
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Identificación | Identificar elemento de configuración con respecto a guia de elemento de configuración | Teammember
-2 | Documentación | Documentarlo en la Wiki oficial utilizando la [guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) | Teammember
+1 | Identificación | Identificar elemento de configuración con respecto a la [guia de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Teammember
+2 | Validación | Validar con el Manager de configuración | Teammember y CM
+3 | Documentación | Documentarlo en la Wiki oficial utilizando la [guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) | Teammember
 
 
 ## Plan de implementación
-1. Dirigirse con el Manager de configuración para que este enterado
-2. Subir un mensaje a Slack donde se exprese en qué documento hay una nueva versión.
+1. Subir un mensaje a Slack donde se exprese en qué documento hay una nueva versión.
 
 
 
