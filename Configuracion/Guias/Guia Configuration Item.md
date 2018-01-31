@@ -3,14 +3,22 @@
 
 ## Index
 * [¿Qué es un elemento de configuración?](#Elemento)
+* [¿Para qué se gestionan los elementos de configuración?](#Gestion)
 * [Lista de elementos de configuración](#Lista)
 
 <a id="Elemento"></a>
 ## Elemento de Configuración
 Un elemento de configuración es cualquier componente de una infraestructura de TI que debe de gestionarse para proporcionar un servicio de TI. Todo los objetos de TI como, por ejemplo, hardware, software y dispositivos de red son ejemplos de elementos de configuración.
 
+<a id="Gestion"></a>
+## Gestión de elementos de configuración
+La gestión de los elementos de configuración es importante porque de esta manera el departamento tiene la capacidad de identificar los componentes del producto a lo largo de su ciclo de vida y facilitar su seguimiento. Es importante almacenar y registrar toda la información del ambiente y las herramientas de apoyo utilizadas durante el ciclo de vida del producto.
+
+
 <a id="Lista"></a>
 ## Lista de Elementos de configuración
+Identifica el elemento de configuración que se quiera versionar y selecciona su respectiva guía para saber que hacer con ese elemento en específico.
+
 * Herramientas:
   * Guía de herramientas
 * Código
@@ -18,13 +26,15 @@ Un elemento de configuración es cualquier componente de una infraestructura de 
 * User Stories
   * Guía de User Stories
 * Procesos
-  * Guía de Procesos
+  * [Guía de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
 * Planes
   * Guía de Planes
 * Diagramas
   * Guía de Diagramas
 * Requisitos
   * Guía de Requisitos
+* Roles
+  * Guía de Roles
 
 
 Última edición: @pirty6 enero 30, 2018.
