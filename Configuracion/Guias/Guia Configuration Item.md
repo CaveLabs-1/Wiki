@@ -29,4 +29,4 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 * Roles
 
 
-Última edición: @pirty6 enero 30, 2018.
+Última edición: @pirty6 enero 31, 2018.
