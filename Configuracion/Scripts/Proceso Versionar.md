@@ -24,4 +24,4 @@ No. de Fase | Fase | Actividades | Encargado
 
 
 
-Última edición: @pirty6 enero 29, 2018.
+Última edición: @pirty6 enero 31, 2018.
