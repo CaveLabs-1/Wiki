@@ -11,12 +11,12 @@
 Un elemento de configuración es cualquier componente de una infraestructura de TI que debe de gestionarse para proporcionar un servicio de TI. Todo los objetos de TI como, por ejemplo, hardware, software y dispositivos de red son ejemplos de elementos de configuración.
 
 <a id="Gestion"></a>
-## Gestión de elementos de configuración
+## Gestión de Elementos de Configuración
 La gestión de los elementos de configuración es importante porque de esta manera el departamento tiene la capacidad de identificar los componentes del producto a lo largo de su ciclo de vida y facilitar su seguimiento. Es importante almacenar y registrar toda la información del ambiente y las herramientas de apoyo utilizadas durante el ciclo de vida del producto.
 
 
 <a id="Lista"></a>
-## Lista de Elementos de configuración
+## Lista de Elementos de Configuración
 Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
 
 * Herramientas:
