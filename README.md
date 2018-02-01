@@ -11,7 +11,6 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
     Procesos utilizados para el desarrollo de la planificación del proyecto
   * #### [Procesos Configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion.md) :
     Procesos utilizados para la configuración del proyecto
-  ### Equipos
   ### General
   * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
