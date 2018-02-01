@@ -9,12 +9,12 @@ Métricas utilizadas | ...
 Criterios de entrada | Elemento de configuración
 Definir políticas y estándares | Gitflow
 Salidas del proceso | Línea base
-Criterios de salida | Lista de líneas bases aprobados por el manager de configuración agregadas en la Wiki
+Criterios de salida | Línea base aprobada por el manager de configuración y que se encuentren en la Wiki
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Identificación | Identificar elemento de configuración con respecto a la [guia de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Teammember
+1 | Identificación | Identificar elemento de configuración con respecto a la [guía de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Team member
 2 | Validación | Validar los archivos subidos a la wiki | CM
 
 
