@@ -20,7 +20,7 @@ No. de Fase | Fase | Actividades | Encargado
 
 
 ## Plan de implementación
-1. Subir un mensaje a Slack donde se exprese en qué documento hay una nueva versión.
+1. Subir un mensaje a Slack donde se exprese que un elemento de configuración fue versionado.
 
 
 
