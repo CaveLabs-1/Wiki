@@ -27,6 +27,7 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 * Diagramas
 * Requisitos
 * Roles
+* Documentación de cada proyecto
 
 
 Última edición: @pirty6 enero 31, 2018.
