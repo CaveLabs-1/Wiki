@@ -16,7 +16,7 @@ En el caso de las guías y formatos se subirán en la carpeta correspondiente a 
 
 <a id="Link"></a>
 ## ¿Dónde pongo links para que visualizen mi proceso?
-Para que los miembros del departamento puedan encontrar fácilmente tu proceso, es necesario que pongas un link que dirija a tu nuevo proceso en el archivo correspondiente a la área del proceso. Este archivo se encuentra en el root del repositorio, por ejemeplo Arquitectura.md, Configuración.md, Calidad.md, etc., (Si no existe el documento correspondiente a la área que se necesita puedes crearlo).
+Para que los miembros del departamento puedan encontrar fácilmente tu proceso, es necesario que pongas un link que dirija a tu nuevo proceso en el archivo correspondiente al área del proceso. Este archivo se encuentra en el root del repositorio, por ejemeplo Arquitectura.md, Configuración.md, Calidad.md, etc., (Si no existe el documento correspondiente del área que se necesita puedes crearlo).
 
 ![Principal](https://image.prntscr.com/image/tZPaLcX7Tdm8NrlHnWgyAw.png)
 
