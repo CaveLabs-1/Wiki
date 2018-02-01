@@ -25,7 +25,6 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 * [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
 * Planes
 * Diagramas
-* Requisitos
 * Roles
 * Documentación de cada proyecto
 
