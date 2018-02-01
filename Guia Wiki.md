@@ -28,7 +28,9 @@ Por lo tanto la wiki de Cavelabs será un sitio dónde se encontrará la documen
 ## ¿Qué es lo que va en el README y cómo va ordenado? 
 El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontrarán los links a los documentos cuyo propósito sea general. Por ejemplo un link hacia la página de minutas, o la página de los procesos que son utilizados en arquitectura, configuración, planning, etc.
 
-El index empieza con los links que dirigen a los procesos de cada módulo del CMMI, por ejemplo, el link que te dirige a los procesos de configuración, calidad, requerimientos. Después de estos links, seguirán los links a lo demás, por ejemplo el link de las minutas o tutoriales.
+El index contiene dos apartados:
+  * Procesos: Documentos que dirigen a los procesos de cada módulo del CMMI, por ejemplo, el link que te dirige a los procesos de configuración, calidad, requerimientos. 
+  * General: Documentos que dirige a cosas generales, por ejemplo el link de las minutas o tutoriales.
 
 ![Readme](https://image.prntscr.com/image/S_Q9Ka2XQdqSKp23URZLQA.png)
 
@@ -103,4 +105,4 @@ Después debe de haber un link en el archivo llamado “Minutas.md”, encontrad
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 enero 31, 2018.
+Última edición: @pirty6 enero 01, 2018.
