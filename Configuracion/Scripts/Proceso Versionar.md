@@ -9,7 +9,7 @@ Métricas utilizadas | ...
 Criterios de entrada | Elemento de configuración
 Definir políticas y estándares | Gitflow
 Salidas del proceso | Línea base
-Criterios de salida | Lista de líneas bases aprobados por el manager de configuración
+Criterios de salida | Lista de líneas bases aprobados por el manager de configuración agregadas en la Wiki
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
