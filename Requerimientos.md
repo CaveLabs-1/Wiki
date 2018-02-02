@@ -17,7 +17,7 @@
 
 <a id="incepcion"></a>
 ## Procesos utilizados en incepción
-* ### [Proceso de levantamiento de requerimientos.](Wiki/Requerimientos/Procesos/Levantamiento de requerimientos.md) :
+* ### [Proceso de levantamiento de requerimientos.](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Levantamiento%20de%20Requerimientos.md) :
   Proceso para hacer un análisis y levantamiento inicial de requerimientos.
 
 <a id="construccion"></a>
