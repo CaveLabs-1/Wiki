@@ -15,7 +15,7 @@ Criterios de salida | Línea base aprobada por el manager de configuración y qu
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Identificación | Identificar elemento de configuración con respecto a la [guía de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Team member
-2 | Validación | Validar los archivos subidos a la wiki | CM
+2 | Validación | Validar los archivos y subirlos a la wiki | CM
 
 
 
@@ -24,4 +24,4 @@ No. de Fase | Fase | Actividades | Encargado
 
 
 
-Última edición: @pirty6 enero 31, 2018.
+Última edición: @pirty6 febrero 01, 2018.
