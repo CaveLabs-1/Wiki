@@ -7,7 +7,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
     Procesos utilizados para el desarrollo de los procesos utilizados
   * #### [Procesos Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos.md) :
     Procesos utilizados para el desarrollo de los requerimientos del proyecto
-  * #### [Procesos Arquitectura](#) :
+  * #### [Procesos Arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura.md) :
     Procesos utilizados para el desarrollo de la arquitectura del proyecto
   * #### [Procesos Planificación](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion.md) :
     Procesos utilizados para el desarrollo de la planificación del proyecto
