@@ -21,12 +21,13 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 
 * Herramientas:
 * Código
-* User Stories
 * [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
-* Planes
-* Diagramas
 * Roles
 * Documentación de cada proyecto
+  * User Stories
+  * Planes
+  * Diagramas
+  
 
 
-Última edición: @pirty6 enero 31, 2018.
+Última edición: @pirty6 febrero 02, 2018.
