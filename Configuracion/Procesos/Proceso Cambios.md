@@ -15,12 +15,10 @@ Criterios de salida | Versión cambiada aprobada por el CM (Configuration Manage
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Identificación | Identificar cual es la línea base que desea ser modificada | Teammember
-2 | Validar ción | Realizar petición ante el CM (Configuration Manager) y desarrollando un documento de validación que incluya: Nombre del solicitante, versión y firma del CM (Configuration Manager) | Teammember
-3 | Documentación | Documentarlo en la Wiki oficial utilizando la [guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) | Teammember
+1 | Identificación | Identificar cual es la línea base que desea ser modificada con respecto a la [guía de línea base] | Team member
+2 | Validación | Validar los cambios | CM
 
 ## Plan de implementación
-1. Dirigirse con el Manager de configuración para que apruebe el cambio.
 2. Avisar en Slack del cambio.
 
 
