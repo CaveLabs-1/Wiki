@@ -17,7 +17,7 @@
 
 <a id="incepcion"></a>
 ## Procesos utilizados en incepción
-* ### [Proceso de levantamiento de requerimientos.]() :
+* ### [Proceso de levantamiento de requerimientos.](Wiki/Requerimientos/Procesos/Levantamiento de requerimientos.md) :
   Proceso para hacer un análisis y levantamiento inicial de requerimientos.
 
 <a id="construccion"></a>
