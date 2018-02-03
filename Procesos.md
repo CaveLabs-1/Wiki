@@ -2,7 +2,7 @@
 Versión 1.0
 
 []() | []()
-Objetivo| Establecer un conjunto utilizable de activos de procesos de la organización, así como los estándares del entorno de trabajo, reglas y guías para el trabajo en cada uno de los equipos.
+Objetivo | Establecer un conjunto utilizable de activos de procesos de la organización, así como los estándares del entorno de trabajo, reglas y guías para el trabajo en cada uno de los equipos.
 Métricas utilizadas | Errores en relación a las fases de desarrollo.
 Criterios de entrada |
 Definir políticas y estándares | No exceder dos páginas sin contar bitácora de registros de cambios
@@ -24,5 +24,5 @@ No. de Fase | Fase | Actividades | Encargado
 
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
-------------|------|-------------|-----------
+------------|------|-------------|-----------|-----------
 1 | | | |
