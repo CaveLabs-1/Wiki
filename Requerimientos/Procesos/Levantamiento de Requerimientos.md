@@ -24,5 +24,5 @@ No. de Fase | Fase | Actividades | Encargado
 7 | Implementación |<ul><li>Llenar planilla de trazabilidad con historias de usuario</li></ul>| Team member
 
 ## Plan de implementación
-<li>Subir la documentación al portal oficial de información (Wiki)</li>
+<li>Subir la documentación al portal oficial de información.(Repositorio de cada proyecto)</li>
 <li>Presentar el plan desarrollado a los miembros del departamento o a ciertos encargados, quienes posteriormente deberán asegurarse que todo el departamento esté al tanto del nuevo proceso.</li>
