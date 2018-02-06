@@ -1,0 +1,34 @@
+# Definición de Flujo de Vistas
+Versión 1.0
+
+
+[]() | []()  
+--|--
+Objetivo| Validar el flujo de la app y definir un diagrama de despliegue óptimo.
+Métricas utilizadas | ...
+Criterios de entrada | Criterios para crear la arquitectura, módulos y requerimientos.
+Definir políticas y estándares |UML
+Salidas del proceso | Diagrama de flujo validado por el cliente, mapa de la app, diagrama de despliegue óptimo, ERNIE
+Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagrama debe de ser validado por el cliente
+
+
+## Definición de Fases
+No. de Fase | Fase | Actividades | Encargado
+------------|------|-------------|-----------
+1 | Definición |<ul><li>Definir tipo y número de vistas requeridas (guía de vistas)</li><li>Definir tipo de diagrama a usar (alto vs bajo nivel)</li></ul>| Encargado de Arquitectura
+2 | Diseño |<ul><li>Diseño de las vistas</li><li>Diseño de las relaciones entre las vistas</li><li>Identificar patrones de diseño</li><li>Identificar el patrón de diseño óptimo</li></ul>| Encargado de Arquitectura
+3 | Validación |<ul><li>Validar los diagramas y el flujo con el stakeholder</li></ul> | Product Owner
+4 | Documetación |<ul><li>Documentar el proceso y mantener los diagramas con el estándar UML</li></ul>| Team Member
+
+## Plan de implementación
+
+1. Publicar los documentos en su respectiva sección de la wiki y avisar a los miembros del equipo que está publicado por Slack
+2. Presentar a los encargados de Arquitectura en flujo de los procesos correspondientes a esta área
+
+## Bitácora
+
+
+No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
+---------------|--------|-------|----------|----------------
+1.0 | Creación y Llenado de Documento | David Ramirez | . | 2/2/2018
+  
