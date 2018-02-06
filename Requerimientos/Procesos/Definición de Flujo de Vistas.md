@@ -15,8 +15,8 @@ Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagr
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Definición |<ul><li>Definir tipo y número de vistas requeridas ([Ejemplo de Vistas](http://tecnologiasweb.jsenso.es/wp-content/uploads/2015/06/full20.jpg))</li><li>Definir tipo de diagrama a usar (alto vs bajo nivel)</li></ul>| Encargado de Arquitectura
-2 | Diseño |<ul><li>Diseño de las vistas</li><li>Diseño de las relaciones entre las vistas</li><li>Identificar patrones de diseño</li><li>Identificar el patrón de diseño óptimo</li></ul>| Encargado de Arquitectura
+1 | Definición |<ul><li>Definir número de vistas requeridas</li><li>Definir tipo de diagrama a usar (alto vs bajo nivel)</li></ul>| Encargado de Arquitectura
+2 | Diseño |<ul><li>Diseño de las vistas ([Ejemplo de Vistas](http://tecnologiasweb.jsenso.es/wp-content/uploads/2015/06/full20.jpg))</li><li>Diseño de las relaciones entre las vistas</li><li>Identificar patrones de diseño</li><li>Identificar el patrón de diseño óptimo</li></ul>| Encargado de Arquitectura
 3 | Validación |<ul><li>Validar los diagramas y el flujo con el stakeholder</li></ul> | Product Owner
 4 | Documetación |<ul><li>Documentar el proceso y mantener los diagramas con el estándar UML</li></ul>| Team Member
 
