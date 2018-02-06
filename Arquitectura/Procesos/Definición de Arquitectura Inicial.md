@@ -7,7 +7,7 @@ Versión 1.0
 Objetivo| Define la arquitectura inicial de un projecto
 Métricas utilizadas | ...
 Criterios de entrada | Lista de Requerimientos y Formato Linguine
-Definir políticas y estándares |UML, Usar la guía del [Technology Stack Diagram](https://github.com/dwyl/technology-stack), Usar el Proceso de Flujo de Vistas
+Definir políticas y estándares |UML, Usar la guía del [Technology Stack Diagram](https://github.com/dwyl/technology-stack), Usar el [Proceso de Flujo de Vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
 Salidas del proceso | [Herson](https://docs.google.com/document/d/1S6zC7W9tscflqrT2fkm_FU0MIeelQJ3OqqpN2YA3MQg/edit?usp=sharing), [Technology Stack Diagram](https://github.com/dwyl/technology-stack), MER/Modelo lógico
 Criterios de salida | Los Modelos deben de seguir el estándar de UML
 
