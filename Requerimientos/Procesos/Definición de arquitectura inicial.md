@@ -17,8 +17,9 @@ No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Definición |<ul><li>Establecer criterios para crear la arquitectura (guía de criterios)</li><li>Ejecutar el proceso de flujo de vistas y llenar el ERNIE</li></ul>| Encargado de Arquitectura
 2 | Validación |<ul><li>Validar la arquitectura con los requerimientos necesitados</li></ul>| Encargado de Arquitectura
-3 | Desarrollo |<ul><li>Desarrollo de un MER de la base de datos según el flujo y necesidades de el Proceso de Flujo </li><li>Desarrollo del [Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura
-4 | Documetación |<ul><li>Documentar el proceso y mantener los diagramas con el estándar UML</li></ul>| Team Member
+3 | Desarrollo |<ul><li>Desarrollo de un MER de la base de datos según el flujo </li><li>Escoger Tecnología a usarse (Back end framework, front end framework, middleware, etc.)</li><li>Desarrollo del [Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura
+4 | Implementación | <ul><li>Preparar la tecnología a usarse *(ejemplo: framework con middleware)*</li></ul> | Encargado de Arquitectura
+5 | Documetación |<ul><li>Documentar lo requerido y mantener los diagramas con el estándar UML o de las guías</li></ul>| Team Member
 
 ## Plan de implementación
 
