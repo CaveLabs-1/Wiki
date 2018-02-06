@@ -8,7 +8,7 @@ Objetivo| Validar el flujo de la app y definir un diagrama de despliegue óptimo
 Métricas utilizadas | ...
 Criterios de entrada | Criterios para crear la arquitectura, módulos y requerimientos.
 Definir políticas y estándares |UML
-Salidas del proceso | Diagrama de flujo validado por el cliente, mapa de la app, diagrama de despliegue óptimo, [Ernie](https://docs.google.com/document/d/1zsnzZnGNzLkD2YsUQFzgOTRIssyJqkFWtrK2SylG8EM/edit?usp=sharing)
+Salidas del proceso | Diagrama de flujo validado por el cliente, diagrama de despliegue óptimo, [Ernie](https://docs.google.com/document/d/1zsnzZnGNzLkD2YsUQFzgOTRIssyJqkFWtrK2SylG8EM/edit?usp=sharing)
 Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagrama debe de ser validado por el cliente
 
 
