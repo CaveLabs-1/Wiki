@@ -16,12 +16,12 @@ Criterios de salida | Tener una lista de requerimientos analizados y ordenados p
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Análisis |<ul><li>Identificar stakeholders y documentar (Jimmy pt. 2)</li> <li>Identificación de proceso de la empresa (Process Flow Diagram)</li> <li>Identificar panorama de la problemática (Llenar Timmy)</li> <li>Estimación inicial del tamaño del proyecto</li> <li>Estimación inicial del tiempo del proyecto</li> <li>Estimación inicial del alcance del proyecto reflejado en el punto 4 del Jimmy</li></ul>| Team member
-2 | Definición |<ul><li>Propuesta de solución (terminar Jimmy)</li></ul>| CM
-3 | Identificación |<ul><liA partir de la propuesta de solución, identificar los requerimientos funcionales del proyecto.></li> <li>Documentar requerimientos en plantilla de requerimientos (Sólo nombre)</li></ul>| CM
-4 | Validación |<ul><li>Se valida Jimmy y lista de requerimientos con el cliente, firma de acuerdo de stakeholder principal y product owner</li></ul>| CM
-5 | Clasificación |<ul><li>Identificar las características de cada requerimiento</li> <li>Documentar características de cada requerimiento en plantilla</li></ul>| CM
-6 | Organización |<ul><li>Ordenar lista de requerimientos en cuanto a prioridad (tomar en cuenta dependencias)</li></ul>| CM
-7 | Implementación |<ul><li>Llenar planilla de trazabilidad con historias de usuario</li></ul>| CM
+2 | Definición |<ul><li>Propuesta de solución (terminar Jimmy)</li></ul>| Team member
+3 | Identificación |<ul><li>A partir de la propuesta de solución, identificar los requerimientos funcionales del proyecto.></li> <li>Documentar requerimientos en plantilla de requerimientos (Sólo nombre)</li></ul>| Team member
+4 | Validación |<ul><li>Se valida Jimmy y lista de requerimientos con el cliente, firma de acuerdo de stakeholder principal y product owner</li></ul>| Product Owner
+5 | Clasificación |<ul><li>Identificar las características de cada requerimiento</li> <li>Documentar características de cada requerimiento en plantilla</li></ul>| Team member
+6 | Organización |<ul><li>Ordenar lista de requerimientos en cuanto a prioridad (tomar en cuenta dependencias)</li></ul>| Team member
+7 | Implementación |<ul><li>Llenar planilla de trazabilidad con historias de usuario</li></ul>| Team member
 
 ## Plan de implementación
 <li>Subir la documentación al portal oficial de información (Wiki)</li>
