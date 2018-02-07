@@ -18,6 +18,8 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
   * #### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md) :
     Lista de las minutas realizadas por el departamento
+  * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
+    Documentación del Work Breakdwon Structure definido en clase.
   
 --
 
