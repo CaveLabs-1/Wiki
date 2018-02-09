@@ -9,7 +9,7 @@ Objetivo| Gestionar los requisitos de los productos y los componentes de product
 Métricas utilizadas | <ul><li>Diferencia entre requerimientos iniciales y requerimientos finales</li> <li>Número de requerimientos modificados</li></ul>
 Criterios de entrada | <ul><li>Información cruda de la problemática</li> <li>Plantilla Matriz de Requerimientos</li></ul>
 Definir políticas y estándares | <ul><li>La información derivada de los S.H. será obtenida por el Product Owner</li> <li>Se deberá seguir la guia de juntas con clientes para obtener la información necesaria con la mayor eficiencia</li> <li>Usar guía para Process Flow Diagram</li></ul>
-Salidas del proceso | <ul><li>Process flow diagram</li> <li>Project proposal document (Timmy)</li> <li>Project definition document (Jimmy)</li> <li>Matriz de requerimientos</li> <li>Requirement traceability matrix</li></ul>
+Salidas del proceso | <ul><li>[Process flow diagram](https://www.lucidchart.com/pages/process-flow-diagrams)</li> <li>[Project proposal document (Timmy)](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Formatos/Timmy%20(Propuesta%20de%20Proyecto).docx)</li> <li>[Project definition document (Jimmy)](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Formatos/Jimmy%20(Definici%C3%B3n%20de%20Proyecto).docx)</li> <li>[Matriz de requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Formatos/Plantilla%20Matriz%20de%20Requerimientos.xlsx)</li> <li>[Requirement traceability matrix](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Formatos/Matriz%20de%20trazabilidad.ods)</li></ul>
 Criterios de salida | Tener una lista de requerimientos analizados y ordenados por prioridad y dependencia.
 
 ## Definición de Fases
