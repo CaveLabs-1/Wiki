@@ -12,58 +12,61 @@ Documentación del Work Breakdwon Structure definido en clase.
 
 * [Ayuda](#Ayuda)
 
-* [Management](#Management)
+* [Gestión](#Gestión)
 
 * [Calidad](#Calidad)
 
 <a id="Requerimientos"></a>
 ## Requerimientos
   * Matriz de trazabilidad
-  * Propuesta de proyecto (Project Proposal)
-  * Definición de proyecto (Project Definition)
+  * Propuesta de proyecto
+  * Definición de proyecto
   * Lista de requerimientos
-  * Diagrama de flujo del proceso (Process flow diagram)
+  * Diagrama de flujo del proceso
   
 <a id="Diseño"></a> 
 ## Diseño
   * Diagrama de despliegue
   * Modelo BD
   * Mapa de vistas
-  * Technology stack diagram
+  * Technology Stack Diagram
 
 <a id="Implementación"></a> 
 ## Implementación
-  * User interface module
-  * Communication module
-  * DB module
-  * Testing module
-  * Control module
+  * Módulo de UI
+  * Módulo de comunicación
+  * Módulo de la BD
+  * Módulo de pruebas
+  * Módulo de control
   * Test harness
-  * Report module
+  * Módulo de reportes
   * Plan de despliegue
+  * Ambiente en producción
   
 <a id="Pruebas"></a> 
 ## Pruebas
-  * Test plan
-  * Test cases
-  * Test results
+  * Plan de pruebas
+  * Casos de prueba
+  * Pruebas ejecutables
+  * Resultados de pruebas
 
 <a id="Ayuda"></a> 
 ## Ayuda
   * Handbook arquitectura
   * Manual de usuario
   * Manual de código
+  * Capacitación
 
-<a id="Management"></a> 
-## Management
-  * Project management plan
-  * Quality assurance plan
+<a id="Gestión"></a> 
+## Gestión
+  * Plan de gestión de trabajo
+  * Plan de garantía de calidad
   * Manual de versiones (CM)
 
 <a id="Calidad"></a>
 ## Calidad
   * Reportes de auditoría
-  * Check list para evaluar productos
+  * Lista de verificación para evaluar productos
 ---
 
-Última edición: @filyv febrero 07, 2018.
+Última edición: @agovc febrero 09, 2018.
