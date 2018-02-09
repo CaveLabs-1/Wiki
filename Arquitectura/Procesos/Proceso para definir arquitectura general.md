@@ -9,7 +9,7 @@ Métricas utilizadas | ...
 Criterios de entrada | Necesidad
 Definir políticas y estándares | Definir políticas según el componente
 Salidas del proceso | Solución a usarse
-Criterios de salida | Debe de ser el más adhoc a la necesidad
+Criterios de salida | Debe de ser el más *ad hoc* a la necesidad
 
 
 ## Definición de Fases
