@@ -3,6 +3,7 @@ En este documento se encontraran las personas responasable de cada rol del depar
 
 ## Managers de Projecto
   Hugo Torres
+  
   Santiago Valencia
 
 ## SEPG
@@ -12,6 +13,9 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Suplente: Marco Luna
   
 * ### Calidad
+  Manager: Alejandro López
+  
+  Suplente: Rodolfo Martínez
   
 * ### Configuración
   Manager: Mariana Pérez
@@ -34,3 +38,6 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Manager: Alejandro Salmón
   
   Suplente: 
+
+
+Última edición: @pirty6 febrero 08, 2018.
