@@ -33,9 +33,9 @@ Documentación del Work Breakdwon Structure definido en clase.
 
 <a id="Implementación"></a> 
 ## Implementación
-  * Módulo de UI
-  * Módulo de comunicación
-  * Módulo de la BD
+  * Módulo de UI
+  * Módulo de comunicación
+  * Módulo de la BD
   * Módulo de pruebas
   * Módulo de control
   * Test harness
@@ -55,11 +55,11 @@ Documentación del Work Breakdwon Structure definido en clase.
   * Handbook arquitectura
   * Manual de usuario
   * Manual de código
-  * Capacitación
+  * Capacitación
 
 <a id="Gestión"></a> 
 ## Gestión
-  * Plan de gestión de trabajo
+  * Plan de gestión de trabajo
   * Plan de garantía de calidad
   * Manual de versiones (CM)
 
@@ -67,6 +67,7 @@ Documentación del Work Breakdwon Structure definido en clase.
 ## Calidad
   * Reportes de auditoría
   * Lista de verificación para evaluar productos
+  
 ---
 
 Última edición: @agovc febrero 09, 2018.
