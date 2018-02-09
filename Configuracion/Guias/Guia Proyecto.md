@@ -8,6 +8,6 @@ Debe de haber un link en el Readme de la wiki que te dirija a toda la documentac
 El index de todos los documentos de cada proyecto será su respectivo Readme, ahí deberán de encontrarse links hacia el documento de index de los procesos de requerimientos, arquitectura, calidad, riesgos, etc.
 El Readme del proyecto deberá de estar separado en distintos apartados correspondientes a las áreas de CMMI que se tengan procesos (Como en la wiki). Dentro de éste documento deberán de encontrarse los links hacia los documentos correspondientes (Otra vez como en la wiki).
 
-Todos los documentos que se guardarán para los proyectos deberán de ser pdfs, y deberán de encontrarse en su respectiva carpeta (requerimientos, arquitectura, planning, etc).
+Todos los documentos que se guardarán para los proyectos deberán de ser **PDFs**, y deberán de encontrarse en su respectiva carpeta (requerimientos, arquitectura, planning, etc).
 
 Última edición: @pirty6 febrero 08, 2018
