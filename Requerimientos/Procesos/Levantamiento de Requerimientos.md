@@ -17,7 +17,7 @@ No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Análisis |<ul><li>Identificar stakeholders y documentar (Jimmy pt. 2)</li> <li>Identificación de proceso de la empresa (Process Flow Diagram)</li> <li>Identificar panorama de la problemática (Llenar Timmy)</li> <li>Estimación inicial del tamaño del proyecto</li> <li>Estimación inicial del tiempo del proyecto</li> <li>Estimación inicial del alcance del proyecto reflejado en el punto 4 del Jimmy</li></ul>| Team member
 2 | Definición |<ul><li>Propuesta de solución (terminar Jimmy)</li></ul>| Team member
-3 | Identificación |<ul><li>A partir de la propuesta de solución, identificar los requerimientos funcionales del proyecto.></li> <li>Documentar requerimientos en plantilla de requerimientos (Sólo nombre)</li></ul>| Team member
+3 | Identificación |<ul><li>A partir de la propuesta de solución, identificar los requerimientos funcionales del proyecto.</li> <li>Documentar requerimientos en plantilla de requerimientos (Sólo nombre)</li></ul>| Team member
 4 | Validación |<ul><li>Se valida Jimmy y lista de requerimientos con el cliente, firma de acuerdo de stakeholder principal y product owner</li></ul>| Product Owner
 5 | Clasificación |<ul><li>Identificar las características de cada requerimiento</li> <li>Documentar características de cada requerimiento en plantilla</li></ul>| Team member
 6 | Organización |<ul><li>Ordenar lista de requerimientos en cuanto a prioridad (tomar en cuenta dependencias)</li></ul>| Team member
