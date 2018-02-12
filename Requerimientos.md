@@ -12,7 +12,7 @@
 
 
 
-* ### [Proceso de modificación de requerimientos.]() :
+* ### Proceso de modificación de requerimientos. :
   Proceso para actualizar la versión y así mantener un acuerdo en el proyecto.
 
 <a id="incepcion"></a>
