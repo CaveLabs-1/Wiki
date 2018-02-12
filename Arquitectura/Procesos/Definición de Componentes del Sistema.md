@@ -17,8 +17,8 @@ No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Preparación |<ul><li>Separar los requerimientos por diferentes módulos que compartan características | Team Member
 2 | Identificación |<ul><li>Identificar los módulos externos al proyecto</li><li>Identificar relaciones entre los módulos</li><li>Identificar limitantes entre los módulos</li></ul>| Encargado de Arquitectura
-3 | Desarrollo |<ul><li>Desarrollo de un MER de la base de datos según el flujo </li><li>Escoger Tecnología a usarse (Back end framework, front end framework, base de datos, middleware, etc.)</li><li>Desarrollo del [Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura
-4 | Documetación |<ul><li>Documentar las relaciones (tener actores definidos y tener el diagrama de los componentes con su relaciones)</li></ul>| Team Member
+3 | Desarrollo |<ul><li>Desarrollar MER de la base de datos según el flujo </li><li>Escoger Tecnología a usarse (Back end framework, front end framework, base de datos, middleware, etc.)</li><li>Desarrollar[Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura
+4 | Documetación |<ul><li>Documentar relaciones (tener actores definidos y tener el diagrama de los componentes con su relaciones)</li></ul>| Team Member
 
 ## Plan de implementación
 
