@@ -7,7 +7,7 @@ Versión 1.0
 Objetivo| Establecer y mantener los planes y estrategias que definan las actividades del proyecto.
 Métricas utilizadas | Errores porcentuales en expectativas planteadas y resultados actuales.
 Criterios de entrada | <ul><li>Lista de requerimientos definidos</li><li>Disponibilidad de tiempo calendario</li>Recursos involucrados en el desarrollo de la planeación (personas, tiempo, equipo)</li><li>La estimación del proyecto debe estar ya definida</li></ul>
-Definir políticas y estándares |<ul><li>El documento de planeación no deberá tener una longitud máxima de 2 páginas.</li><li>La planeación deberá ir acompañada del [Toronto](https://docs.google.com/document/d/1X5K242EaCvONCwC4O1vffpqNA-S9zsQNQvfWiGdOhOw/edit), para validar el seguimiento del desarrollo del proceso.</li></ul>
+Definir políticas y estándares |<ul><li>El documento de planeación deberá tener una longitud máxima de 2 páginas.</li><li>La planeación deberá ir acompañada del [Toronto](https://docs.google.com/document/d/1X5K242EaCvONCwC4O1vffpqNA-S9zsQNQvfWiGdOhOw/edit), para validar el seguimiento del desarrollo del proceso.</li></ul>
 Salidas del proceso | Plan de proyecto :<ul><li>Actividades</li><li>Roles</li><li>Calendarización</li><li>Productos de estimación</li></ul>
 Criterios de salida | Planes y calendarios aprobados por todo el personal involucrado en la planeación.
 
