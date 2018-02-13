@@ -38,6 +38,14 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Manager: Alejandro Salmón
   
   Suplente: 
+  
+## Equipo SWAT de ambiente de testing
+* Mauricio Hernández
+* Filiberto Vázquez
+* Iancarlo Rosas
+* Santiago Valencia
+* Marco Mancha
+* Daniel Amezcua
 
 
-Última edición: @pirty6 febrero 08, 2018.
+Última edición: @agovc febrero 13, 2018.
