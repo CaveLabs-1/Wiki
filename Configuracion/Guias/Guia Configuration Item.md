@@ -20,7 +20,7 @@ La gestión de los elementos de configuración es importante porque de esta mane
 ## Lista de Elementos de Configuración
 Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
 
-* Herramientas:
+* [Herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md)
 * Código
 * [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
 * Roles
@@ -35,4 +35,4 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   
 
 
-Última edición: @pirty6 febrero 08, 2018.
+Última edición: @pirty6 febrero 14, 2018.
