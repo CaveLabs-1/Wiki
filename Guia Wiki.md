@@ -73,6 +73,8 @@ Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se t
 
 De esta manera será posible ver cuándo un documento fue creado, que será cuando no tenga número, y el número de veces que fue modificado.
 
+Si lo único que hiciste fue corregir typos puedes hacer merge directamente.
+
 ![rama](https://image.prntscr.com/image/k-CINQVrTs2_iyL_lO_oAA.png)
 
 Al darle click en create a new branch aparecerá la siguiente pantalla
