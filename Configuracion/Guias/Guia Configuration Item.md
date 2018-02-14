@@ -5,6 +5,7 @@
 * [¿Qué es un elemento de configuración?](#Elemento)
 * [¿Para qué se gestionan los elementos de configuración?](#Gestion)
 * [Lista de elementos de configuración](#Lista)
+* [¿Qué pasa si mi elemento de configuración no se encuentra en la lista?](#No)
 
 <a id="Elemento"></a>
 ## Elemento de Configuración
@@ -27,6 +28,10 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   * User Stories
   * Planes
   * Diagramas
+ 
+ <a id="No"></a>
+ ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
+ Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir.
   
 
 
