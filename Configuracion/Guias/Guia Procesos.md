@@ -31,4 +31,6 @@ De preferencia pon los procesos en orden de ejecución.
 ## ¿Cómo lo tengo que subir?
 Todos los archivos que sean agregados a la wiki se subiran de la misma manera. Es decir creando un pull-request para que de ésta forma el manager de configuración valide la información agregada. Para más información en cómo hacer el pull-request, o que se tiene que hacer después checa [la guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md). Ésta información se encuentra dentro del apartado "Ya tengo mi documento ¿Ahora qué?"
 
+Si lo único que hiciste fue corregir typos puedes hacer merge directamente.
+
 Última edición: @pirty6 enero 31, 2018.
