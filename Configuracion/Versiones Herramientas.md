@@ -5,22 +5,42 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * [Versiones de Herramientas](#Herramientas)
 * [Versiones de Navegadores](#Navegadores)
 * [Versiones de Sistemas Operativos](#Sistemas)
+* [Versiones de BackEnd FrameWork](#BackEnd_FrameWork)
+* [Versiones de Herramientas de FrontEnd](#Herramientas_de_FrontEnd)
+* [Versiones de Gestor de Bases de Datos](#Gestor_de_Bases_de_Datos)
 
 <a id="Herramientas"></a>
 ## Herramientas
 * GitHub: GitHub Web
 * Google Drive: Drive Web
-* Slack: 3.0.5
+* Slack: 3.0.5 o superior.
 
 <a id="Navegadores"></a>
 ## Navegadores
-* Chrome: 63.0.3239.132
-* Opera: 50.0.2762.67
-* Safari: 11.0.3
-* Firefox: 57.0
+* Chrome: 63.0.3239.132 o superior.
+* Opera: 50.0.2762.67 o superior.
+* Safari: 11.0.3 o superior.
+* Firefox: 57.0 o superior.
 
 <a id="Sistemas"></a>
 ## Sistemas Operativos
-* MacOS: High Sierra 10.1.7
-* Ubuntu: 16.04 LTS
-* Windows: Windows 10 1709
+* MacOS: High Sierra 10.1.7 o superior.
+* Ubuntu: 16.04 LTS  o superior.
+* Windows: Windows 10 1709 o superior.
+
+
+<a id="BackEnd_FrameWork"></a>
+## BackEnd FrameWork
+* Django: 2.0.2 o superior.
+
+
+<a id="Herramientas_de_FrontEnd"></a>
+## Herramientas de FrontEnd
+* Bootstrap: v4.0.0 o superior.
+* React: v16.2.0 o superior.
+
+
+<a id="Gestor_de_Bases_de_Datos"></a>
+## Gestor de Bases de Datos
+* PostgreSQL: 10.2 o superior.
+
