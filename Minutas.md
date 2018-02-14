@@ -18,6 +18,7 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 
 * [Minuta del 7 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Generales/Minuta%20de%207%20de%20febrero%20de%202018.pdf)
 
+* [Minuta del 14 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Generales/Minuta%20de%2014%20de%20febrero%20de%202018.pdf)
 
 <a id="Leaders"></a>
 ## Minutas Team Leaders
