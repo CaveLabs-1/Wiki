@@ -8,7 +8,7 @@ Debe de haber un link en el Readme de la wiki que te dirija al README del reposi
 El Readme funcionará como index, aquí se pondrán los links hacia cada documento de documentación. Los procesos deberán de estar en su correspondiente fase (Incepción, Construcción y Transición) y estarán en orden de ejecucción. Es decir debería de primero estar la definición del proyecto, después la propuesta del proyecto y así sucesivamente.
 
 
-Todos los documentos que se guardarán para los proyectos deberán de ser **PDFs**, y deberán de encontrarse en su respectiva carpeta (requerimientos, arquitectura, planning, etc). que se encontrarán en la carpeta de documentación.
+Todos los documentos que se guardarán para los proyectos deberán de ser **PDFs** a excepción de los documentos de excel que se guardarán como formato **.cvs**, y deberán de encontrarse en su respectiva carpeta (requerimientos, arquitectura, planning, etc). que se encontrarán en la carpeta de documentación.
 
 ![carpetas](https://image.prntscr.com/image/TgAZf1bpRRyhra9w8VdUQA.png)
 
