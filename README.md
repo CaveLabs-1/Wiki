@@ -90,6 +90,10 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
   ## General
   * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
+  * ### [Lista de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Versiones%20Herramientas.md) :
+    Lista de la versión de las herramientas utilizadas por el departamento.
+  * ### [Lista de roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Version%20Roles.md) :
+    Lista de roles usados por el departamento.
   * #### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md) :
     Lista de las minutas realizadas por el departamento
   * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
