@@ -22,7 +22,7 @@ Versión 1.0
         <li>Modificar requerimiento</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li>Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad.md">Calidad</li>
       </ul>
     </td>
   </tr>
@@ -36,7 +36,7 @@ Versión 1.0
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md">Flujo de vistas</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li>Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad.md">Calidad</li>
         </ul>
     </td>
   </tr>
@@ -47,7 +47,7 @@ Versión 1.0
       <ul>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li>Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad.md">Calidad</li>
       </ul>
     </td>
   </tr>
@@ -60,7 +60,7 @@ Versión 1.0
         <li>Verificación</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li>Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad.md">Calidad</li>
       </ul>
     </td>
   </tr>
@@ -72,7 +72,7 @@ Versión 1.0
         <li>Validación</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li>Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad.md">Calidad</li>
       </ul>
     </td>
   </tr>
