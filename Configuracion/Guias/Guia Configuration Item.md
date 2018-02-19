@@ -21,9 +21,9 @@ La gestión de los elementos de configuración es importante porque de esta mane
 Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
 
 * [Herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md)
-* Código
+* [Código](https://support.gitkraken.com/git-workflows-and-extensions/git-flow)
 * [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
-* Roles
+* [Roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
 * [Documentación de cada proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md)
   * User Stories
   * Planes
