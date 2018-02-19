@@ -1,4 +1,4 @@
-# Guía de Herramientas
+# Guía de Roles
 Esta guía te indicará dónde guardar las versiones de los roles utilizados por el departamento de CaveLabs
 
 El propósito de versionar roles es de que todo el departamento sepa qué persona se encuentra en tal rol.
