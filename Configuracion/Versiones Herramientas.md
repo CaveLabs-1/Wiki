@@ -5,6 +5,10 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * [Versiones de Herramientas](#Herramientas)
 * [Versiones de Navegadores](#Navegadores)
 * [Versiones de Sistemas Operativos](#Sistemas)
+* [Versiones de Lenguajes](#Lenguajes)
+* [Versiones de BackEnd FrameWork](#BackEnd_FrameWork)
+* [Versiones de Herramientas de FrontEnd](#Herramientas_de_FrontEnd)
+* [Versiones de Gestor de Bases de Datos](#Gestor_de_Bases_de_Datos)
 
 <a id="Herramientas"></a>
 ## Herramientas
@@ -21,6 +25,27 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="Sistemas"></a>
 ## Sistemas Operativos
-* MacOS: High Sierra 10.1.7
-* Ubuntu: 16.04 LTS
-* Windows: Windows 10 1709
+* MacOS: High Sierra 10.1.7+
+* Ubuntu: 16.04 LTS+
+* Windows: Windows 10 1709+
+
+<a id="Lenguajes"></a>
+## Lenguajes
+* Python: 3.4, 3.5 o 3.6
+
+<a id="BackEnd_FrameWork"></a>
+## BackEnd FrameWork
+* Django: 2.0.1+
+
+
+<a id="Herramientas_de_FrontEnd"></a>
+## Herramientas de FrontEnd
+* Bootstrap: v4.0.0
+* React: v16.2.0
+* NodeJs: 8.9.4 LTS
+
+
+<a id="Gestor_de_Bases_de_Datos"></a>
+## Gestor de Bases de Datos
+* PostgreSQL: 10.2
+

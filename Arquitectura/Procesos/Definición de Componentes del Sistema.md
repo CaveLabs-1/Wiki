@@ -17,7 +17,7 @@ No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Preparación |<ul><li>Separar los requerimientos por diferentes módulos que compartan características | Team Member
 2 | Identificación |<ul><li>Identificar los módulos externos al proyecto</li><li>Identificar relaciones entre los módulos</li><li>Identificar limitantes entre los módulos</li></ul>| Encargado de Arquitectura
-3 | Documetación |<ul><li>Documentar relaciones (tener actores definidos y tener el diagrama de los componentes con su relaciones)</li></ul>| Team Member
+3 | Documetación |<ul><li>Llenar el [Linguine](https://docs.google.com/document/d/1USG0KzOqV7U5UHgWiQ0vZeb_cY74DBZ6ybxOfk-AR0A/edit?usp=sharing) (tener actores definidos y tener el diagrama de los componentes con su relaciones)</li></ul>| Team Member
 
 ## Plan de implementación
 

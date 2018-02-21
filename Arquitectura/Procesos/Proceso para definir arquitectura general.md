@@ -8,7 +8,7 @@ Objetivo| Define la arquitectura de un modulo
 Métricas utilizadas | ...
 Criterios de entrada | Necesidad
 Definir políticas y estándares | Definir políticas según el componente
-Salidas del proceso | Solución a usarse
+Salidas del proceso | Solución óptima
 Criterios de salida | Debe de ser el más *ad hoc* a la necesidad
 
 
