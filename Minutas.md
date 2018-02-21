@@ -31,12 +31,12 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 ## Minutas Libélulas
 
 ### Minutas Cliente
-* [Minuta del 7 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/Mariana-Subir-minutas-libelulas/Minutas/Libelulas/Cliente/Minuta%20del%207%20de%20Febrero%202018.pdf)
-* [Minuta del 15 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/Mariana-Subir-minutas-libelulas/Minutas/Libelulas/Cliente/Minuta%20del%2015%20de%20Febrero%202018.pdf)
-* [Minuta del 19 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/Mariana-Subir-minutas-libelulas/Minutas/Libelulas/Cliente/Minuta%2019%20de%20Febrero%202018.pdf)
+* [Minuta del 7 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%20del%207%20de%20Febrero%202018.pdf)
+* [Minuta del 15 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%20del%2015%20de%20Febrero%202018.pdf)
+* [Minuta del 19 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%2019%20de%20Febrero%202018.pdf)
 
 ### Minutas Equipo
-* [Minuta del 21 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/Mariana-Subir-minutas-libelulas/Minutas/Libelulas/Equipo/21%20de%20febrero%202018.pdf)
+* [Minuta del 21 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Equipo/21%20de%20febrero%202018.pdf)
 
 <a id="Pan"></a>
 ## Minutas Pan Q Ayuda
