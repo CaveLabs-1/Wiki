@@ -8,7 +8,7 @@
 
 <a id="normas"></a>
 ## Normas de Calidad
- * ### [Normas para aseguramiento de calidad en elaboración de procesos, iteraciones y US/Casos de Uso](https://docs.google.com/document/d/1bFi8zRQ5FdF-D5_hTF0LykabGPjU3cvvqlUWwcx4p0I/edit)
+ * ### [Normas para aseguramiento de calidad en elaboración de procesos, iteraciones y US](https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md)
 <a id="procedimientos"></a>
 
 ## Plantilla para Procedimientos
