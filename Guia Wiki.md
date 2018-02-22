@@ -16,6 +16,8 @@ El propósito de esta guía es que cualquier miembro del equipo de CaveLabs sea 
 
 * [Bueno ahora ya se agregar imágenes pero ¿Que hago con las minutas?](#Minutas)
 
+* [¿Por qué git y no drive?](#Git)
+
 <a id="Wiki"></a>
 ## ¿Qué es y cómo se come una Wiki?
 
@@ -103,6 +105,10 @@ Todas las minutas deben de tener el siguiente nombre "Minuta Fecha" donde Fecha 
 
 Después debe de haber un link en el archivo llamado “Minutas.md”, encontrado en el root de la wiki, en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales", lo mismo sucede con los formatos utilizados para las minutas.
 
+## ¿Por qué git y no drive?
+Porque git te permite tener un control de los cambios que se han realizado, quién lo hizo y cuándo se realizo. Toda esta información se encuentra en el botón de history que se encuentra en cualquier archivo de git. 
+
+![history](https://image.prntscr.com/image/6wG8dwR0Te22gdfV7ehfgQ.png)
 
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
