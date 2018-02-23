@@ -13,21 +13,19 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Suplente: Marco Luna
   
 * ### Calidad
-  Manager: Alejandro López
+  Manager: Rodolfo Martínez
   
-  Suplente: Rodolfo Martínez
-  
+  Suplente: José Francisco Monroy
+ 
 * ### Configuración
   Manager: Mariana Pérez
   
   Suplente: David Ramírez
   
-* ### Implementación
-
 * ### Planning
-  Manager: Melannie Torres
+  Manager: Ramón Romero
   
-  Suplente: Ramón Romero
+  Suplente: Melannie Torres
 
 * ### Procesos
   Manager: Mauricio Hernández
@@ -35,7 +33,7 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Suplente: Manuel Flores
 
 * ### Requerimientos
-  Manager: Alejandro Salmón
+  Manager: Alejandro 
   
   Suplente: 
   
@@ -47,5 +45,23 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * Marco Mancha
 * Daniel Amezcua
 
+## CADHU
+* Team Leader: Marco Mancha
+* Product Owner: Alejandro Salmón
+* Architecture Owner: Marco Luna
+* Configuration Manager:
 
-Última edición: @agovc febrero 13, 2018.
+## Libélulas
+* Team Leader: Mariana Pérez
+* Product Owner: Carlos Román
+* Architecture Owner: Iancarlo Romero
+* Configuration Manager:
+
+## Pan Q'Ayuda
+* Team Leader: Melannie Torres (22 de febrero)
+* Product Owner: Manuel Flores (22 de febrero)
+* Architecture Owner: David Ramírez
+* Configuration Manager:
+
+
+Última edición: @agovc febrero 23, 2018.
