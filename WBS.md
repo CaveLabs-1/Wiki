@@ -1,5 +1,5 @@
 # WBS
-Documentación del Work Breakdwon Structure definido en clase.
+Documentación del Work Breakdowon Structure definido en clase.
 
 ## Index
 * [Requerimientos](#Requerimientos)
@@ -41,7 +41,7 @@ Documentación del Work Breakdwon Structure definido en clase.
   * Test harness
   * Módulo de reportes
   * Plan de despliegue
-  * Ambiente en producción
+  * Ambiente en producción
   
 <a id="Pruebas"></a> 
 ## Pruebas
@@ -70,4 +70,4 @@ Documentación del Work Breakdwon Structure definido en clase.
   
 ---
 
-Última edición: @agovc febrero 09, 2018.
+Última edición: @agovc febrero 23, 2018.
