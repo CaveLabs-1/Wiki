@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 1.0
+Versión 1.1
 
 
 <table>
@@ -25,6 +25,7 @@ Versión 1.0
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
       </ul>
     </td>
   </tr>
@@ -40,7 +41,8 @@ Versión 1.0
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md">Flujo de vistas</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
-        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+          <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+          <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
         </ul>
     </td>
   </tr>
@@ -54,6 +56,7 @@ Versión 1.0
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
       </ul>
     </td>
   </tr>
@@ -69,6 +72,7 @@ Versión 1.0
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
       </ul>
     </td>
   </tr>
@@ -83,6 +87,7 @@ Versión 1.0
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
       </ul>
     </td>
   </tr>
@@ -94,7 +99,9 @@ Versión 1.0
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1 | Crear mapa de procesos| Santiago Valencia| | 18/02/18|
+1.0 | Crear mapa de procesos| Santiago Valencia| | 18/02/18|
+1.1 | Adición de Plan de Riesgos | Ian  | | 23/02/18 |
+
 
 
   ## General
