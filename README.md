@@ -19,6 +19,8 @@ Versión 1.0
     <td><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Levantamiento%20de%20Requerimientos.md">Levantamiento de requerimientos</a></td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li>Modificar requerimiento</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
@@ -31,6 +33,8 @@ Versión 1.0
     <td><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Proceso%20para%20definir%20arquitectura%20general.md">Definición de arquitectura</a></td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
+         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md">Arquitectura inicial</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Componentes%20del%20Sistema.md">Componentes del sistema</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md">Flujo de vistas</a></li>
@@ -45,6 +49,8 @@ Versión 1.0
     <td><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Planificacion.md">Planificación</a></td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
@@ -56,6 +62,8 @@ Versión 1.0
     <td>Construcción</td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li>Pruebas</li>
         <li>Verificación</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
@@ -69,6 +77,8 @@ Versión 1.0
     <td>Transición</td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li>Validación</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
