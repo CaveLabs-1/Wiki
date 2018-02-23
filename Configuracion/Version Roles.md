@@ -35,15 +35,14 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * ### Requerimientos
   Manager: Alejandro 
   
-  Suplente: 
   
 ## Equipo SWAT de ambiente de testing
-* Mauricio Hernández
-* Filiberto Vázquez
-* Iancarlo Rosas
-* Santiago Valencia
-* Marco Mancha
-* Daniel Amezcua
+* Mauricio Hernández (13 de febrero)
+* Filiberto Vázquez (13 de febrero)
+* Iancarlo Rosas (13 de febrero)
+* Santiago Valencia (13 de febrero)
+* Marco Mancha (13 de febrero)
+* Daniel Amezcua (13 de febrero)
 
 ## CADHU
 * Team Leader: Marco Mancha
