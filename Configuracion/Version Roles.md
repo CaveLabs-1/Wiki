@@ -13,9 +13,9 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Suplente: Marco Luna
   
 * ### Calidad
-  Manager: Rodolfo Martínez
+  Manager: Rodolfo Martínez
   
-  Suplente: José Francisco Monroy
+  Suplente: José Francisco Monroy
  
 * ### Configuración
   Manager: Mariana Pérez
