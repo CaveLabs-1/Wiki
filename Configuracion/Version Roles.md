@@ -45,10 +45,10 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * Daniel Amezcua (13 de febrero)
 
 ## CADHU
-* Team Leader: Marco Mancha
+* Team Leader: Fily Vázquez (23 de febrero)
 * Product Owner: Alejandro Salmón
-* Architecture Owner: Marco Luna
-* Configuration Manager:
+* Architecture Owner: Marco Mancha (23 de febrero)
+* Configuration Manager: Luis Rodríguez (23 de febrero)
 
 ## Libélulas
 * Team Leader: Mariana Pérez
