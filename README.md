@@ -105,6 +105,10 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 
 
   ## General
+  * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
+    Lista de todos los resultados de las auditorias realizadas por el departamento
+  * #### [CaveLabs Academy](https://github.com/CaveLabs-1/Wiki/blob/master/Academy.md):
+    Lista de materiales usados por CaveLabs para que todos aprendan
   * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
   * #### [Lista de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Versiones%20Herramientas.md) :
@@ -115,7 +119,6 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
     Lista de las minutas realizadas por el departamento
   * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
     Documentación del Work Breakdwon Structure definido en clase.
-  
 --
 
 
