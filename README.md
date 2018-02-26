@@ -26,6 +26,7 @@ Versión 1.2
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md">Mejora de Procesos</li>
       </ul>
     </td>
   </tr>
@@ -43,6 +44,7 @@ Versión 1.2
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
           <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
+          <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md">Mejora de Procesos</li>
         </ul>
     </td>
   </tr>
@@ -58,6 +60,7 @@ Versión 1.2
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md">Mejora de Procesos</li>
       </ul>
     </td>
   </tr>
@@ -75,6 +78,7 @@ Versión 1.2
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md">Mejora de Procesos</li>
       </ul>
     </td>
   </tr>
@@ -90,6 +94,7 @@ Versión 1.2
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Cambios.md">Cambiar versión</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md">Calidad</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/Riesgos/Procesos/Plan_de_Riesgos.md">Plan de Riesgos</li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md">Mejora de Procesos</li>
       </ul>
     </td>
   </tr>
@@ -104,6 +109,7 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 1.0 | Crear mapa de procesos| Santiago Valencia| | 18/02/18|
 1.1 | Adición de Plan de Riesgos | Ian  | | 23/02/18 |
 1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | | 26/02/18 |
+1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | | 26/02/18 |
 
 
 
