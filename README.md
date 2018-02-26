@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 1.1
+Versión 1.2
 
 
 <table>
@@ -51,6 +51,7 @@ Versión 1.1
     <td><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Planificacion.md">Planificación</a></td>
     <td>
       <ul>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/PlanIteraci%C3%B3n.md">Planificación de la iteración</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md">Versionar elemento de configuración</a></li>
@@ -65,6 +66,7 @@ Versión 1.1
     <td>Construcción</td>
     <td>
       <ul>
+        <li><a href="https://docs.google.com/spreadsheets/d/1R8L9a-ujOteCezdlZ_pRg9uxfuB2eIKZjW0UA2jFAAA/edit?usp=sharing">Practicas para Entregar Ítem de Trabajo</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li>Pruebas</li>
@@ -101,6 +103,7 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1.0 | Crear mapa de procesos| Santiago Valencia| | 18/02/18|
 1.1 | Adición de Plan de Riesgos | Ian  | | 23/02/18 |
+1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | | 26/02/18 |
 
 
 
