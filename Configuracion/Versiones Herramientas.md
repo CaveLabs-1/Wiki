@@ -35,13 +35,12 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="BackEnd_FrameWork"></a>
 ## BackEnd FrameWork
-* Django: 2.0.1+
+* Django: 2.0.2
 
 
 <a id="Herramientas_de_FrontEnd"></a>
 ## Herramientas de FrontEnd
 * Bootstrap: v4.0.0
-* React: v16.2.0
 * NodeJs: 8.9.4 LTS
 
 
