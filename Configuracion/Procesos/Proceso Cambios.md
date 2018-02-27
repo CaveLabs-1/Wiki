@@ -19,7 +19,7 @@ No. de Fase | Fase | Actividades | Encargado
 2 | Validación | Validar los cambios y subirlo a la Wiki| CM
 
 ## Plan de implementación
-2. Avisar en Slack del cambio.
+1. Avisar en Slack del cambio.
 
 
 
