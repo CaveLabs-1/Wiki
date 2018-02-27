@@ -3,9 +3,9 @@
 Versión 1.0
 
 
-[]() | []()  
---|--
-Objetivo| Gestionar los requisitos de los productos y los componentes de producto del proyecto, y asegurar la alineación entre esos requisitos, y los planes y los productos de trabajo del proyecto.
+[]() | []()
+---|---
+Objetivo | Gestionar los requisitos de los productos y los componentes de producto del proyecto, y asegurar la alineación entre esos requisitos, y los planes y los productos de trabajo del proyecto.
 Métricas utilizadas | <ul><li>Diferencia entre requerimientos iniciales y requerimientos finales</li> <li>Número de requerimientos modificados</li></ul>
 Criterios de entrada | <ul><li>Información cruda de la problemática</li> <li>Plantilla Matriz de Requerimientos</li></ul>
 Definir políticas y estándares | <ul><li>La información derivada de los S.H. será obtenida por el Product Owner</li> <li>Se deberá seguir la guia de juntas con clientes para obtener la información necesaria con la mayor eficiencia</li> <li>Usar guía para Process Flow Diagram</li></ul>
