@@ -15,7 +15,7 @@ Criterios de salida | Versión cambiada aprobada por el CM (Configuration Manage
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Identificación | Identificar cual es la línea base que desea ser modificada con respecto a la [guía de línea base] | Team member
+1 | Identificación | Identificar cual es la línea base que desea ser modificada con respecto a la [guía de configuracion](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Team member
 2 | Validación | Validar los cambios y subirlo a la Wiki| CM
 
 ## Plan de implementación
