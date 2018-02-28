@@ -17,6 +17,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * Slack: 3.0.5
 * Atom: 1.24.0
 * PyCharm: 2017.3.3
+* GitKraken: 3.3.4
 
 <a id="Navegadores"></a>
 ## Navegadores
@@ -44,7 +45,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 ## Herramientas de FrontEnd
 * Bootstrap: v4.0.0
 * NodeJs: 8.9.4 LTS
-
+* Materialize: 1.0.0
 
 
 <a id="Gestor_de_Bases_de_Datos"></a>
