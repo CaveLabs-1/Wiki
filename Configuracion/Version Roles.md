@@ -59,8 +59,8 @@ En este documento se encontraran las personas responasable de cada rol del depar
 ## Pan Q'Ayuda
 * Team Leader: Melannie Torres (22 de febrero)
 * Product Owner: Manuel Flores (22 de febrero)
-* Architecture Owner: David Ramírez
-* Configuration Manager:
+* Architecture Owner: Daniel Amezcua  (22 de febrero)
+* Configuration Manager: David Ramirez (22 de febrero)
 
 
 Última edición: @agovc febrero 23, 2018.
