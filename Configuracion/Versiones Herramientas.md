@@ -18,6 +18,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * Atom: 1.24.0
 * PyCharm: 2017.3.3
 * GitKraken: 3.3.4
+* Git: 2.7.4
 
 <a id="Navegadores"></a>
 ## Navegadores
