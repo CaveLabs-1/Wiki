@@ -39,4 +39,4 @@ Versión 1.0
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Creación y Llenado de Documento | Rodolfo Martínez | . | 2/21/2018
+1.1 | Actualizar normas | Rodolfo Martínez | . | 2/28/2018
