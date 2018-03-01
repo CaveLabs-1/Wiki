@@ -1,5 +1,5 @@
 # Normas de Calidad
-Versión 1.0
+Versión 1.1
 
 
 ## Índice
