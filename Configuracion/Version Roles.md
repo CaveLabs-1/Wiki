@@ -8,9 +8,9 @@ En este documento se encontraran las personas responasable de cada rol del depar
 
 ## SEPG
 * ### Arquitectura
-  Manager: David Ramírez
+  Manager: Marco Luna
   
-  Suplente: Marco Luna
+  Suplente: Edgar Iancarlo
   
 * ### Calidad
   Manager: Rodolfo Martínez
