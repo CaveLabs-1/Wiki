@@ -19,7 +19,7 @@ No. de Fase | Fase | Actividades | Encargado
 2 | Evaluación |<ul><li>Evaluar las soluciones alternativas propuestas</li><li>Aprobar Las soluciones alternativas necesarias</li><li>Validar que la solución alternativa es la correcta</li></ul>| Encargado de Arquitectura
 3 | Diseño | <ul><li>Determinar las vistas que se utilizarán para documentar</li><li>Basar las descripciones de diseño detallado en los requisitos asignados a los componentes de producto, a la arquitectura y a los diseños de más alto nivel.</li><li>Definir los criterios de la interfaz (en caso de aplicar)</li><li> Identificar las interfaces asociadas con otros componentes de producto</li><ul>
 4 | Implementación | <ul><li>Usar métodos eficaces para implementar los componentes de producto</li><li>Usar los estándares los criterios</li><li>Realizar revisiones de los componentes de producto seleccionados</li><li>Realizar pruebas unitarias del componente de producto según sea apropiado</li></ul> | Architecture Owner
-5 | Documentación | <ul><li>Documentar según el modulo</li><li> Documentarel paquete de datos técnico (Technology Stack)</li><li>Documentar los diseños de la interfaz seleccionados y el análisis razonado de la selección.</li></ul> | Team Member
+5 | Documentación | <ul><li>Documentar según el modulo</li><li> Documentar el paquete de datos técnico (Technology Stack)</li><li>Documentar los diseños de la interfaz seleccionados y el análisis razonado de la selección.</li></ul> | Team Member
 
 ## Plan de implementación
 
