@@ -51,10 +51,10 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * Configuration Manager: Luis Rodríguez (23 de febrero)
 
 ## Libélulas
-* Team Leader: Mariana Pérez
-* Product Owner: Carlos Román
-* Architecture Owner: Iancarlo Romero
-* Configuration Manager:
+* Team Leader: Ramon Romero (23 de febrero)
+* Product Owner: Carlos Román (19 de enero)
+* Architecture Owner: Alejandro Lopez (23 de febrero)
+* Configuration Manager: Mariana Perez (23 de febrero)
 
 ## Pan Q'Ayuda
 * Team Leader: Melannie Torres (22 de febrero)
