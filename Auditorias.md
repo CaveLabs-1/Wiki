@@ -5,7 +5,7 @@ En este documento se encontrarán todos los resultados de las auditorias realiza
 * [Pan Q Ayuda](#Pan)
 * [CADHU](#CADHU)
 * [Libélulas](#Libelulas)
-* [Planificación de Iteración: Kanban](#Planificación de Iteración: Kanban)
+* [Planificación de Iteración: Kanban](#Kanban)
 
 ## Pan Q Ayuda
 ### Configuración
@@ -17,5 +17,5 @@ En este documento se encontrarán todos los resultados de las auditorias realiza
 ## Libélulas
 ### Configuración
 
-## Planificación de Iteración: Kanban
-* (5 de marzo de 2018)[https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv]
+## Kanban
+* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
