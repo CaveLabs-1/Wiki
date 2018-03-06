@@ -2,7 +2,7 @@
 En este documento se encontraran las personas responasable de cada rol del departamento de CaveLabs.
 
 ## Managers de Projecto
-  Hugo Torres
+  Valter Nuñez
   
   Santiago Valencia
 
@@ -62,5 +62,4 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * Architecture Owner: Daniel Amezcua  (22 de febrero)
 * Configuration Manager: David Ramirez (22 de febrero)
 
-
-Última edición: @agovc febrero 23, 2018.
+Última edición: @vtrs marzo 6, 2018.
