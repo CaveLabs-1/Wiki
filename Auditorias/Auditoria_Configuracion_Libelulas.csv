@@ -1,0 +1,23 @@
+Auditorías de Configuración,,,,,
+Fecha:,1:20 p.m.,,,,
+Encargado:,Daniel Jesús Amezcua Sánchez,,,,
+,,,,,
+,,,,,
+Actividad,Hora inicio,Tiempo estimado,Hora fin,Tiempo real,Errores
+Checar que la documentación realizada este en el repositorio correspondiente y sección correspondiente,13:15,10 minutos,13:22,7 minutos,La documentación se encuentra en dos repositorios: Libelulas y Libelulas-Wiki. Definir cuál tendrá la documentación actualizada y eliminar la redundante.
+Checar que los documentos  subidos siga los estándares establecidos,13:24,20 minutos,13:43,19 minutos,Flujo de vistas y arquitectura inicial: faltan datos en la portada. Definición de arqtuiectura:hay que incluir el MER n este documento
+Checar que los documentos que estén en el repositorio sean las versiones más actualizadas,13:45,15 minutos,13:55,10 minutos,La matriz de requerimientos no está actualizada: la que tienen en el drive es diferente a la de la wiki. La matriz de trazabilidad no está actualizada.Definición de arquitectura inicial no está actualizada.
+Checar que se está siguiendo el estándar de no trabajar en develop directamente,13:56,2 minuto,13:57,2 minutos,
+"Checar que el equipo tenga la versión de herramientas que vienen en la wiki, y si no esta en la wiki, versionarlo",13:58,20 minutos,13:59,1 minuto,No están especificadas en la Wiki las versiones de las tecnologías a utilizar.
+,,,,,
+,,,,,
+Documentos a revisar:,Libéuluas,,,,
+* Definición del proyecto,Sí,,,,
+*Propuesta de Proyecto,Sí,,,,
+* Matriz de requerimientos,Sí,,,,
+* Matriz de trazabilidad,Sí,,,,
+* Riesgos,Sí,,,,
+* Componentes del sistema,Sí,,,,
+* Flujo de vistas,Sí,,,,
+* Arquitectura inicial,Sí,,,,
+* Estimación de function points,No,,,,
