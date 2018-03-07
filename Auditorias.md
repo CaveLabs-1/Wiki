@@ -19,5 +19,9 @@ En este documento se encontrarán todos los resultados de las auditorias realiza
 
 ## Kanban
 * [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
+
 ## Linguine
-* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/auditoria_linguine.csv)
+* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/auditoria_linguine.csv)
+
+## Flujo de vistas y Arquitectura inicial
+* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditoria_Enrie.csv%20-%20auditoria_linguine.csv.csv)
