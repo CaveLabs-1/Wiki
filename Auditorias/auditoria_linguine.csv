@@ -1,0 +1,28 @@
+Auditoria del Linguine,,,,
+Fecha:,7/3/18,,,
+Encargado:,Ian Romero,,,
+,,,,
+,,,,
+Actividad ,Hora inicio,Tiempo estimado,Hora fin,Tiempo real
+Checar que el docuemento se encuentre en el repo,15:15,5 min,15:17,2 min
+Checar que  el documento tenga definidos los componetes,15:17,10 min,15:25,8 min
+Checar que los modulos tengan las historias de usuario de acuerdo a sus componentes,15:25,10 min,15:30,5 min
+"Checar que tengan las relaciones/limitantes entre los componentes:
+",15:30,10 min,15:37,7 min
+Checar que esten definidos los actores del sistema.,15:37,5 min,15:40,3 min
+Bitacora llenada,15:40,5 min,15:43,3 min
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Observaciones,,,,
+Pan,,,,
+"En la definicion de modulos tienen historias de usuario que no se encuentran en ningun modulo (48,49,50,51,52,53) pues es posible que este sea otro modulo",,,,
+Libelulas,,,,
+"En la definicion de modulos falta agrewgar las historias de usuario a algun modulo : (4,28,46)",,,,
+"En la parte de ralaciones, esta mal llenada pues no indican que componentes son ni que realcion o restricciones tiene",,,,
+Bitacora tiene un renglon no llenado,,,,
+CADHU,,,,
+En definicion de modulos tienen mas historias de usuario que en su matriz (44 y 45) ,,,,
