@@ -114,6 +114,8 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 
 
   ## General
+  * #### [Asistencias](https://drive.google.com/open?id=1-PlNH_aFjIOZEFwT5u8G7qJLZWaiHsBdNgrNcYpM8NI):
+    Lista de asistencias para los módulos de clases en el semestre i.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
   * #### [CaveLabs Academy](https://github.com/CaveLabs-1/Wiki/blob/master/Academy.md):
