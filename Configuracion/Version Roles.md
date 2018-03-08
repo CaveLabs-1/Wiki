@@ -2,7 +2,7 @@
 En este documento se encontraran las personas responasable de cada rol del departamento de CaveLabs.
 
 ## Managers de Projecto
-  Hugo Torres
+  Valter Núñez
   
   Santiago Valencia
 
