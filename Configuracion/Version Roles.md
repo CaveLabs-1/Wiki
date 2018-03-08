@@ -1,7 +1,7 @@
 # Versión de los Roles
 En este documento se encontraran las personas responasable de cada rol del departamento de CaveLabs.
 
-## Managers de Projecto
+## Managers de Proyecto
   Valter Núñez (28 de febrero)
   
   Mauricio Hernández (5 de marzo)
@@ -12,6 +12,8 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * ### Mediciones y Análisis
   Manager: Santiago Valencia (8 de marzo)
   
+* ### Monitoreo y Control del Proyecto
+  Manager: -
   
 * ### Arquitectura
   Manager: Marco Luna
