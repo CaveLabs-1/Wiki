@@ -22,7 +22,7 @@ Versión 1.1
 <a id="US"></a>
 ## User Stories
 
-1. Crear la plantilla de validación. Solo debe de existir una por proyecto. ([Link a plantilla](https://docs.google.com/spreadsheets/d/1Sqc37nXJkPJiw0T0BJ-GhtfTWmNsYuW5yb1orBni9XQ/edit#gid=0))
+1. Crear la plantilla de validación. Solo debe de existir una por proyecto. Además, se asignará un encargado por equipo el cual se asegurará del uso apropiado de esta.  ([Link a plantilla](https://docs.google.com/spreadsheets/d/1Sqc37nXJkPJiw0T0BJ-GhtfTWmNsYuW5yb1orBni9XQ/edit#gid=0))
 1. Llenar la plantilla con los ID’s de las US.
 1. Añadir campos a la plantilla de acuerdo al metodo de desarrollo del equipo.
 1. Evaluar si se han cumplido todos los rubros. (Asignar una x si cumple, dejar vacio de lo contrario)
