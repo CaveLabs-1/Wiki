@@ -25,15 +25,15 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 * [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
 * [Roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
 * [Documentación de cada proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md)
- * Definición del proyecto
- * Propuesta del Proyecto
- * Matriz de requerimientos
- * Matriz de trazabilidad
- * Riesgos
- * Componentes del sistema
- * Flujo de vistas
- * Arquitectura inicial
- * Estimación de function points
+  * Definición del proyecto
+  * Propuesta del Proyecto
+  * Matriz de requerimientos
+  * Matriz de trazabilidad
+  * Riesgos
+  * Componentes del sistema
+  * Flujo de vistas
+  * Arquitectura inicial
+  * Estimación de function points
  
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
