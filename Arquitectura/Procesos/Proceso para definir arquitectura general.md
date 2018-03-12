@@ -1,5 +1,5 @@
 # Definición de componente de Arquitectura
-Versión 1.0
+Versión 1.5
 
 
 []() | []()  
