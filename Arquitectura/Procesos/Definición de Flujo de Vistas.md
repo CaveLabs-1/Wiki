@@ -15,7 +15,7 @@ Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagr
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Definición |<ul><li>Definir número de vistas requeridas</li><li>Definir tipo de diagrama a usar (alto vs bajo nivel)</li><li></li></ul>| Encargado de Arquitectura
+1 | Definición |<ul><li>Definir número de vistas requeridas</li><li>Definir tipo de diagrama a usar (alto vs bajo nivel)</li></ul>| Encargado de Arquitectura
 2 | Diseño |<ul><li>Diseñar vistas ([Ejemplo de Vistas](http://tecnologiasweb.jsenso.es/wp-content/uploads/2015/06/full20.jpg))</li><li>Diseñar relaciones entre las vistas</li><li>Ejecutar el [Proceso de Arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Proceso%20para%20definir%20arquitectura%20general.md) para definir el patron de diseño a usarse y documentar el diagrama de despliegue</li></ul>| Encargado de Arquitectura
 3 | Validación |<ul><li>Validar los diagramas y el flujo con el stakeholder</li></ul> | Product Owner
 4 | Documetación |<ul><li>Llenar [Ernie](https://docs.google.com/document/d/1zsnzZnGNzLkD2YsUQFzgOTRIssyJqkFWtrK2SylG8EM/edit?usp=sharing) y mantener los diagramas con el estándar UML</li><li>Documentar en Ernie las decisiones claves (es decir, efecto significativo sobre coste, calendario o rendimiento técnico) tomadas o definidas,incluyendo su análisis razonado.</li></ul>| Team Member
