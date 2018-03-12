@@ -32,5 +32,5 @@ incluyendo su análisis razonado.</li></ul>| Team Member
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Creación y Llenado de Documento | David Ramirez | . | 2/2/2018
+1.0 | Creación y Llenado de Documento | David Ramirez y Marco Luna | . | 2/2/2018
   
