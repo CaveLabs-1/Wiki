@@ -1,6 +1,6 @@
 
 # Proceso de Plan de Riesgos (RSKM)
-Versión 1.0
+Versión 1.1
 
 
 ## Planeación
