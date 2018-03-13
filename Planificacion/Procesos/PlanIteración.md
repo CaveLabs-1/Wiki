@@ -19,7 +19,12 @@ Criterios de salida | Work Item Stack actualizado y compromiso de los integrante
 1. Se junta todo el equipo para planear iteración.
 2. Hay consentimiento de todos los integrantes.
 
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1.0 | Creación | Santiago Valencia | Mauricio Hernandez | 26 Feb 2017
 
 
 
-Última edición: @agovc febrero 26, 2018.
+
+Última edición: @agovc marzo 13, 2018.
