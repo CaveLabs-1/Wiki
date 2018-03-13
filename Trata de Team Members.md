@@ -1,5 +1,5 @@
 # Proceso Trata de Team Members
-Versión 1.0
+Versión 1.1
 
 
 []() | []()
@@ -14,7 +14,7 @@ Criterios de salida | Rotación de team members del departamento.
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Rotación de team members del departamento | El Team Leader deberán comunicar a los demás Team Leaders y Program Managers que existe una necesidad en el equipo. | Product owner
+1 | Rotación de team members del departamento | El Team Leader o Program Manager deberán comunicar a los demás Team Leaders y Program Managers que existe una necesidad en el equipo. | Team Leader/Program Manager
 2 | Evaluar la necesidad | Los Program Managers y Team Leaders analizarán la necesidad, determinando de forma anticipada si es una necesidad que vaya más allá de un posible bajo rendimiento del equipo, evaluando su velocidad, esfuerzo y progreso. | Program Managers y Team Leaders
 3 | Identificar a los team members | Se deberán evaluar y seleccionar a los Team Members (de todo el departamento) que sean aptos para cubrir la necesidad que presenta el equipo en cuestión, tomando en cuenta su impacto sobre el equipo en el que actualmente se encuentra. | Program Managers y Team Leaders
 4 | Comentar el cambio / Negociación | Se citarán a todos los involucrados en el posible cambio, comentando la situación y conociendo de igual forma su punto de vista con respecto al movimiento.  | Program Managers, Team Leader y Team Members Preseleccionados
@@ -31,6 +31,7 @@ No. de Fase | Fase | Actividades | Encargado
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Mauricio Hernández | - | 13 Mar 2018
+1.1| Modificación del documento | Mauricio Hernández | - | 13 Mar 2018
 
 
 
