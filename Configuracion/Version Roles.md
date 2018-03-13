@@ -47,9 +47,11 @@ En este documento se encuentra el historial de todos los roles del departamento.
   * Fily Vázquez (23 de febrero - presente)
   * Marco Mancha (19 de enero - 23 de febrero)
 * ### Product Owner
-  * Alejandro Salmón (19 de enero - presente)
+  * Marco Luna (13 de marzo - presente)
+  * Alejandro Salmón (19 de enero - 13 de marzo)
 * ### Architecture Owner
   * Marco Mancha (23 de febrero - presente)
+  * Marco Luna (19 de enero - 23 de febrero)
 * ### Configuration Manager
   * Luis Rodríguez (23 de febrero - presente)
 
