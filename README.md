@@ -70,6 +70,7 @@ Versión 1.3
     <td>
       <ul>
         <li><a href="https://docs.google.com/spreadsheets/d/1R8L9a-ujOteCezdlZ_pRg9uxfuB2eIKZjW0UA2jFAAA/edit?usp=sharing">Practicas para Entregar Ítem de Trabajo</a></li>
+        <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md">Cierre de Iteración</li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md">Cambio de Roles</a></li>
         <li><a href="https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md">Proceso de procesos</a></li>
         <li>Pruebas</li>
@@ -104,12 +105,14 @@ Versión 1.3
 </table>
 
 ## Bitácora
-No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
-------------|------|-------------|-----------|-----------
-1.0 | Crear mapa de procesos| Santiago Valencia| | 18/02/18|
-1.1 | Adición de Plan de Riesgos | Ian  | | 23/02/18 |
-1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | | 26/02/18 |
-1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | | 26/02/18 |
+No. de Versión | Cambio | Autor | Fecha de cambio
+------------|------|-------------|-----------
+1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
+1.1 | Adición de Plan de Riesgos | Ian  | 23/02/18 |
+1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
+1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
+1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
+1.3 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
 
 
 
