@@ -1,6 +1,6 @@
 
 # Proceso para cambiar versión de línea base
-Versión 1.0
+Versión 1.1
 
 
 []() | []()  
@@ -21,6 +21,12 @@ No. de Fase | Fase | Actividades | Encargado
 ## Plan de implementación
 1. Avisar en Slack del cambio.
 
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1 | Creación | Mariana | Mauricio Hernandez | 31 Ene 2018
+1.1 | Agregar Bitácora | Mariana | | 13 Mar 2018
 
 
-Última edición: @pirty6 febrero 13, 2018.
+
+Última edición: @pirty6 marzo 13, 2018.
