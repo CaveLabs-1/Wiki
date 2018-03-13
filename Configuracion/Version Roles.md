@@ -13,7 +13,7 @@ En este documento se encontraran las personas responasable de cada rol del depar
   Manager: Santiago Valencia (8 de marzo)
   
 * ### Monitoreo y Control del Proyecto
-  Manager: -
+  Manager: Filiberto Vázquez (8 de marzo)
   
 * ### Arquitectura
   Manager: Marco Luna
@@ -71,4 +71,4 @@ En este documento se encontraran las personas responasable de cada rol del depar
 * Configuration Manager: David Ramirez (22 de febrero)
 
 
-Última edición: @agovc febrero 23, 2018.
+Última edición: @filyv marzo 8, 2018.
