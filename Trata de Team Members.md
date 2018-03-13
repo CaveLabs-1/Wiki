@@ -18,7 +18,7 @@ No. de Fase | Fase | Actividades | Encargado
 2 | Evaluar la necesidad | Los Program Managers y Team Leaders analizarán la necesidad, determinando de forma anticipada si es una necesidad que vaya más allá de un posible bajo rendimiento del equipo, evaluando su velocidad, esfuerzo y progreso. | Program Managers y Team Leaders
 3 | Identificar a los team members | Se deberán evaluar y seleccionar a los Team Members (de todo el departamento) que sean aptos para cubrir la necesidad que presenta el equipo en cuestión, tomando en cuenta su impacto sobre el equipo en el que actualmente se encuentra. | Program Managers y Team Leaders
 4 | Comentar el cambio / Negociación | Se citarán a todos los involucrados en el posible cambio, comentando la situación y conociendo de igual forma su punto de vista con respecto al movimiento.  | Program Managers, Team Leader y Team Members Preseleccionados
-5 | Rotación | Se formalizará la rotación de los integrantes de los equipos | Program Managers y Team Leaders
+5 | Rotación | Se formalizará la rotación de los integrantes de los equipos | Program Managers
 
 ## Plan de implementación
 1. Se comentará el cambio en el departamento, para hacerlo del conocimiento de todos
@@ -31,7 +31,7 @@ No. de Fase | Fase | Actividades | Encargado
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Mauricio Hernández | - | 13 Mar 2018
-1.1| Modificación del documento | Mauricio Hernández | - | 13 Mar 2018
+1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | - | 13 Mar 2018
 
 
 
