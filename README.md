@@ -123,8 +123,8 @@ No. de Versión | Cambio | Autor | Fecha de cambio
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
-  * #### [CaveLabs Academy](https://github.com/CaveLabs-1/Wiki/blob/master/Academy.md):
-    Lista de materiales usados por CaveLabs para que todos aprendan
+  * #### [Código de Comportamiento](https://github.com/CaveLabs-1/Wiki/blob/master/C%C3%B3digo%20de%20Comportamiento.pdf):
+    Reglamento que establece las bases de convivencia y comportamiento del departamento
   * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
   * #### [Lista de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Versiones%20Herramientas.md) :
@@ -133,8 +133,9 @@ No. de Versión | Cambio | Autor | Fecha de cambio
     Lista de roles usados por el departamento.
   * #### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md) :
     Lista de las minutas realizadas por el departamento
-  * ### [Guía de documentación del usuario](https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf)
-  * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
+  * #### [Guía de documentación del usuario](https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf) :
+  Guía que ayudará al departamento a desarrollar el manual de usuario
+  * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
     Documentación del Work Breakdwon Structure definido en clase.
 --
 
