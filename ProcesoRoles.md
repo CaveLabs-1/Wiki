@@ -22,7 +22,12 @@ No. de Fase | Fase | Actividades | Encargado
 1. Avisar a todo el grupo del cambio de rol.
 2. Avisar en Slack del cambio.
 
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1.0 | Creación | Santiago y Hugo | Mauricio Hernandez | 21 Feb 2017
 
 
 
-Última edición: @agovc y @VTRS febrero 21, 2018.
+
+Última edición: @agovc marzo 13, 2018.
