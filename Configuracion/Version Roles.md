@@ -1,74 +1,90 @@
 # Versión de los Roles
-En este documento se encontraran las personas responasable de cada rol del departamento de CaveLabs.
+Versión 1.3
+En este documento se encuentra el historial de todos los roles del departamento.
 
 ## Managers de Proyecto
-  Valter Núñez (28 de febrero)
-  
-  Mauricio Hernández (5 de marzo)
-  
-  Santiago Valencia
+  * Mauricio Hernández (5 de marzo - presente)
+  * Valter Núñez (28 de febrero - presente)
+  * Santiago Valencia (15 de enero - presente)
+  * Hugo Torres (13 de enero - 28 de febrero)
 
 ## SEPG
 * ### Mediciones y Análisis
-  Manager: Santiago Valencia (8 de marzo)
+  * Santiago Valencia (8 de marzo - presente)
   
 * ### Monitoreo y Control del Proyecto
-  Manager: Filiberto Vázquez (8 de marzo)
+  * Filiberto Vázquez (8 de marzo - presente)
   
 * ### Arquitectura
-  Manager: Marco Luna
-  
-  Suplente: Edgar Iancarlo
+  * Marco Luna (28 de febrero - presente)
+  * David Ramírez (13 de enero - 28 de febrero)
   
 * ### Calidad
-  Manager: Rodolfo Martínez
-  
-  Suplente: José Francisco Monroy
+  * Rodolfo Martínez (13 de enero - 28 de febrero)
  
 * ### Configuración
-  Manager: Mariana Pérez
-  
-  Suplente: David Ramírez
+  * Mariana Pérez (13 de enero - presente)
   
 * ### Planning
-  Manager: Ramón Romero
-  
-  Suplente: Melannie Torres
+  * Daniel Amezcua (28 de febrero - presente)
+  * Ramón Romero (13 de enero - 28 de febrero)
 
 * ### Procesos
-  Manager: Mauricio Hernández
-  
-  Suplente: Manuel Flores
+  * Mauricio Hernández (13 de enero - presente)
 
 * ### Requerimientos
-  Manager: Alejandro 
-  
+  * Alejandro Salmón (13 de enero - presente)
   
 ## Equipo SWAT de ambiente de testing
-* Mauricio Hernández (13 de febrero)
-* Filiberto Vázquez (13 de febrero)
-* Iancarlo Rosas (13 de febrero)
-* Santiago Valencia (13 de febrero)
-* Marco Mancha (13 de febrero)
-* Daniel Amezcua (13 de febrero)
+* Mauricio Hernández (13 de enero - presente)
+* Filiberto Vázquez (13 de enero - presente)
+* Iancarlo Rosas (13 de enero - presente)
+* Marco Mancha (13 de enero - presente)
+* Daniel Amezcua (13 de enero - presente)
 
 ## CADHU
-* Team Leader: Fily Vázquez (23 de febrero)
-* Product Owner: Alejandro Salmón
-* Architecture Owner: Marco Mancha (23 de febrero)
-* Configuration Manager: Luis Rodríguez (23 de febrero)
+* ### Team Leader
+  * Fily Vázquez (23 de febrero - presente)
+  * Marco Mancha (19 de enero - 23 de febrero)
+* ### Product Owner
+  * Alejandro Salmón (19 de enero - presente)
+* ### Architecture Owner
+  * Marco Mancha (23 de febrero - presente)
+* ### Configuration Manager
+  * Luis Rodríguez (23 de febrero - presente)
 
 ## Libélulas
-* Team Leader: Ramon Romero (23 de febrero)
-* Product Owner: Carlos Román (19 de enero)
-* Architecture Owner: Alejandro Lopez (23 de febrero)
-* Configuration Manager: Mariana Perez (23 de febrero)
+* ### Team Leader
+  * Marco Mancha (13 de marzo - presente)
+  * Ramon Romero (23 de febrero - 13 de marzo)
+* ### Product Owner
+  * Francisco Monroy (13 de marzo - presente)
+  * Carlos Román (19 de enero - 13 de marzo)
+* ### Architecture Owner
+  * Alejandro Lopez (23 de febrero - presente)
+  * Iancarlo Romero (19 de enero - 23 de febrero)
+* ### Configuration Manager
+  * Mariana Perez (23 de febrero - presente)
 
 ## Pan Q'Ayuda
-* Team Leader: Melannie Torres (22 de febrero)
-* Product Owner: Manuel Flores (22 de febrero)
-* Architecture Owner: Daniel Amezcua  (22 de febrero)
-* Configuration Manager: David Ramirez (22 de febrero)
+* ### Team Leader
+  * Melannie Torres (22 de febrero - presente)
+  * Daniel Amezcua (19 de enero - 23 de febrero)
+* ### Product Owner
+  * Manuel Flores (22 de febrero - presente)
+  * Valter Núñez (19 de enero - 22 de febrero)
+* ### Architecture Owner
+  * Daniel Amezcua (22 de febrero - presente)
+  * David Ramírez (19 de enero - 22 de febrero)
+* ### Configuration Manager
+  * David Ramirez (22 de febrero - presente)
 
+## Bitácora
+No. de versión | Cambio | Autor | Fecha de Cambio
+---------------|--------|-------|-----------------
+1.0 | Creación | Mariana Pérez | 23 Ene 2017
+1.1 | Modicicación de roles | Santiago y Hugo | 26 Ene 2017
+1.2 | Modicicación de roles | Santiago | 23 Feb 2017
+1.3 | Actualización y rotación de los roles | Santiago | 13 Ene 2017
 
-Última edición: @filyv marzo 8, 2018.
+Última edición: @agovc marzo 13, 2018.
