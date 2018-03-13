@@ -134,7 +134,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
   * #### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md) :
     Lista de las minutas realizadas por el departamento
   * #### [Guía de documentación del usuario](https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf) :
-  Guía que ayudará al departamento a desarrollar el manual de usuario
+    Guía que ayudará al departamento a desarrollar el manual de usuario
   * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
     Documentación del Work Breakdwon Structure definido en clase.
 --
