@@ -26,5 +26,10 @@ No. de Fase | Fase | Actividades | Encargado
 <li>Presentarlo al grupo </li>
 <li>Subirlo a los medios adecuados Slack y Wikis</li>
 
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1 | Creación | Mariana, Ian, Manuel, Daniel, Luis y Valter | Mauricio Hernandez | 7 Feb 2018
+1.1 | Modificación | Mariana | |8 Feb 2018
 
-Ultima modificación: @Ian 23 febrero 2018
+Ultima modificación: @Pirty6 13 febrero 2018
