@@ -26,6 +26,6 @@ No. de Fase | Fase | Actividades | Encargado
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1 | Creación | Mariana | Mauricio Hernandez | 7 Feb 2018
-1.1 | Modificación | Mariana | |8 Feb 2018
+1.1 | Modificación | Mariana | |13 Mar 2018
 
 Última edición: @pirty6 marzo 13, 2018.
