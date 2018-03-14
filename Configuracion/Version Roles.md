@@ -94,7 +94,8 @@ En este documento se encuentra el historial de todos los roles del departamento.
   * Melannie Torres
   * Manuel Flores
 * ### Líder de equipo
-  * Melannie Torres (22 de febrero - presente)
+  * Rodolfo Martínez (14 de marzo - presente)
+  * Melannie Torres (22 de febrero - 13 de marzo)
   * Daniel Amezcua (19 de enero - 23 de febrero)
 * ### Dueño del Producto
   * Manuel Flores (22 de febrero - presente)
@@ -113,5 +114,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.2 | Modicicación de roles | Santiago | 23 Feb 2017
 1.3 | Actualización y rotación de los roles | Santiago | 13 Mar 2017
 1.3 | Equipos de trabajo | Mauricio | 13 Mar 2017
+1.3 | Actualización y rotación de los roles | Valter | 14 de Mar 2017
 
-Última edición: @mhsiles marzo 13, 2018.
+Última edición: @valternunez marzo 14, 2018.
