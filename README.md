@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 1.3
+Versión 1.5
 
 
 <table>
@@ -112,7 +112,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
 1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
 1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
-1.3 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
+1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
 
 
 
