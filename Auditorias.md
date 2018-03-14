@@ -15,9 +15,9 @@ En este documento se encontrarán todos los resultados de las auditorias realiza
 ### Configuración
 
 ## Libélulas
+### Configuración
 * [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditoria_Configuracion_Libelulas.csv)
 
-### Configuración
 
 ## Kanban
 * [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
