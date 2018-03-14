@@ -1,5 +1,5 @@
 # Versión de los Roles
-Versión 1.4
+Versión 1.3
 En este documento se encuentra el historial de todos los roles del departamento.
 
 ## Managers de Proyecto
@@ -114,6 +114,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.2 | Modicicación de roles | Santiago | 23 Feb 2017
 1.3 | Actualización y rotación de los roles | Santiago | 13 Mar 2017
 1.3 | Equipos de trabajo | Mauricio | 13 Mar 2017
-1.3 | Actualización y rotación de los roles | Valter | 14 de Mar 2017
+1.3 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2017
 
 Última edición: @valternunez marzo 14, 2018.
