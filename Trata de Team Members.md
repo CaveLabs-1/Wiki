@@ -7,7 +7,7 @@ Versión 1.1
 Objetivo| Identificar al mejor candidato que podrá complementar las áreas de oportunidad del equipo necesitado, sin dejar de lado las necesidades de su equipo actual dentro del departamento de Cavelabs.
 Métricas utilizadas | Velocidad del equipo, porcentaje de avance el momento y horas de esfuerzo.
 Criterios de entrada | Necesidad del equipo.
-Definir políticas y estándares | Utilizar la plantilla [Jean Valjean](https://drive.google.com/open?id=1VWLm8Oy08-ggCznkZK0qtPb46bWb6SNwYWgbUfwgp8o) para analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes
+Definir políticas y estándares | Analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes involucrados en el posible cambio.
 Salidas del proceso | Documento de trata de team members Jean Valjean.
 Criterios de salida | Rotación de team members del departamento.
 
@@ -30,8 +30,9 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-1.0 | Creación | Mauricio Hernández | - | 13 Mar 2018
-1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | - | 13 Mar 2018
+1.0 | Creación | Mauricio Hernández | Valter Núñez | 13 Mar 2018
+1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13 Mar 2018
+1.2| Actualizar proceso | Mauricio Hernández | - | 13 Mar 2018
 
 
 
