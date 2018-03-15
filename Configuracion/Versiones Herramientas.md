@@ -17,6 +17,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * Slack: 3.0.5
 * Atom: 1.24.0
 * PyCharm: 2017.3.3
+* GitKraken: 3.3.4
 
 <a id="Navegadores"></a>
 ## Navegadores
