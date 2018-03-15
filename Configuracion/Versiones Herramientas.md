@@ -49,7 +49,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 ## Herramientas de FrontEnd
 * Bootstrap: v4.0.0
 * NodeJs: 8.9.4 LTS
-
+* Materialize: 1.0.0
 
 
 <a id="Gestor_de_Bases_de_Datos"></a>
