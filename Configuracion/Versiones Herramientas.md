@@ -37,6 +37,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="Lenguajes"></a>
 ## Lenguajes
+* Python: 3.6
 
 
 <a id="BackEnd_FrameWork"></a>
