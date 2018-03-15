@@ -25,6 +25,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 ## Navegadores
 * Chrome: 64.0.3282.186+
 * Opera: 50.0.2762.67+
+* Safari: 11.0.3+
 
 <a id="Sistemas"></a>
 ## Sistemas Operativos
