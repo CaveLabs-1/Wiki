@@ -24,6 +24,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 <a id="Navegadores"></a>
 ## Navegadores
 * Chrome: 64.0.3282.186+
+* Opera: 50.0.2762.67+
 
 <a id="Sistemas"></a>
 ## Sistemas Operativos
