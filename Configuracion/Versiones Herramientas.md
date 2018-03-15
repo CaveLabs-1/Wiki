@@ -14,6 +14,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 ## Herramientas
 * GitHub: GitHub Web
 * Google Drive: Drive Web
+* Slack: 3.0.5
 
 <a id="Navegadores"></a>
 ## Navegadores
