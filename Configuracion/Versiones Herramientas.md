@@ -30,6 +30,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="Sistemas"></a>
 ## Sistemas Operativos
+* MacOS: High Sierra 10.1.7+
 
 
 <a id="Lenguajes"></a>
