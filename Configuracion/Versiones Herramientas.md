@@ -19,6 +19,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 * PyCharm: 2017.3.3
 * GitKraken: 3.3.4
 * Git: 2.7.4
+* AppleGit: 2.14.3
 
 <a id="Navegadores"></a>
 ## Navegadores
