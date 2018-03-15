@@ -32,6 +32,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 ## Sistemas Operativos
 * MacOS: High Sierra 10.1.7+
 * Ubuntu: 16.04 LTS+
+* Windows: Windows 10 1709+
 
 
 <a id="Lenguajes"></a>
