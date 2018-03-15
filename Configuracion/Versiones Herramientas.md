@@ -54,5 +54,5 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="Gestor_de_Bases_de_Datos"></a>
 ## Gestor de Bases de Datos
-
+* PostgreSQL: 10.2
 
