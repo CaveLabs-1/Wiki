@@ -1,5 +1,5 @@
 # Proceso para planear Iteración
-Versión 1.0
+Versión 1.1
 
 
 []() | []()
@@ -12,8 +12,17 @@ Salidas del proceso | Kanban
 Criterios de salida | Work Item Stack actualizado y compromiso de los integrantes
 
 ## Definición de Fases
-
-![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/iteration.png?raw=true)
+No. de Fase | Fase | Actividades | Encargado
+------------|------|-------------|-----------
+1 | Detallar ítems de trabajo | Detallar de manera adelantada ítems de trabajo. | Todo el equipo.
+2 | Planear disponibilidad | Se debe planear la disponibilidad del equipo para trabajar en la iteración. | Todo el equipo.
+3 | Verificar Work item stack  | Verificar que el work item stack se encuentre priorizado, en caso de que no lo esté hay que priorizarlo. | Product owner, team leader y architecture owner.
+4 | Modelar solución | Modelar solución de manera adelantada. | Todo el equipo.
+5 | Descomponer ítem | Descomponer ítem de trabajo en tareas. | Todo el equipo.
+6 | Enrolarse en tareas | Pasar las tareas del work item stack al kanban para enrolarse en las tareas. | Todo el equipo.
+7 | Actualizar estimación | Actualizar la estimación del proyecto para verificar si se pueden incluir más ítems de trabajo. | Product owner, team leader y architecture owner.
+8 | Sanity check | Una vez que no se pueden comprometer a más ítems de trabajo se revisa la sensatez del plan. | Team leader.
+9 | Comprometerse | Comprometerse con el plan de trabajo de la iteración.  | Todo el equipo.
 
 ## Plan de implementación
 1. Se junta todo el equipo para planear iteración.
@@ -23,8 +32,9 @@ Criterios de salida | Work Item Stack actualizado y compromiso de los integrante
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Santiago Valencia | Mauricio Hernandez | 26 Feb 2017
+1.1 | Modificar fases | Santiago Valencia | - | 15 Mar 2017
 
 
 
 
-Última edición: @agovc marzo 13, 2018.
+Última edición: @agovc marzo 15, 2018.
