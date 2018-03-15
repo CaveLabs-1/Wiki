@@ -123,7 +123,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
-  * #### [Código de Comportamiento](https://github.com/CaveLabs-1/Wiki/blob/master/C%C3%B3digo%20de%20Comportamiento.pdf):
+  * #### [Código de Comportamiento](https://github.com/CaveLabs-1/Wiki/blob/master/C%C3%B3digo%20de%20Comportamiento.pdf):
     Reglamento que establece las bases de convivencia y comportamiento del departamento
   * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
