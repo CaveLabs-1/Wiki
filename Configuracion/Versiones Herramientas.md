@@ -42,6 +42,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="BackEnd_FrameWork"></a>
 ## BackEnd FrameWork
+* Django: 2.0.2
 
 
 <a id="Herramientas_de_FrontEnd"></a>
