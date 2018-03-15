@@ -47,6 +47,7 @@ En esta lista se encontrarán las versiones de las herramientas utilizadas por e
 
 <a id="Herramientas_de_FrontEnd"></a>
 ## Herramientas de FrontEnd
+* Bootstrap: v4.0.0
 
 
 
