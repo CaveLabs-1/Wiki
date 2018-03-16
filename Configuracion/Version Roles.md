@@ -1,16 +1,25 @@
 # Versión de los Roles
-Versión 1.3
+Versión 1.6
 En este documento se encuentra el historial de todos los roles del departamento.
 
 ## Managers de Proyecto
   * Mauricio Hernández (5 de marzo - presente)
   * Valter Núñez (28 de febrero - presente)
-  * Santiago Valencia (15 de enero - presente)
+  * Santiago Valencia (15 de enero - 15 de marzo)
   * Hugo Torres (13 de enero - 28 de febrero)
+  
+## Comité de Ética
+  * Manuel Flores (17 de enero - presente)
+  * Melannie Torres (17 de enero - presente)
+  * Santiago Valencia (17 de enero - presente)
+  
+## Encargado de Asistencias
+  * Santiago Valencia (12 de marzo - presente)
 
 ## SEPG
 * ### Mediciones y Análisis
   * Santiago Valencia (8 de marzo - presente)
+  * Melannie Torres (15 de marzo - presente)
   
 * ### Monitoreo y Control del Proyecto
   * Filiberto Vázquez (8 de marzo - presente)
@@ -20,7 +29,7 @@ En este documento se encuentra el historial de todos los roles del departamento.
   * David Ramírez (13 de enero - 28 de febrero)
   
 * ### Calidad
-  * Rodolfo Martínez (13 de enero - 13 de marzo)
+  * Rodolfo Martínez (13 de enero - presente)
  
 * ### Configuración
   * Mariana Pérez (13 de enero - presente)
@@ -109,11 +118,12 @@ En este documento se encuentra el historial de todos los roles del departamento.
 ## Bitácora
 No. de versión | Cambio | Autor | Fecha de Cambio
 ---------------|--------|-------|-----------------
-1.0 | Creación | Mariana Pérez | 23 Ene 2017
-1.1 | Modicicación de roles | Santiago y Hugo | 26 Ene 2017
-1.2 | Modicicación de roles | Santiago | 23 Feb 2017
-1.3 | Actualización y rotación de los roles | Santiago | 13 Mar 2017
-1.3 | Equipos de trabajo | Mauricio | 13 Mar 2017
-1.3 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2017
+1.0 | Creación | Mariana Pérez | 23 Ene 2018
+1.1 | Modicicación de roles | Santiago y Hugo | 26 Ene 2018
+1.2 | Modicicación de roles | Santiago | 23 Feb 2018
+1.3 | Actualización y rotación de los roles | Santiago | 13 Mar 2018
+1.4 | Equipos de trabajo | Mauricio | 13 Mar 2018
+1.5 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2018
+1.6 | Agregar comité de ética y encargado de asistencias | Santiago Valencia | 15 de Mar 2018
 
-Última edición: @valternunez marzo 14, 2018.
+Última edición: @agovc marzo 15, 2018.
