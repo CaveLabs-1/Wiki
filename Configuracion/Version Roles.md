@@ -1,8 +1,8 @@
 # Versión de los Roles
-Versión 1.6
-En este documento se encuentra el historial de todos los roles del departamento.
+Versión 1.7
+En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
-## Managers de Proyecto
+## [Managers de Proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Practicas/ProgramManagers.md)
   * Mauricio Hernández (5 de marzo - presente)
   * Valter Núñez (28 de febrero - presente)
   * Santiago Valencia (15 de enero - 15 de marzo)
@@ -125,5 +125,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.4 | Equipos de trabajo | Mauricio | 13 Mar 2018
 1.5 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2018
 1.6 | Agregar comité de ética y encargado de asistencias | Santiago Valencia | 15 de Mar 2018
+1.7 | Agregar prácticas a seguir de Program Managers | Santiago Valencia | 15 de Mar 2018
 
 Última edición: @agovc marzo 15, 2018.
