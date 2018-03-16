@@ -31,8 +31,8 @@ Versión 1.1
     1. Revisar que se han cumplido los requisitos especificos en su totalidad.
     1. En caso de realizar cambios o correcciones documentarlos en la plantilla y volver a realizar peer review. 
 
-*El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
-*El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
+* El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
+* El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
 
 
 <a id="iteracion"></a>
@@ -44,4 +44,4 @@ Versión 1.1
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.1 | Actualizar normas | Rodolfo Martínez | . | 2/28/2018
+1.2 | Actualizar metodo de trabajo | Rodolfo Martínez | . | 3/16/2018
