@@ -24,11 +24,16 @@ Versión 1.1
 
 1. Crear la plantilla de validación. Solo debe de existir una por proyecto. Además, se asignará un encargado por equipo el cual se asegurará del uso apropiado de esta.  ([Link a plantilla](https://docs.google.com/spreadsheets/d/1Sqc37nXJkPJiw0T0BJ-GhtfTWmNsYuW5yb1orBni9XQ/edit#gid=0))
 1. Llenar la plantilla con los ID’s de las US.
-1. Añadir campos a la plantilla de acuerdo al metodo de desarrollo del equipo.
+1. Añadir campos a la plantilla de acuerdo al metodo de desarrollo del equipo y requisitos especificos para cada task y work item.
 1. Evaluar si se han cumplido todos los rubros. (Asignar una x si cumple, dejar vacio de lo contrario)
-1. Al marcar un rubro:
-    1. Realizar peer review con el fin de verificar.
-    1. En caso de realizar cambios o correcciones documentarlos en la plantilla y repetir el paso 4. 
+1. Al finalizar un task o US inmediatamente se realizara lo siguiente mediante al peer review:
+    1. Revisar que se ha documentado el código. (Comentado)
+    1. Revisar que se han cumplido los requisitos especificos en su totalidad.
+    1. En caso de realizar cambios o correcciones documentarlos en la plantilla y volver a realizar peer review. 
+
+*El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
+*El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
+
 
 <a id="iteracion"></a>
 ## Iteración
