@@ -1,13 +1,10 @@
 # Normas de Calidad
-Versión 1.1
+Versión 1.3
 
 
 ## Índice
 * [Procesos](#procesos)
 * [User Stories](#US)
-* [Iteración](#iteracion)
-
-
 
 <a id="procesos"></a>
 ## Procesos
@@ -34,14 +31,9 @@ Versión 1.1
 * El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
 * El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
 
-
-<a id="iteracion"></a>
-## Iteración
-* Pendiente
-
 ## Bitácora
 
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.2 | Actualizar metodo de trabajo | Rodolfo Martínez | . | 3/16/2018
+1.3 | Actualizar metodo de trabajo | Rodolfo Martínez | . | 3/16/2018
