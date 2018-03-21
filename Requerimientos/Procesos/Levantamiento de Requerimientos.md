@@ -29,13 +29,6 @@ No. de Fase | Fase | Actividades | Área de CMMI
 
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
-------------|------|-------------|-----------|-----------
-1 | Creación del proceso | Alejandro Salmón |  | 11 de marzo de 2018
-1.1 | Modificar proceso | Alejandro Salmón | | 13 de marzo de 2018
-
-
-
-No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.0 | Creación de proceso | Alejandro Salmon | Mauricio Hernandez| 29/ene/2018
 1.1 |Plan de Implementación Complemento de la fase de análisis | Mauricio Hernandez | Valter Nuñez | 1/feb/2018
