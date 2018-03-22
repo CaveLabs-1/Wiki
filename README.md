@@ -22,6 +22,8 @@ Versión 1.6
  
  1.7 [Calidad](https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md)
  
+ 1.8 [Definición de métricas](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
+ 
 
 ## Incepción
 
