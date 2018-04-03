@@ -8,7 +8,7 @@
 ## Libélulas
 - [Estatus de la iteración 1](https://docs.google.com/spreadsheets/d/1cq85GxUR_6Kdl3-aUuQ0JdM7rZDlexoZ3Q49vf_-DVo/edit?usp=drivesdk)
 - [Estatus de la iteración 2](https://docs.google.com/spreadsheets/u/1/d/1yKRF1-2ZvgOv7J7lH26KyEQ1dxmtQoauc_gidgge7kg/edit?usp=drivesdk)
-- Métricas del equipo
+- [Métricas del equipo](https://docs.google.com/document/d/15FL5-Onc2ue-ATft6namNC0rx6FrErrzAoYSuEOvLvI/edit?usp=sharing)
 ## CADHU
 - [Estatus de la iteración 1](https://docs.google.com/spreadsheets/d/1f0BGn505XRNUiGzscuJ3Esy8Qwo6LILVE88FCh6EBjc/edit?usp=sharing)
 - [Estatus de la iteración 2](https://docs.google.com/spreadsheets/d/188aCw6_MmOQE0a07Z95qGh2OF4kFhjQWEkK2BE5Krvo/edit?usp=sharing)
