@@ -12,6 +12,7 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Manuel Flores (17 de enero - presente)
   * Melannie Torres (17 de enero - presente)
   * Santiago Valencia (17 de enero - presente)
+  * Francisco Monroy (22 de marzo - presente)
   
 ## Encargado de Asistencias
   * Santiago Valencia (12 de marzo - presente)
