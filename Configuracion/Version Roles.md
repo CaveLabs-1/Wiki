@@ -60,7 +60,8 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Mauricio Hernández
   * Marco Luna
 * ### Líder de Equipo
-  * Fily Vázquez (23 de febrero - presente)
+  * Luis Rodríguez (2 de abril - presente)
+  * Fily Vázquez (23 de febrero - 2 de abril)
   * Marco Mancha (19 de enero - 23 de febrero)
 * ### Dueño del Producto
   * Marco Luna (13 de marzo - presente)
@@ -126,5 +127,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.5 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2018
 1.6 | Agregar comité de ética y encargado de asistencias | Santiago Valencia | 15 de Mar 2018
 1.7 | Agregar prácticas a seguir de Program Managers | Santiago Valencia | 15 de Mar 2018
+1.8 | Cambio de roles | Filiberto Vázquez | 2 de Abr 2018
 
 Última edición: @agovc marzo 15, 2018.
