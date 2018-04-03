@@ -31,9 +31,19 @@ Versión 1.3
 * El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
 * El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
 
+## Calendarizar tareas
+1.  Al realizar la planeación de la iteración será necesario asignar prioridad a cada historia de usuario y dentro de esta misma, a las diferentes tareas.
+    1. En base a esta prioridad, se planearan fechas para completar cada una de estas tareas dentro del tiempo delimitado de dicha      iteración(respetando la prioridad previamente definida). Esto con fin de asegurar el seguimiento de tanto los tiempos y prioridad planeadas inicialmente.
+ 
+ 
+ 1.  Al encontrar un defecto, este se calendarizara tomando en cuenta lo siguiente:
+        1. Si se estima un tiempo menor a una hora para realizar el defecto encontrado se corregirá en el momento por la misma persona que lo ha encontrado. Se registrará dentro de la bitacora de defectos.
+         1. Si se estima un tiempo mayor a una hora para realizar el defecto encontrado se generará una nueva tarea que corresponde a este mismo. Será necesario darle una prioridad en comparación con el resto de las tareas faltantes y colocarlo con estas añadiendo una fecha para su corrección según su importantcia. De ser necesario, se volvera a planear para las tareas que lo requieran.
+
+
 ## Bitácora
 
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.3 | Actualizar metodo de trabajo | Rodolfo Martínez | . | 3/16/2018
+1.4 | Agregar calendarización para tareas | Rodolfo Martínez | . | 4/02/2018
