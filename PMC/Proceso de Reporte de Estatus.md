@@ -20,8 +20,7 @@ Criterios de salida | Seguimiento del documento de acciones correctivas
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Planeación | Revisar el estatus de presentaciones pasadas. 
-Definir si la solución funcionó o no. Verificar los datos en el reporte de estatus con respecto a los time logs individuales por equipo. Agendar cita con stakeholders y el departamento Generar una presentación con respecto a las métricas de equipo | Team leaders
+1 | Planeación | Revisar el estatus de presentaciones pasadas. Definir si la solución funcionó o no. Verificar los datos en el reporte de estatus con respecto a los time logs individuales por equipo. Agendar cita con stakeholders y el departamento Generar una presentación con respecto a las métricas de equipo | Team leaders
 2 | Presentación | Presentar el reporte de estatus. Generar un documento de retroalimentación. (Minuta) | Team member y secretario asignado en el momento por el PMC Manager
 3 | Mejora | Generar documento de acciones correctivas respecto a la presentación. Agregar las actividades de mejora al calendario del departamento. SEPG verifica el documento de acciones correctivas | Team Leaders y PMC Manager
 
