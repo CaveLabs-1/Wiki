@@ -45,6 +45,10 @@ En este documento se encuentra el historial de todos los roles del departamento 
 * ### Requerimientos
   * Alejandro Salmón (13 de enero - presente)
   
+* ### Riesgos
+  * Filiberto Vázquez (6 de abril - presente)
+  
+  
 ## Equipo SWAT de ambiente de testing
 * Mauricio Hernández (13 de enero - presente)
 * Filiberto Vázquez (13 de enero - presente)
@@ -129,5 +133,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.6 | Agregar comité de ética y encargado de asistencias | Santiago Valencia | 15 de Mar 2018
 1.7 | Agregar prácticas a seguir de Program Managers | Santiago Valencia | 15 de Mar 2018
 1.8 | Cambio de roles | Filiberto Vázquez | 2 de Abr 2018
+1.9 | Agregar rol | Filiberto Vázquez | 7 de Abr 2018
 
 Última edición: @agovc marzo 15, 2018.
