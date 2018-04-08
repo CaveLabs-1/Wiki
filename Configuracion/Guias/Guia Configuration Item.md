@@ -42,4 +42,4 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   
 
 
-Última edición: @pirty6 febrero 22, 2018.
+Última edición: @pirty6 abril 07, 2018.
