@@ -34,6 +34,7 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   * Flujo de vistas
   * Arquitectura inicial
   * Estimación de function points
+  * Plantilla de acciones correctivas
  
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
