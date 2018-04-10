@@ -1,10 +1,11 @@
 # Retroalimentación de planes
 ## Definición de Fases
-Puntos para planes:
--El plan contiene actividades
--Las actividades tienen un tiempo estimado y fecha estimada de término
--Las actividades tienen un encargado
--Los riesgos se incluyen en el plan
+<ul> Puntos para planes:
+  <li> El plan contiene actividades </li>
+  <li> Las actividades tienen un tiempo estimado y fecha estimada de término </li>
+  <li> Las actividades tienen un encargado </li> 
+  <li> Los riesgos se incluyen en el plan </li>
+</ul>
 
 ## Planes
 Nombre del plan | Fecha | Retroalimentación | Tiempo que tardó | No. actividades | Creadores del plan | Calidad | Comentarios adicionales
