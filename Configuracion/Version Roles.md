@@ -31,7 +31,8 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * David Ramírez (13 de enero - 28 de febrero)
   
 * ### Calidad
-  * Rodolfo Martínez (13 de enero - presente)
+  * Rodolfo Martínez (13 de enero - 10 de abril)
+  * Hugo Torres (10 de abril - presente)
  
 * ### Configuración
   * Mariana Pérez (13 de enero - presente)
