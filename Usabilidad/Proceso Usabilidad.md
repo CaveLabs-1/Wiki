@@ -28,6 +28,6 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-1.0 | Creación | Francisco Monroy y Ramón Romero | Marco Mancha | 4 Abril 2018
-1.1 | Plantilla Modificada | Francisco Monroy y Ramón Romero | Marco Mancha | 9 Abril 2018
+1.0 | Creación | Francisco Monroy y Ramón Romero | Marco Mancha & Mauricio Hernández | 4 Abril 2018
+1.1 | Plantilla Modificada | Francisco Monroy y Ramón Romero | Marco Mancha & Mauricio Hernández | 9 Abril 2018
 
