@@ -16,8 +16,8 @@ Criterios de salida | Con el detalle de las heurísticas se podrá mejorar la us
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Identificación de usuarios potenciales | Basándonos en los criterios de aceptación y funcionalidad de la solución a probar, identificar usuarios que cumplan las características necesarias para probar el sistema.| Team member
-2 | Evaluación | Evaluar a los prospectos y determinar si el nuevo integrante va a tomar el papel del rol y el cambio es viable. | Persona con el rol actual
-3 | Validación | Validar el cambio de rol con los Program Managers y subirlo a la Wiki en la sección de roles indicando el día que el integrate toma el nuevo rol.| Persona con el rol actual y los Program Managers
+2 | Evaluación | Evaluar a los prospectos y determinar si el nuevo integrante va a tomar el papel del rol y el cambio es viable. | Team members
+3 | Validación | Validar el cambio de rol con los Program Managers y subirlo a la Wiki en la sección de roles indicando el día que el integrate toma el nuevo rol.| Team members
 4 | Evaluación de usabilidad | Basándose en las observaciones recolectadas usando la plantilla, planificar los cambios. | Team member
 5 | Realizar cambios | Aplicar los cambios necesarios para cumplir las 10 heurísticas de usabilidad.| Team members
 
