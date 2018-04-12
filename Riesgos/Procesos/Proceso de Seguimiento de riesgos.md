@@ -5,10 +5,7 @@ Versión 1.1
 []() | []()  
 --|--
 Objetivo| Dar un seguimiento a los riesgos identificados.
-Métricas utilizadas |<ul><li>No. de riesgos totales</li>
-<li>No. de riesgos encontrados (De la iteración)</li>
-<li>No. de riesgos mitigados</li>
-<li>No. de riesgos sin seguimiento</li></ul>
+Métricas utilizadas |<ul><li>No. de riesgos totales</li><li>No. de riesgos encontrados (De la iteración)</li><li>No. de riesgos mitigados</li><li>No. de riesgos sin seguimiento</li></ul>
 Criterios de entrada | Matriz de riesgos de cada proyecto
 Definir políticas y estándares | Matriz de riesgos
 Proceso de plan de riesgos
