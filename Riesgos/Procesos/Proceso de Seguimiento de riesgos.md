@@ -27,7 +27,6 @@ Subirlo a los medios adecuados Slack y Wikis
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Filiberto Vázquez y Mariana Pérez | Mauricio Hernández| 7/04/18
----------------|--------|-------|----------|-----------------
 1.1 | Mejora del proceso: Métricas definidas | Filiberto Vázquez | Mauricio Hernández| 12/04/18
 
 Última edición: @filyv abril 12, 2018.
