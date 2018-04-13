@@ -1,5 +1,5 @@
 # Versión de los Roles
-Versión 1.9
+Versión 1.11
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
 ## [Managers de Proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Practicas/ProgramManagers.md)
@@ -42,7 +42,8 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Ramón Romero (13 de enero - 28 de febrero)
 
 * ### Procesos
-  * Mauricio Hernández (13 de enero - presente)
+  * Valter Núñez (13 de abril - presente)
+  * Mauricio Hernández (13 de enero - 12 de abril)
 
 * ### Requerimientos
   * Alejandro Salmón (13 de enero - presente)
@@ -137,5 +138,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.8 | Cambio de roles | Filiberto Vázquez | 2 de Abr 2018
 1.9 | Cambio de roles | Valter Núñez | 6 de abril de 2018
 1.10 | Cambio de roles | Filiberto Vázquez | 6 de abril de 2018
+1.11 | Cambio de roles | Valter Núñez | 13 de abril de 2018
 
-Última edición: @filyv abril 6 de 2018
+Última edición: @valternunez 13 de abril de 2018
