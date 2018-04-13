@@ -7,7 +7,7 @@ Versión 1.1
 Objetivo| Dar un seguimiento a los riesgos identificados.
 Métricas utilizadas |<ul><li>No. de riesgos totales</li><li>No. de riesgos encontrados (De la iteración)</li><li>No. de riesgos mitigados</li><li>No. de riesgos sin seguimiento</li></ul>
 Criterios de entrada | Matriz de riesgos de cada proyecto
-Definir políticas y estándares |<ul><li>Matriz de riesgos</li><li>Proceso de plan de riesgos</li></ul>
+Definir políticas y estándares |<ul><li>Matriz de riesgos</li><li>[Proceso de plan de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)</li></ul>
 Salidas del proceso | Matriz de riesgos actualizada
 Criterios de salida | Matriz de riesgos actualizada validada por el SEPG de RSKM
 
@@ -26,6 +26,6 @@ Subirlo a los medios adecuados Slack y Wikis
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Filiberto Vázquez y Mariana Pérez | Mauricio Hernández| 7/04/18
-1.1 | Mejora del proceso: Métricas definidas | Filiberto Vázquez | Mauricio Hernández| 12/04/18
+1.1 | Mejora del proceso: </li></ul> | Filiberto Vázquez | Mauricio Hernández| 12/04/18
 
 Última edición: @filyv abril 12, 2018.
