@@ -6,13 +6,9 @@ Versión 1.2
 --|--
 Objetivo| Informar a los stakeholders acerca del estatus actual del proyecto.
 Métricas utilizadas | Métricas del equipo (M&A)
-Criterios de entrada | Process Status Report actualizado
-Timelogs actualizados
+Criterios de entrada | <ul><li>Process Status Report actualizado</li><li>Timelogs actualizados</li></ul>
 Definir políticas y estándares | <ul><li>Métricas del equipo (M&A)</li><li>Plantilla de minutas</li><li>[Plantilla de documento de acciones correctivas](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Plantilla%20de%20acciones%20correctivas%201.2.docx)</li></ul>
-Salidas del proceso | Presentación del reporte de estatus 
-Minuta de la presentación de reporte de estatus.
-Documento de acciones correctivas.
-Calendario de mejora.
+Salidas del proceso | <ul><li>Presentación del reporte de estatus.</li><li>Minuta de la presentación de reporte de estatus.</li><li>Documento de acciones correctivas.</li><li>Calendario de mejora.</li></ul>
 Criterios de salida | Seguimiento del documento de acciones correctivas
 
 ## Definición de Fases
