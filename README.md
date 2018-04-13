@@ -24,6 +24,9 @@ Versión 1.6
  
  1.8 [Definición de métricas](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
  
+ 1.9 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
+
+ 1.10 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
 
 ## Incepción
 
@@ -56,6 +59,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
 1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
 1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
+1.6 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
 
 
 
