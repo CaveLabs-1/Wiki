@@ -29,3 +29,4 @@ No. de Fase | Fase | Actividades | Encargado
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1 | | | |
+2 | Agregar repositorio y análisis de métricas | Melannie Torres | | 16 de abril
