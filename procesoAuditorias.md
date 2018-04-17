@@ -4,22 +4,22 @@ Versión 1.1
 
 []() | []()  
 --|--
-Objetivo| Dar un seguimiento a los riesgos identificados.
-Métricas utilizadas |No. de riesgos totales 
-No. de riesgos encontrados (De la iteración) 
-No. de riesgos mitigados 
-No. de riesgos sin seguimiento
-Criterios de entrada | Matriz de riesgos de cada proyecto
-Definir políticas y estándares | Matriz de riesgos
-Proceso de plan de riesgos
-Salidas del proceso | Matriz de riesgos actualizada
-Criterios de salida | Matriz de riesgos actualizada validada por el SEPG de RSKM
+Objetivo| Revisar el apego y cumplimiento del Procesos a los requistos a que fueron disenados.
+Métricas utilizadas |Practicas y metas a lo cuales el proceso fue diseñado, la evaluacion pasada del proceso
+Estandares | ISO 19011:2011
+Criterios de entrada | Un proceso ya establecido y usado minimo una vez
+Entradas del Proceso | Proceso, documentos generados
+Salidas del proceso | Resultado de la Auditoria
+Criterios de salida | Razones porque un checkpoint no fue acaptado
+Politicas | -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Seguimiento de riesgos | Cada Martes revisar la matriz de riesgos e identificar qué riesgos se presentaron a lo largo de la semana y agregarlo en la matriz de riesgos, en la sección de monitoreo. Identificar riesgos internos (aquellos que sucedan y puedan ser resueltos dentro del equipo de trabajo) Identificar riesgos externos (aquellos que dependen de factores externos como cliente, servidor, etc.) Ejecutar proceso de Plan de riesgos con los nuevos riesgos encontrados | Team leaders
-2 | Seguimiento de riesgos sucedidos | En la sección de monitoreo de la matriz de riesgos, anotar los riegos que sucedieron y evaluar si el plan de mitigación fue exitoso o no. En el caso de que la respuesta sea no describir por qué no funcionó. Los riesgos que hayan sucedido se convierten en problemas y son agregados a la plantilla de acciones correctivas para ser solucionados. Una vez que las acciones correctivas estén definidas, anotarlas junto con el responsable de su cumplimiento y pegarlas en el calendario de CAVELABS en la fecha que se planea resolver. | Team leaders
+1 | Revision Inicial del proceso |El/La auditor@ a cargo debera pasar el proceso por un checklist general para verificar si cumple con estandares imprencindebiles para que un proceso sea valido; si no pasa una de estas se detiene la auditoria y el proceso nos es valido para ser auditado |
+2 | Implementacion | El/La autor@ a cargo pasara por el checklist en base a las practicas que dice cumplir; siempre se debe verificar que el proceso establezca los puntos y  se debe de mostrar los resultados con el/la auditor@ El proceso que sera auditao debe presentar que practicas cumple de las aereas del proceso ej:
+“Este proceso cumple las practica SP 1.1 de MA” |
+3 | Generar Resultados | Llenar el por que un checkpoint no fue cumplido, y registrar el porcentaje total de CMMA2 |
 
 ## Plan de implementación
 Presentar el proceso al SPEG
@@ -29,6 +29,5 @@ Subirlo a los medios adecuados Slack y Wikis
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-1.0 | Creación | Filiberto Vázquez y Mariana Pérez | Mauricio Herná| 7/04/18
+1.0 | Creación | Manuel Alejandro Lopez Perez | Victor Hugo| 17/04/18
 
-Última edición: @filyv abril 10, 2018.
