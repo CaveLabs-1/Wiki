@@ -5,6 +5,7 @@ Versión 1.0
 --|--
 Objetivo | Establecer un conjunto utilizable de activos de procesos de la organización, así como los estándares del entorno de trabajo, reglas y guías para el trabajo en cada uno de los equipos.
 Métricas utilizadas | Errores en relación a las fases de desarrollo.
+Repositorio de Métricas | Definir dónde se guardarán las métricas. 
 Criterios de entrada |
 Definir políticas y estándares | No exceder dos páginas sin contar bitácora de registros de cambios
 Salidas del proceso | Proceso definido utilizable
@@ -18,6 +19,7 @@ No. de Fase | Fase | Actividades | Encargado
 3 | Definicion de Implementación | Describir acciones necesarias para llevar a cabo dicha planeación
 4 | Validación | Corroborar que la plantilla haya sido llenada de forma correcta y en base a los estándares establecidos | OPD
 5 | Implementación | Llevar a cabo las acciones planificadas previamente
+6 | Análisis de Métricas | Definir cómo se analizarán las métricas establecidas. 
 
 ## Plan de implementación
 
@@ -27,3 +29,4 @@ No. de Fase | Fase | Actividades | Encargado
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1 | | | |
+2 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de abril
