@@ -17,8 +17,7 @@ Politicas | -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Revision Inicial del proceso |El/La auditor@ a cargo debera pasar el proceso por un checklist general para verificar si cumple con estandares imprencindebiles para que un proceso sea valido; si no pasa una de estas se detiene la auditoria y el proceso nos es valido para ser auditado |
-2 | Implementacion | El/La autor@ a cargo pasara por el checklist en base a las practicas que dice cumplir; siempre se debe verificar que el proceso establezca los puntos y  se debe de mostrar los resultados con el/la auditor@ El proceso que sera auditao debe presentar que practicas cumple de las aereas del proceso ej:
-“Este proceso cumple las practica SP 1.1 de MA” |
+2 | Implementacion | El/La autor@ a cargo pasara por el checklist en base a las practicas que dice cumplir; siempre se debe verificar que el proceso establezca los puntos y  se debe de mostrar los resultados con el/la auditor@ El proceso que sera auditao debe presentar que practicas cumple de las aereas del proceso ej:“Este proceso cumple las practica SP 1.1 de MA” |
 3 | Generar Resultados | Llenar el por que un checkpoint no fue cumplido, y registrar el porcentaje total de CMMA2 |
 
 ## Plan de implementación
