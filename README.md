@@ -70,6 +70,8 @@ No. de Versión | Cambio | Autor | Fecha de cambio
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
+  * #### [Proceso Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
+    Lista de todos los resultados de las auditorias realizadas por el departamento
   * #### [Métricas y estatus](https://github.com/CaveLabs-1/Wiki/blob/master/MA/Metricas.md):
     Métricas definidas por equipos y el departamento. Y docuemntos del estatus del proyecto.
   * #### [Prácticas para entregar ítem de trabajo](https://docs.google.com/spreadsheets/u/1/d/1R8L9a-ujOteCezdlZ_pRg9uxfuB2eIKZjW0UA2jFAAA/edit?usp=sharing):
