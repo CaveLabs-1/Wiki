@@ -5,7 +5,7 @@ Versión 2.0
 []() | []()  
 --|--
 Objetivo| Establecer y mantener los planes y estrategias que definan las actividades del proyecto.
-Métricas utilizadas | Valor planeado, valor ganado, costo planeado, costo actual.
+Métricas utilizadas | Creación de plan: tiempo de creación, número de actividades. Valor planeado, valor ganado, costo planeado, costo actual.
 Criterios de entrada | <ul><li>Lista de requerimientos definidos</li><li>Disponibilidad de tiempo calendario</li>Recursos involucrados en el desarrollo de la planeación (personas, tiempo, equipo)</li></ul>
 Definir políticas y estándares |<ul><li>El documento de planeación deberá tener una longitud máxima de 2 páginas.</li><li>La planeación deberá ir acompañada del [Toronto](https://docs.google.com/document/d/1X5K242EaCvONCwC4O1vffpqNA-S9zsQNQvfWiGdOhOw/edit), para validar el seguimiento del desarrollo del proceso.</li></ul>
 Salidas del proceso | <ul> <li> Plan de proyecto </li> <li> WBS </li> <li> Estimación de tamaño </li> <li> Riesgos del proyecto </li></ul> 
@@ -31,6 +31,9 @@ No. de Fase | Fase | Actividades | Encargado
 2. Subirlo a los medios adecuados Slack y wikis
 3. Se dirige con los involucrados y se firma
 
+## Análisis de métricas
+1. [Métricas de tiempo de creación y número de actividades del plan] (https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Plan/Retroalimentaci%C3%B3n.md)
+2. Las métricas de valor ganado, valor planeado, costo planeado y costo actual se tendrán dentro de cada plan y se actualizarán cada día.
 
 ## Bitácora
 
@@ -42,3 +45,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 1.2 | Agregar estimación | Ramón Romero | |
 1.3 | Agregar encargados | Melannie Torres | | 11/feb/2018
 2.0 | Adaptar a proceso real | Daniel Amezcua | Mauricio Hernández | 22/mar/2018 
+2.1 | Incluir análisis y repositorio de métricas | Daniel Amezcua |  | 17/abr/2018
