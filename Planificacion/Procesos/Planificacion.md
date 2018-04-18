@@ -1,5 +1,5 @@
 # Planificación
-Versión 2.0
+Versión 2.1
 
 
 []() | []()  
@@ -23,7 +23,7 @@ No. de Fase | Fase | Actividades | Encargado
 6 | Envolvimiento de los stakeholders | <ul>De acuerdo al tipo de desarrollo, las fases y las milestones del proyecto; identificar las actividades en las que se ven involucrados los stakeholders. </ul> | Todo el equipo
 6 | Generación de calendario | Con las actividades a realizar durante el proyecto y su respectiva estimación de esfuerzo, el tipo de desarrollo definido, los riesgos y recursos, los recursos y las actividades de capacitación, crear un calendario donde se especifiquen los siguientes elementos: <ul><li>Roles de los involucrados</li><li>Fases o etapas</li><li>Actividades para cada fase o etapa </li><li>Tiempo estimado de ejecución para cada actividad</li><li>Fecha estimada de completitud de cada actividad </li> <li> [Guía para hacer una calendarización](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Gu%C3%ADa%20Calendarizaci%C3%B3n.md) </li></ul> | Todo el equipo 
 7 | Validación | Una vez generado el plan inicial este debe ser validado por cada uno de los integrantes involucrados en dicho proyecto, se verifica la viabilidad del mismo, y se hacen los ajustes necesarios en caso de que este sea el caso. Se debe llevar a cabo una bitácora de los cambios hechos hasta que el equipo esté conforme a traves de una firma sobre una copia | Todo el equipo
-8 | Manejo | Cada día, el plan debe actualizarse y analizarse para hacerle los ajustes necesarios, si es que el caso lo requiere. [Guía para manejo de plan] (https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Gu%C3%ADa%20Manejo%20Plan.md).
+8 | Manejo | Cada día, el plan debe actualizarse y analizarse para hacerle los ajustes necesarios, si es que el caso lo requiere. [Guía para manejo de plan](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Gu%C3%ADa%20Manejo%20Plan.md).
 
 ## Plan de implementación
 
@@ -32,7 +32,7 @@ No. de Fase | Fase | Actividades | Encargado
 3. Se dirige con los involucrados y se firma
 
 ## Análisis de métricas
-1. [Métricas de tiempo de creación y número de actividades del plan] (https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Plan/Retroalimentaci%C3%B3n.md)
+1. [Métricas de tiempo de creación y número de actividades del plan](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Plan/Retroalimentaci%C3%B3n.md)
 2. Las métricas de valor ganado, valor planeado, costo planeado y costo actual se tendrán dentro de cada plan y se actualizarán cada día.
 
 ## Bitácora
