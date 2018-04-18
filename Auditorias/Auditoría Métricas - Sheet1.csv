@@ -1,0 +1,24 @@
+Auditorías de Métricas,,,,,,
+Fecha:,18/04/18,Hora de inicio:,12:00,,,
+Encargado:,Melannie y Santiago,Hora de fin,,,,
+,,,,,,
+,,,,,,
+Proceso,Encargado,Métrica actual,Repositorio de Métricas,Análisis de métrica,¿Actualmente se mide?,Comentario
+Definición de arquitectura inicial,David y Marco Luna,Tiempo de ejecución del proceso ,No,No,No,Cambiar métrica
+Definición del componentes del sistema,David y Marco Luna,Número de relaciones entre módulos,No,No,No,-
+Flujo de vistas,David y Marco Luna,Tiempo de ejecución del proceso ,No,No,No,Cambiar métrica
+Definición de arquitectura general,David y Marco Luna,Tiempo de ejecución del proceso ,No,No,No,Cambiar métrica
+Proceso para cambios de línea de base,Mariana,Número de errores y tiempo,No,No,No,-
+Proceso para versionar elementos de configuración,Mariana,Número de errores y tiempo,No,No,No,-
+Mejora de procesos,Marco Mancha,Número de propuestas de mejora al proceso,No,No,No,Detallar métrica
+Proceso de reporte de estatus,Fily,Métricas del equipo (m&a),No,No,No,Cambiar métrica
+Proceso para planear la iteración,Santi,Tiempo,No,No,No,Cambiar métrica
+Planificación,Daniel,"Valor planeado, valor ganado, costo planeado, costo actual.",No,No,Sí,Agregar repositorio y análisis.
+Cierre de iteración,Santi,,,,,
+Proceso de seguimiento de riesgos,Fily,"No. de riesgos totales, No. de riesgos encontrados (De la iteración), No. de riesgos mitigados, No. de riesgos sin seguimiento",No,No,Sí,Poner explícitamente en el proceso el repositorio y el análisis. Cambiar la métrica a tendencia o especificar.
+Proceso de aceptación de requerimientos con Stakeholders,Salmón,Ítems de trabajo por completados,No,No,No,Cambiar métrica
+Proceso de Cambio de Requerimientos con Stakeholders,Salmón,"Items de trabajo por planeados (restantes), Cambios de funcionalidades, Nuevas funcionalidades",No,No,No,Cambiar métrica
+Proceso para levantamiento inicial de requerimientos,Salmón,"Número de requerimientos modificados, agregados o eliminados a comparación de los requerimientos iniciales.",No,No,No,Cambiar métrica
+Proceso de seguimiento de riesgos,Fily,"No. de riesgos totales, No. de riesgos encontrados (De la iteración), No. de riesgos mitigados, No. de riesgos sin seguimiento",No,No,Sí,Poner explícitamente en el proceso el repositorio y el análisis. Cambiar la métrica a tendencia o especificar.
+Proceso de Usabilidad,Paco Monroy y Ramón ,Cumplimiento de las 10 heurísticas de usabilidad.,No,No,No,Cambiar métrica
+Proceso de Cierre de Iteración,Santi,Velocidad del equipo en porcentaje del proyecto y el porcentaje que representa la iteración hacia el proyecto en general.,No,No,No,Cambiar métrica
