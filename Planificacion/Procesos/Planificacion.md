@@ -7,7 +7,7 @@ Versión 2.2
 Objetivo| Establecer y mantener los planes y estrategias que definan las actividades del proyecto.
 Métricas utilizadas | Creación de plan: tiempo de creación, número de actividades. Valor planeado, valor ganado, costo planeado, costo actual.
 Criterios de entrada | <ul><li>Lista de requerimientos definidos</li><li>Disponibilidad de tiempo calendario</li>Recursos involucrados en el desarrollo de la planeación (personas, tiempo, equipo)</li></ul>
-Definir políticas y estándares |<ul><li>El documento de planeación deberá tener una longitud máxima de 2 páginas.</li><li>La planeación deberá ir acompañada del [Toronto](https://docs.google.com/document/d/1X5K242EaCvONCwC4O1vffpqNA-S9zsQNQvfWiGdOhOw/edit), para validar el seguimiento del desarrollo del proceso.</li></ul>
+Definir políticas y estándares |<ul><li> Para iteraciones, la sesión de planificación tiene duración de 2 horas por semana a planear  </li></ul>
 Salidas del proceso | <ul> <li> Plan de trabajo (Plan o Kanban) </li> <li> WBS </li> <li> Estimación de tamaño </li> <li> Riesgos del proyecto </li></ul> 
 Criterios de salida | Las actividades definidas en el plan deben de tener su tiempo y fechas estimadas de completitud. Tanto el envolvimiento de los stakeholders y la posible capacitación del personal debe ser parte del plan. El formato del plan debe dar oportunidad para alimentarlo con las fechas reales y tiempos reales de completitud de las actividades.
 
@@ -42,5 +42,5 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 1.2 | Agregar estimación | Ramón Romero | |
 1.3 | Agregar encargados | Melannie Torres | | 11/feb/2018
 2.0 | Adaptar a proceso real | Daniel Amezcua | Mauricio Hernández | 22/mar/2018 
-2.1 | Incluir análisis y repositorio de métricas | Daniel Amezcua |  | 17/abr/2018
-2.2 | Añadir justificación ágil | Daniel Amezcua | | 18/abr/2018
+2.1 | Incluir análisis y repositorio de métricas | Daniel Amezcua, Santiago Valencia|  | 17/abr/2018
+2.2 | Añadir justificación ágil | Daniel Amezcua| | 18/abr/2018
