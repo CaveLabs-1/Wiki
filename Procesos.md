@@ -1,15 +1,15 @@
 # Creación de Procesos
-Versión 1.0
+Versión 1.1
 
 []() | []()
 --|--
 Objetivo | Establecer un conjunto utilizable de activos de procesos de la organización, así como los estándares del entorno de trabajo, reglas y guías para el trabajo en cada uno de los equipos.
-Métricas utilizadas | Errores en relación a las fases de desarrollo.
-Repositorio de Métricas | Definir dónde se guardarán las métricas. 
-Criterios de entrada |
-Definir políticas y estándares | No exceder dos páginas sin contar bitácora de registros de cambios
+Métricas utilizadas | Definir las métricas a utilizar en orden de prioridad. [Guía de definición de métricas.](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
+Repositorio de Métricas | Responder ¿Dónde se van a guardar las métricas? ¿Quién las va a actualizar y con qué frecuencia? 
+Criterios de entrada | Requisistos para la creación del proceso.
+Definir políticas y estándares | No exceder dos páginas sin contar bitácora de registros de cambios. Si hacen falta datos en los repositorios de métricas al hacer el análisis, mencionarlo a los interesados a la hora de presentarlos.
 Salidas del proceso | Proceso definido utilizable
-Criterios de salida |
+Criterios de salida | 
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
@@ -19,7 +19,7 @@ No. de Fase | Fase | Actividades | Encargado
 3 | Definicion de Implementación | Describir acciones necesarias para llevar a cabo dicha planeación
 4 | Validación | Corroborar que la plantilla haya sido llenada de forma correcta y en base a los estándares establecidos | OPD
 5 | Implementación | Llevar a cabo las acciones planificadas previamente
-6 | Análisis de Métricas | Definir cómo se analizarán las métricas establecidas. 
+6 | Análisis de Métricas | Responder ¿Cómo se analiza e interpretan los datos? ¿Cómo se muestran las métricas (Ej. gráficas, tendencias, etc.)? ¿Cómo va a ser reportada a los interesados (Ej. juntas de team leaders, reportes de estatus, etc.) y con qué frecuencia? | 
 
 ## Plan de implementación
 
@@ -28,5 +28,5 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1 | | | |
-2 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de abril
+1 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de abril
+1.1 | Mejora de proceso del área de M&A | Melannie Torres y Santiago Valencia |  | 19 de abril
