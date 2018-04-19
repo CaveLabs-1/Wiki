@@ -5,7 +5,7 @@ Versión 1.5
 []() | []()  
 --|--
 Objetivo| Define la arquitectura de un modulo
-Métricas utilizadas | ...
+Métricas utilizadas | Tiempo de ejecución del proceso
 Criterios de entrada | Necesidad
 Definir políticas y estándares | Definir políticas según el componente
 Salidas del proceso | Solución óptima

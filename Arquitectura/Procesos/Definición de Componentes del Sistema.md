@@ -5,7 +5,7 @@ Versión 1.0
 []() | []()  
 --|--
 Objetivo| Definir los límites y alcance de un sistema a base de los requisitos funcionales
-Métricas utilizadas | ...
+Métricas utilizadas | Número de Relaciones entre módulos
 Criterios de entrada | Requisitos funcionales con actor
 Definir políticas y estándares |UML
 Salidas del proceso | [Linguine](https://docs.google.com/document/d/1USG0KzOqV7U5UHgWiQ0vZeb_cY74DBZ6ybxOfk-AR0A/edit?usp=sharing)

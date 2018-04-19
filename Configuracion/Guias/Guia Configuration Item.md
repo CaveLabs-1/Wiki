@@ -27,7 +27,6 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
 * [Documentación de cada proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md)
   * Definición del proyecto
   * Propuesta del Proyecto
-  * Matriz de requerimientos
   * Matriz de trazabilidad
   * Riesgos
   * Componentes del sistema
@@ -35,6 +34,9 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   * Arquitectura inicial
   * Estimación de function points
   * Plantilla de acciones correctivas
+  * Estatus del Proyecto en la 1era iteración
+  * Estatus del Proyecto en la 2da iteración
+  * Estatus del Proyecto general
  
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
