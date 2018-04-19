@@ -29,6 +29,6 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1 | Creación | Mariana | Mauricio Hernandez | 7 Feb 2018
 1.1 | Modificación | Mariana | |13 Mar 2018
-1.2 | Agregar fase análisis | Mariana |  | 18 Abr 2018
+1.2 | Agregar fase análisis | Mariana | Valter Núñez | 18 Abr 2018
 
 Última edición: @pirty6 marzo 18, 2018.
