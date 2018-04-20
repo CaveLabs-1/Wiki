@@ -1,11 +1,11 @@
 # Proceso para versionar elementos de configuración
-Versión 1.2
+Versión 1.3
 
 
 []() | []()  
 --|--
 Objetivo| Mantener un acuerdo sobre el proyecto
-Métricas utilizadas | Número de Errores / Tiempo en el que se realiza la auditoría
+Métricas utilizadas | Número de Errores / Número de dias desde la última auditoría
 Repositorio de Métricas | Carpeta Auditorías encontrada en el root de la wiki
 Criterios de entrada | Elemento de configuración
 Definir políticas y estándares | Gitflow
@@ -30,5 +30,6 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1 | Creación | Mariana | Mauricio Hernandez | 7 Feb 2018
 1.1 | Modificación | Mariana | |13 Mar 2018
 1.2 | Agregar fase análisis | Mariana | Valter Núñez | 18 Abr 2018
+1.3 | Modificar redacción de métrica | Mariana | Valter Núñez | 20 Abr 2018
 
-Última edición: @pirty6 abril 18, 2018.
+Última edición: @pirty6 abril 20, 2018.

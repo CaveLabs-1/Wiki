@@ -19,16 +19,14 @@ Versión 1.6
  1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos.md)
  
  1.6 [Cambio de roles](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md)
- 
- 1.7 [Definición de métricas](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
- 
- 1.8 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
+  
+ 1.7 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
 
- 1.9 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Proceso%20de%20Seguimiento%20de%20riesgos.md)
-
- 1.10 [Proceso de Validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
+ 1.8 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Proceso%20de%20Seguimiento%20de%20riesgos.md)
  
- 1.11 [Proceso de Auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/procesoAuditorias.md)
+ 1.9 [Proceso de Validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
+ 
+ 1.10 [Proceso de Auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/procesoAuditorias.md)
 
 ## Incepción
 
