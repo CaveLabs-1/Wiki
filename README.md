@@ -41,7 +41,7 @@ Versión 1.6
 
 ## Construcción
 
- 3.1 [Planificación de la iteración](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/PlanIteraci%C3%B3n.md)
+ 3.1 [Planificación](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Planificacion.md)
  
  5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md)
 
@@ -51,7 +51,8 @@ Versión 1.6
 No. de Versión | Cambio | Autor | Fecha de cambio
 ------------|------|-------------|-----------
 1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
-1.1 | Adición de Plan de Riesgos | Ian  | 23/02/18 |
+1.1 | Adición de 
+Riesgos | Ian  | 23/02/18 |
 1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
 1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
 1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
