@@ -5,7 +5,7 @@ Versión 1.0
 []() | []()  
 --|--
 Objetivo| Definir la arquitectura inicial de un projecto
-Métricas utilizadas | Horas por día invertidas en la instalación y iniciación de cada tecnología seleccionada
+Métricas utilizadas | Horas por día invertidas en la instalación e iniciación de cada tecnología seleccionada
 Repositorio de Métricas | Documento [Herson](https://docs.google.com/document/d/1S6zC7W9tscflqrT2fkm_FU0MIeelQJ3OqqpN2YA3MQg/edit?usp=sharing)
 Criterios de entrada | Lista de Requerimientos
 Definir políticas y estándares |UML, Usar la guía del [Technology Stack Diagram](https://github.com/dwyl/technology-stack), Usar el [Proceso de Flujo de Vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
@@ -21,7 +21,7 @@ No. de Fase | Fase | Actividades | Encargado
 3 | Desarrollo |<ul><li>Desarrollar MER de la base de datos según el flujo </li><li>Escoger Tecnología a usarse (todas las tecnologías y opciones deben de pasar por el [Proceso de Arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Proceso%20para%20definir%20arquitectura%20general.md) ya sean Back end framework, front end framework, base de datos, middleware, etc.)</li><li>Desarrollar [Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura
 4 | Implementación | <ul><li>Preparar la tecnología a usarse *(ejemplo: framework con middleware y base de datos inicializada)*</li></ul> | Encargado de Arquitectura
 5 | Documetación |<ul><li>Llenar [Herson](https://docs.google.com/document/d/1S6zC7W9tscflqrT2fkm_FU0MIeelQJ3OqqpN2YA3MQg/edit?usp=sharing) y mantener los diagramas con el estándar UML o de las guías</li></ul>| Team Member
-6 | Análisis de Métricas | <ul><li>Medir las horas invertidas en la preparación de cada tecnología a usarse y en cambio de cambios o crecimiento actualizarla</li></ul> |
+6 | Análisis de Métricas | <ul><li>Medir las horas invertidas en la preparación de cada tecnología a usarse y en caso de cambios o crecimiento actualizarla</li></ul> |
 ## Plan de implementación
 
 1. Publicar los documentos en su respectiva sección de la wiki y avisar a los miembros del equipo que está publicado por Slack

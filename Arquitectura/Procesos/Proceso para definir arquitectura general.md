@@ -5,7 +5,7 @@ Versión 1.5
 []() | []()  
 --|--
 Objetivo| Define la arquitectura de un modulo
-Métricas utilizadas | Numero de soluciones alternativas comparado cn su valor agregado
+Métricas utilizadas | Numero de soluciones alternativas comparado con su valor agregado
 Repositorio de Métricas | Documentación del módulo a implementar
 Criterios de entrada | Necesidad
 Definir políticas y estándares | Definir políticas según el componente
