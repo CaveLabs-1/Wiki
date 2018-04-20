@@ -15,10 +15,13 @@ Criterios de salida | Seguimiento del documento de acciones correctivas
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Planeación | <ul><li>Revisar el estatus de presentaciones pasadas.</li><li>Definir si la solución funcionó o no.</li><li>Verificar los datos en el reporte de estatus con respecto a los time logs individuales por equipo.</li><li>Agendar cita con stakeholders y el departamento.</li><li>Generar una presentación con respecto a las métricas establecidas.</li></ul>| Team leaders
-2 | Presentación | <ul><li>Presentar el reporte de estatus.</li><li>Generar un documento de retroalimentación. (Minuta)</li></ul> | Team member y secretario asignado en el momento por el PMC Manager
-3 | Mejora | <ul><li>Generar documento de acciones correctivas respecto a la presentación (Cada jueves).</li><li>Agregar las actividades de mejora al calendario del departamento.</li><li>SEPG verifica el documento de acciones correctivas</li></ul> | Team Leaders y PMC Manager
-4 | Análisis de Métricas | <ul><li>Hacer un análisis e interpretación de los datos comparando el valor ganado contra el valor real y el costo estimado contra el costo real.</li><li>Reportar los datos en gráficas de línea.</li><li>Explicar el comportamiento de las gráficas de línea en el reporte de estatus semanal (cada jueves). </li></ul> | Team Leaders e Interesados
+
+1 | Planeación | <ul><li>Revisar el estatus de presentaciones pasadas.</li><li>Definir si la solución funcionó o no.</li><li>Verificar los datos en el reporte de estatus con respecto a los time logs individuales por equipo.</li><li>Agendar cita con stakeholders y el departamento.</li><li>Generar una presentación con respecto a las métricas de equipo</li></ul>| Team leaders
+2 | Presentación | <ul><li>Presentar el reporte de estatus semanal (cada jueves).</li><li>Generar un documento de retroalimentación. (Minuta)</li></ul> | Team member y secretario asignado en el momento por el PMC Manager
+3 | Mejora | <ul><li>Generar documento de acciones correctivas respecto a la presentación, una vez finalizada.</li><li>Agregar las actividades de mejora al calendario del departamento.</li><li>SEPG verifica el documento de acciones correctivas</li></ul> | Team Leaders y PMC Manager
+4 | Análisis de Métricas | <ul>
+<li>Hacer un análisis e interpretación de los datos comparando el valor ganado contra el valor real y el costo estimado contra el costo real.</li><li>Representar las métricas en gráficas de línea.</li>
+<li>Reportar las gráficas de línea a los interesados en el reporte de estatus de cada semana. (Cada jueves)</li></ul> | Team Leaders y PMC Manager
 
 ## Plan de implementación
 Cada Team Leader sigue el proceso: completa el documento de acciones correctivas y lo agenda en el calendario de mejoras para mejorar continuamente.
@@ -26,9 +29,11 @@ Cada Team Leader sigue el proceso: completa el documento de acciones correctivas
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
+
 1 | Creación | Filiberto Vázquez y Mariana Pérez | Manuel Flores | 20/03/18
 1.1 | Modificación: SEPG verifica el doc de acciones correctivas | Filiberto Vázquez | Manuel Flores | 22/03/18
 1.2 | Modificación: Identaciones | Filiberto Vázquez | Manuel Flores | 12/04/18
-1.3 | Modificación: Métricas | Filiberto Vázquez y Melannie Torres| Valter Nuñez | 12/04/18
+1.3 | Modificación: Métricas | Filiberto Vázquez y Melannie Torres| Valter Nuñez | 19/04/18
+
 
 Última edición: @filyv abril 19, 2018.
