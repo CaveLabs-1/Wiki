@@ -27,6 +27,8 @@ Versión 1.6
  1.9 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
 
  1.10 [Proceso de Validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
+ 
+ 1.11 [Proceso de Auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/procesoAuditorias.md)
 
 ## Incepción
 
