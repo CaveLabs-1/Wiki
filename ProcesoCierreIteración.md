@@ -4,12 +4,12 @@ Versión 1.2
 
 []() | []()
 --|--
-Objetivo| Concluir la iteración
-Métricas utilizadas | Número de patrones y antipatrones presentes en la iteración
-Repositorio de Métricas | Tabla de patrones y antipatrones en el documento de cierre de iteración "Bob the Builder" en la wiki de cada equipo. Actualizado cada fin de iteración por el team leader.
+Objetivo| Identificar qué salió mal y qué salió bien en la iteración y buscar nuevas y mejores maneras para trabajar.
+Métricas utilizadas | Número de patrones y antipatrones presentes en la iteración.
+Repositorio de Métricas | Tabla de patrones y antipatrones en el documento de cierre de iteración [Bob the Builder](https://drive.google.com/open?id=1czEdn-xYM2REV3wG9aS1eavqmrkX1tWFAqdNuSrUwk8) en la wiki de cada equipo. Actualizado cada fin de iteración por el team leader.
 Criterios de entrada | Estimación del proyecto, solución y velocidad del equipo.
-Definir políticas y estándares | Usar plantilla [Bob the Builder](https://drive.google.com/open?id=1czEdn-xYM2REV3wG9aS1eavqmrkX1tWFAqdNuSrUwk8) El showcase debe de durar menos de una hora y la retrospectiva debe durar entre 30 a 60 minutos.
-Salidas del proceso | Documento de cierre de iteración (Bob the Builder).
+Definir políticas y estándares | Usar plantilla [Bob the Builder](https://drive.google.com/open?id=1czEdn-xYM2REV3wG9aS1eavqmrkX1tWFAqdNuSrUwk8). El showcase debe de durar menos de una hora y la retrospectiva debe durar entre 30 a 60 minutos.
+Salidas del proceso | Documento de cierre de iteración (Bob the Builder) lleno.
 Criterios de salida | Documento de cierre de iteración completo y estimaciones del proyecto actualizadas.
 
 ## Definición de Fases
