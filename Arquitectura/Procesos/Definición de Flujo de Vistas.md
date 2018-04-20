@@ -5,7 +5,7 @@ Versión 1.0
 []() | []()  
 --|--
 Objetivo| Validar el flujo de la app y definir un diagrama de despliegue óptimo.
-Métricas utilizadas | Tiempo de ejecución del proceso
+Métricas utilizadas | Tiempo de ejecución del proceso, almacenado como actividad en el [Time Recording Log Cavelabs](http://cavelabs.herokuapp.com/)
 Criterios de entrada | Criterios para crear la arquitectura, componentes del sistema y requerimientos.
 Definir políticas y estándares |UML
 Salidas del proceso | Diagrama de flujo validado por el cliente, diagrama de despliegue óptimo, [Ernie](https://docs.google.com/document/d/1zsnzZnGNzLkD2YsUQFzgOTRIssyJqkFWtrK2SylG8EM/edit?usp=sharing)
