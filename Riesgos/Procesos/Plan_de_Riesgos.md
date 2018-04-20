@@ -8,6 +8,7 @@ Versión 1.1
 --|--
 Objetivo| Garantizar la gestión adecuada de los riesgos presentes durante el desarrollo del proyecto.
 Métricas utilizadas | Probabilidad de ocurrencia de un riesgo.
+Repositorio de metricas| Referenciar al [Plan de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Proceso%20de%20Seguimiento%20de%20riesgos.md)
 Criterios de entrada | Riesgo no gestionado.
 Definir políticas y estándares | [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/matriz_de_riesgos.xlsx)
 Salidas del proceso | Matriz de riesgos actualiza.
