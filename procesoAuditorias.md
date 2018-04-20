@@ -16,7 +16,7 @@ Versión 1.1
 
 
 
-| **                               **  **No. de Fase****                         **|**                                 **** Fase ****                       ** | **                               **  **Actividades****                         **|**                                 **** Encargado ****                       ** |
+|                               **No. de Fase**                         |                                 **** Fase ****                       ** | **                               **  **Actividades****                         **|**                                 **** Encargado ****                       ** |
 | --- | --- | --- | --- |
 |     1    |     Revisión Inicial del proceso    |     El/La auditor@ a cargo deberá pasar el proceso por un checklist general para verificar si cumple con estándares     imprescindibles para que un proceso sea válido; si no pasa una de estas se detiene la auditoría y el proceso nos es valido para ser auditado    |     Team Member que no hayan creado el proceso        |
 |     2    |     Implementacion    |     El/La autor@ a cargo pasará por el checklist en base a las prácticas que dice cumplir; siempre se debe verificar que el proceso establezca los puntos y se debe de mostrar los resultados con el/la auditor@El proceso que será auditado debe presentar que practicas cumple de las áreas del proceso ej:    &quot;Este proceso cumple las practica SP 1.1 de MA&quot; **TODOS LOS PROCESOS DEBEN DE CUMPLIR CON CHECKPOINTS DE PPQA Y M&amp;A**  **      USAR LAS MÉTRICAS DE M&amp;A Y PPQA a                                                                               al final del de este documento      **             | Team Member que no hayan creado el proceso          |
