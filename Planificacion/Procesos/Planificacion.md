@@ -5,7 +5,8 @@ Versión 2.2
 []() | []()  
 --|--
 Objetivo| Establecer y mantener los planes y estrategias que definan las actividades del proyecto.
-Métricas utilizadas | Creación de plan: tiempo de creación, número de actividades. Valor planeado, valor ganado, costo planeado, costo actual.
+Métricas utilizadas | Creación de plan: tiempo de creación, número de actividades. Valor planeado, valor ganado, costo planeado, costo actual.<
+Repositorio de métricas | <ul>  <li> Reportes de estatus/overviews en la Wiki de cada proyecto </li> <li> [Retroalimentación del proceso de planeación.](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Plan/Retroalimentaci%C3%B3n.md)</li> </ul>
 Criterios de entrada | <ul><li>Lista de requerimientos definidos</li><li>Disponibilidad de tiempo calendario</li>Recursos involucrados en el desarrollo de la planeación (personas, tiempo, equipo)</li></ul>
 Definir políticas y estándares |<ul><li> Para iteraciones, la sesión de planificación tiene duración de 2 horas por semana a planear  </li></ul>
 Salidas del proceso | <ul> <li> Plan de trabajo (Plan o Kanban) </li> <li> WBS </li> <li> Estimación de tamaño </li> <li> Riesgos del proyecto </li></ul> 
