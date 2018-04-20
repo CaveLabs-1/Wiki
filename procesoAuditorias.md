@@ -1,4 +1,4 @@
-# Proceso de Auditorias
+# Proceso de Auditorías
 Versión 1.1
 
 |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados.   |
