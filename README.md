@@ -27,6 +27,8 @@ Versión 1.6
  1.9 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
 
  1.10 [Proceso de Validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
+ 
+ 1.11 [Proceso de Auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/procesoAuditorias.md)
 
 ## Incepción
 
@@ -54,28 +56,13 @@ Versión 1.6
  5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md)
 
 
-
-## Bitácora
-No. de Versión | Cambio | Autor | Fecha de cambio
-------------|------|-------------|-----------
-1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
-1.1 | Adición de 
-Riesgos | Ian  | 23/02/18 |
-1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
-1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
-1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
-1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
-1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
-1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
-1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
-
-
-
   ## General
   
   * #### Asistencias:
     [Lista](https://drive.google.com/open?id=1-PlNH_aFjIOZEFwT5u8G7qJLZWaiHsBdNgrNcYpM8NI) de asistencias para los módulos de clases en el semestre i. 
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
+  * #### [Nuestra manera de trabajo](https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf):
+    Guía de la manera de trabajo de CAVELABS.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
   * #### [Métricas y estatus](https://github.com/CaveLabs-1/Wiki/blob/master/MA/Metricas.md):
@@ -95,8 +82,21 @@ Riesgos | Ian  | 23/02/18 |
   * #### [Guía de documentación del usuario](https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf) :
     Guía que ayudará al departamento a desarrollar el manual de usuario
   * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
-    Documentación del Work Breakdwon Structure definido en clase.
---
+    Documentación del Work Breakdown Structure definido en clase.
+    
+## Bitácora
+No. de Versión | Cambio | Autor | Fecha de cambio
+------------|------|-------------|-----------
+1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
+1.1 | Adición de Riesgos | Ian  | 23/02/18 |
+1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
+1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
+1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
+1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
+1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
+1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
+1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
+1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 |
 
 
 Hecho con ❤️ por:
