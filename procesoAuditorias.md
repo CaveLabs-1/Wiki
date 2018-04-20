@@ -1,16 +1,15 @@
 # Proceso de Auditorias
 Versión 1.1
 
-|    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados   |
+|    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados.   |
 | --- | --- |
 |    Métricas utilizadas   | El reporte de auditoría completado verificando si paso una práctica y si no reportar el porqué. [LINK  A PLANTILLA DE REPORT](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
-|    Estandares   |    ISO 19011:2011   |
+|    Estandares y Politicas   |    ISO 19011:2011.  -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vezPrácticas y metas a lo cuales el proceso fue  diseñado, la evaluación pasada del proceso   |
 |    Entradas del Proceso   |    Proceso, documentos generados   |
 |    Salidas del proceso   |    Resultado de la Auditoría   |
 |    Criterios de salida   |    Razones porque un checkpoint no fue aceptado   |
-|    Politicas   |    -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso   |
-| Guia | Checklist de practicas. [LINK DE CHECKLIST](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Checklist.docx?raw=true) |
+
 
 
 
