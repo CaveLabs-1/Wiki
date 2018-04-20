@@ -1,7 +1,7 @@
 # Proceso de Auditorías
 Versión 1.1
 
-
+|   -    |    -   |
 |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados.   |
 | --- | --- |
 |    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el porqué. [Plantilla de reporte](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
