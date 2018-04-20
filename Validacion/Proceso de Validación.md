@@ -7,9 +7,9 @@ Versión: 1.0
 | **Objetivo** | Validar y cumplir que lo que se construyó sea lo correcto para cumplir con el requerimiento.. |
 | --- | --- |
 | **Métricas utilizadas** | Registrar tiempo en horas en las fases. |
-| **Repositorio de métricas** | [Registro de validación](https://docs.google.com/spreadsheets/d/1BxiNnB7SphBCx12Nn_37PsUhR7B_CisZrYSHOoRH2Xo/edit?usp=sharing) |
+| **Repositorio de métricas** | [Registro de validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Registro%20de%20validación.xlsx) |
 | **Criterios de entrada** | Práctica a validar y sus productos.Guía de estándares de objetos a validarse. |
-| **Definir políticas y estándares** | [Guía de validación](https://docs.google.com/document/d/1ZWcqMzzJZERftucf4Dd42bZ2vFdhOeBegfomtyj8gm4/edit?usp=sharing) [Revisión de validación](https://docs.google.com/spreadsheets/d/1OWJNUgXkAg_V7FSUAwvZ5yOWT22e84585PmOqoZrEdI/edit?usp=sharing) |
+| **Definir políticas y estándares** | [Guía de validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Guia%20de%20validacion.docx) [Revisión de validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Revision%20de%20Validación.xlsx) |
 | **Salidas del proceso** | Documento de Revisión de validación firmado por encargados. |
 | **Criterio de Salida** | Revisión de validación con aprobación de productos. |
 
