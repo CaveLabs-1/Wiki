@@ -3,12 +3,12 @@ Versión 1.1
 
 |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados.   |
 | --- | --- |
-|    Métricas utilizadas   | El reporte de auditoría completado verificando si paso una práctica y si no reportar el porqué. [LINK  A PLANTILLA DE REPORT](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
-|    Estandares y Politicas   |    ISO 19011:2011.  -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso. Checklist de practicas. [LINK DE CHECKLIST](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Checklist.docx?raw=true)    |
+|    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el porqué. [Plantilla de reporte](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
+|    Estandares y Politicas   |    ISO 19011:2011.  -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso. Checklist de practicas. [Checklist](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Checklist.docx?raw=true)    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vezPrácticas y metas a lo cuales el proceso fue  diseñado, la evaluación pasada del proceso   |
-|    Entradas del Proceso   |    Proceso, documentos generados   |
+|    Entradas del Proceso   |    Proceso, documentos generados por el mismo proceso   |
 |    Salidas del proceso   |    Resultado de la Auditoría   |
-|    Criterios de salida   |    Razones porque un checkpoint no fue aceptado   |
+|    Criterios de salida   |    Razones de por qué un Checkpoint no fue aceptado   |
 
 
 
@@ -45,7 +45,7 @@ Versión 1.1
   - El proceso se asegura de tener documentado resultados de auditorías                 internas y reales
   - El proceso establece fechas periódicas de evaluación de la empresa
 - SP         1.2
-  - EL proceso se asegura
+  - El proceso se asegura de evaluar y confirmar la los documentos generados por el proceso 
 - SP         2.1
   - El proceso asegura que de manera periódica el comunicar departamento                 resultado de las auditorías internas y reales
 - SP         2.2
@@ -64,9 +64,9 @@ Versión 1.1
   - Los documentos resultante demuestran
 - SP 1.3
   - El proceso estandariza la obtención de los datos de medición
-  - Existe eso
+  - Esta implementado en los documentos generados
 - SP 1.4
-  - Todos las metrica en uso tienen una guia o una establecido como será analizado las métricas
+  - Todos las metrica en uso tienen una guía de como será analizado las métricas
   - Esta implementado
 - SP 2.1
   - El proceso especifica integridad de los datos de medición y los resultados de la mediciones(se obtenga todas la informacion de las metricas)
@@ -91,5 +91,5 @@ Versión 1.1
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1.1 | Crear la primera version del procesos con correciones de sintaxis| Alejandro López | Valter Nuñez | 20 de abril
+1.1 | Crear la primera versión del procesos con correciones de sintaxis| Alejandro López | Valter Núñez | 20 de abril
 
