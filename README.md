@@ -16,7 +16,7 @@ Versión 1.6
  
  1.4 [Plan de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
  
- 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos.md)
+ 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos.md)
  
  1.6 [Cambio de roles](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md)
  
