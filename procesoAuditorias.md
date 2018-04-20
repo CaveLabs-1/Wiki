@@ -87,7 +87,7 @@ Versión 1.1
   - Esta Implementado
 - SP 2.4
   - El proceso se asegura de presentar a los stakeholder los resultado de las métricas de manera periódica
-  - El prcesos especificar cómo ayudar a los stakeholder como entender  las metricas
+  - El proceso especificar cómo ayudar a los stakeholder como entender  las metricas
   
   
 ## Bitácora
