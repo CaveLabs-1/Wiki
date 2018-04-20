@@ -20,13 +20,11 @@ Versión 1.6
  
  1.6 [Cambio de roles](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoRoles.md)
  
- 1.7 [Calidad](https://github.com/CaveLabs-1/Wiki/blob/Calidad/Calidad/NormasCalidad.md)
+ 1.7 [Definición de métricas](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
  
- 1.8 [Definición de métricas](https://github.com/CaveLabs-1/Wiki/blob/master/MA/DefinicionMetricas.md)
- 
- 1.9 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
+ 1.8 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
 
- 1.10 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
+ 1.9 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
 
 ## Incepción
 
