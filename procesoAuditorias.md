@@ -5,7 +5,7 @@ Versión 1.1
  |      |      |
  | --- | --- |
  |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados.   |
-|    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el porqué. [Plantilla de reporte](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
+|    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué. [Plantilla de reporte](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Platilla%20Reporte%20De%20Estatus.docx?raw=true) |
 |    Estandares y Politicas   |    ISO 19011:2011.  -El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso. Checklist de practicas. [Checklist](https://github.com/CaveLabs-1/Wiki/blob/AleLopezPerez1312-patch-6/Auditorias/Checklist.docx?raw=true)    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vezPrácticas y metas a lo cuales el proceso fue  diseñado, la evaluación pasada del proceso   |
 |    Entradas del Proceso   |    Proceso, documentos generados por el mismo proceso   |
@@ -21,7 +21,7 @@ Versión 1.1
 | --- | --- | --- | --- |
 |     1    |     Revisión Inicial del proceso    |     El/La auditor@ a cargo deberá pasar el proceso por un checklist general para verificar si cumple con estándares     imprescindibles para que un proceso sea válido; si no pasa una de estas se detiene la auditoría y el proceso nos es valido para ser auditado    |     Team Member que no haya creado el proceso        |
 |     2    |     Implementacion    |     El/La autor@ a cargo pasará por el checklist en base a las prácticas que dice cumplir; siempre se debe verificar que el proceso establezca los puntos y se debe de mostrar los resultados con el/la auditor@El proceso que será auditado debe presentar que practicas cumple de las áreas del proceso ej:    &quot;Este proceso cumple las practica SP 1.1 de MA&quot; **TODOS LOS PROCESOS DEBEN DE CUMPLIR CON CHECKPOINTS DE PPQA Y M&amp;A**  **      USAR LAS MÉTRICAS DE M&amp;A Y PPQA                                                                               al final del de este documento      **             | Team Member que no haya creado el proceso          |
-|     3    |     Generar Resultado    | Llenar el reporte de auditoría, especificando porque una de las prácticas no se han cumplido.Los reportes serán archivado en el directorio de &quot;Auditorias/ReportesInternos&quot;Las métricas serán reportadas como gráficas de cada área de proceso y ver el progreso con reportes pasado y con los reporte de SCAMPI realizadas por los profesores | Team Member que no haya creado el proceso          |
+|     3    |     Generar Resultado    | Llenar el reporte de auditoría, especificando por qué una de las prácticas no se han cumplido.Los reportes serán archivado en el directorio de &quot;Auditorias/ReportesInternos&quot;Las métricas serán reportadas como gráficas de cada área de proceso y ver el progreso con reportes pasado y con los reporte de SCAMPI realizadas por los profesores | Team Member que no haya creado el proceso          |
 
 
 
