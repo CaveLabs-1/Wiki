@@ -92,5 +92,5 @@ Versión 1.1
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de abril
-1.1 | Mejora de proceso del área de M&A | Melannie Torres y Santiago Valencia |  | 19 de abril
+1.1 | Crear la primera version del procesos con correciones de sintaxis| Alejandro López | Valter Nuñez | 20 de abril
+
