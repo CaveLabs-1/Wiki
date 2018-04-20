@@ -1,7 +1,7 @@
-# Resultado de las auditorias
+# Resultados de las auditorías
 Versión 1.1
 
-En este documento se encontrarán todos los resultados de las auditorias realizadas por el departamento.
+En este documento se encontrarán todos los resultados de las auditorías realizadas por el departamento.
 
 ## CAVELABS
 ### Métricas de los procesos
