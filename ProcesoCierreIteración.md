@@ -30,8 +30,8 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Santiago Valencia | Mauricio Hernández | 13 Mar 2018
 1.1 | Complementar y corregir el proceso | Mauricio Hernández | - | 13 Mar 2018
-1.2 | Agregar métricas | Santiago Valencia | - | 19 Abr 2018
+1.2 | Agregar métricas | Santiago Valencia | Valter Núñez | 19 Abr 2018
 
 
 
-Última edición: @agovc abril 19, 2018.
+Última edición: @valternunez abril 19, 2018.
