@@ -45,6 +45,12 @@ Versión 1.6
 
  3.1 [Planificación](https://github.com/CaveLabs-1/Wiki/blob/master/Planificacion/Procesos/Planificacion.md)
  
+ 4.1 [Aceptación de Planificación](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Aceptacion.md)
+ 
+ 4.2 [Solicitud de Cambios](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Cambios.md)
+ 
+ 4.3 [Modificación de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Mantenimiento%20de%20Requerimientos.md)
+ 
  5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md)
 
 
@@ -60,7 +66,8 @@ Riesgos | Ian  | 23/02/18 |
 1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
 1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
 1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
-1.6 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
+1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
+1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
 
 
 
