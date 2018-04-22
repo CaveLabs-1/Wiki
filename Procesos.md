@@ -1,5 +1,5 @@
 # Creación de Procesos
-Versión 1.1
+Versión 2.1
 
 []() | []()
 --|--
@@ -28,5 +28,8 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de abril
-1.1 | Mejora de proceso del área de M&A | Melannie Torres y Santiago Valencia |  | 19 de abril
+1.0 |Creación del proceso | Mariana Pérez & Mauricio Hernández | Valter Nuñez | 28 de Enero
+2.0 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de Abril
+2.1 | Mejora de proceso del área de M&A | Melannie Torres y Santiago Valencia |  | 19 de Abril
+
+Última Modificación: @mhsiles (22/04/2018)
