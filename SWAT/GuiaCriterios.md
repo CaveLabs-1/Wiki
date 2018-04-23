@@ -24,7 +24,7 @@ Referencia: smartbear.com
 
 Por lo que cualquier sistema que en condiciones normales cargue completamente por debajo de 5 segundos se podría considerar aceptable, pero recuerda que hay sistemas donde el tiempo de respuesta es de mayor importancia por lo que optar por un tiempo menor a 3 segundos sería altamente recomendado.
 
-###Throughput
+### Throughput
 Indica el número de transacciones que puede manejar el sistema por segundo. Este valor depende directamente de las especificaciones técnicas del hosting (hardware), el overhead del procesamiento del sistema, el paralelismo del sistema, y el tipo de transacciones. Este número entre mas alto es mejor.
 
 Este valor va en proporción al uso si es un sistema que lo van a utilizar millones de personas, un throughput alto es lo que se estaría buscando. Pero si es un sistema que solo una persona lo estará utilizando un throughput de 10 operaciones por segundo es suficiente.
