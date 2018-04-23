@@ -1,7 +1,5 @@
-# Guia para la generación de criterios de aceptación
+# Metricas de SWAT
 Versión 1.0
-
-Esta guía pretende ayudar a definir cuales son los valores  permitidos por tu sistema
 
 ## Criterios
 <ol>
