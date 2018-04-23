@@ -1,5 +1,5 @@
 # Proceso de Aceptación de Requerimientos con Stakeholders
-Versión 1.0
+Versión 1.1
 
 
 []() | []()
@@ -25,9 +25,9 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-0.1 | Creación de Encuesta |  Marco Luna | | Abril 2018
-1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | - | 10 Abril 2018
-1.1 | Cambios | Ramón Romero |- |15 Abril 2018
+0.1 | Creación de Encuesta |  Marco Luna | Mauricio Hernández | Abril 2018
+1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | Mauricio Hernández | 10 Abril 2018
+1.1 | Cambios | Ramón Romero | Mauricio Hernández |15 Abril 2018
 
 
 
