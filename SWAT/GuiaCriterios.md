@@ -1,4 +1,4 @@
-#Guia para la generación de criterios de aceptación
+# Guia para la generación de criterios de aceptación
 Versión 1.0
 
 Esta guía pretende ayudar a definir cuales son los valores  permitidos por tu sistema
@@ -9,7 +9,7 @@ Esta guía pretende ayudar a definir cuales son los valores  permitidos por tu s
 </ol>
 
 
-###Tiempo de Respuesta
+### Tiempo de Respuesta
 La velocidad de carga de una página web puede marcar el límite entre el éxito y el fracaso de una organización, es por ende que el tiempo va en proporción a las metas de nuestro cliente, para ello es necesario considerar estos datos:
 
 1. Tiempo cuando la paguina empieza a renderizar, este tiempo entre menor es mejor, pues da al usuario una sensación de logro y retroalimentación de que lo que solicita se está procesando.  Altamente recomendado no mayor a tres segundos.
@@ -38,7 +38,7 @@ Este valor es un poco más difícil de definir pues debes considerar el mayor n�
 
 Así que si el sistema actualmente lo usaran 10 personas es recomendable considerar el crecimiento que puede tener el cliente al usar el sistema y estimar el número, para hacer una prueba donde aguante un 12 que es un crecimiento del 20%.
 
-###Disponibilidad
+### Disponibilidad
 
 Los sistemas no pueden estar siempre activos, por eso se establece el valor mínimo del porcentaje que el sistema debe de estar funcionado.  La media actual de sistemas es de 99%. 
 
