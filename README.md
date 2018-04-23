@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 1.6
+Versión 2.0
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -53,7 +53,10 @@ Versión 1.6
  
  5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md)
 
+## Transición
 
+ 6.1 [Pruebas SWAT](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/PruebasSWAT.md)
+ 
   ## General
   
   * #### Asistencias:
@@ -95,7 +98,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
 1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
 1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 |
-
+2.0 | Adición de Proceso SWAT | Ian | 23/04/18 |
 
 Hecho con ❤️ por:
 
