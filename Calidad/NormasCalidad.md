@@ -7,7 +7,7 @@ Versión 2.0
 
 - El  máximo de caracteres por línea deberá ser 80.
 
-foo\_bar(self, width, height, color=&#39;black&#39;, design=None, x=&#39;foo&#39;,
+      foo\_bar(self, width, height, color=&#39;black&#39;, design=None, x=&#39;foo&#39;,
                          emphasis=None, highlight=0)
 
       if (width == 0 and height == 0 and
@@ -32,15 +32,14 @@ foo\_bar(self, width, height, color=&#39;black&#39;, design=None, x=&#39;foo&#39
 
 - El primer parámetro de una view debe ser llamado &#39;request&#39;.
 
-def my\_view (request, foo):
-
-    #...
+      def my\_view (request, foo):
+        #...
 
 - Las clases de los modelos y sus campos deberán ser nombrados siguiendo los estándares de python, a si mismo los campos deberán ir enseguida sin salto de línea y las funciones o clases que estén dentro de la primera con un salto de línea como separación.
 
-class Person(models.Model):
-         first\_name = models.CharField(max\_length=20)
-         last\_name = models.CharField(max\_length=40)
+          class Person(models.Model):
+              first\_name = models.CharField(max\_length=20)
+              last\_name = models.CharField(max\_length=40)
 
           class Meta:
                  verbose\_name\_plural = &#39;people&#39;
