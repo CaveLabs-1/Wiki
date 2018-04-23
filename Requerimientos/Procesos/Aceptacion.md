@@ -28,7 +28,8 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 0.1 | Creación de Encuesta |  Marco Luna | Mauricio Hernández | Abril 2018
 1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | Mauricio Hernández | 10 Abril 2018
 1.1 | Cambios | Ramón Romero | Mauricio Hernández |15 Abril 2018
-
-
+1.2 | Modificación Plantilla Reporte de Entrega | Mauricio Hernández | Santiago Valencia | 23 Abril 2018
 
 ----
+
+Última modificación: @MHSiles (23/04/2018)
