@@ -1,4 +1,6 @@
 # Manual Arquitectura General
+Versión 1.1
+
 El propósito de esta guía es que cualquier miembro de CaveLabs sea capaz de diseñar, realizar y ejecutar pruebas de unidad, además de configurar, montar y actualizar el servidor de producción de manera automática. También se pretende que puedan integrar herramientas de Continious Integration como lo es TravisCI o Jenkins.
 
 ## Index
@@ -10,6 +12,8 @@ El propósito de esta guía es que cualquier miembro de CaveLabs sea capaz de di
 * [Configración Django](#Django)
 
 * [Configuración servidor](#servidor)
+
+* [Habilitar HTTPS: certificado SSL](#seguridad)
 
 * [Actualización Servidor](#act)
 
@@ -178,6 +182,52 @@ Para poder aplicar práticas como Continious Integration y Automated Deployment,
 
 Tip: Si se llega a encontrar con un error 500 y no se encontró el error usando los comandos mencionados, puede recurrir a cambiar el DEBUG=True del archivo de configuración del proyecto de django.
 
+<a id="seguridad"></a>
+## Habilitar HTTPS: certificado SSL
+
+> Requisitos: Dominio configurado en Digital Ocean, Nginx y Ubuntu (14.4 o posterior)
+
+Ingresar al servidor y ejecutar los siguientes comandos:
+
+```sh
+#Actualizar paquetes y programas
+$ sudo apt-get update
+
+#Instalar el paquete software-properties-common
+$ sudo apt-get install software-properties-common
+
+#Agregar el repositorio de Certbot
+$ sudo add-apt-repository ppa:certbot/certbot
+
+#Actualizar paquetes y programas
+$ sudo apt-get update
+
+#Instalar Certbot para Nginx
+$ sudo apt-get install python-certbot-nginx 
+```
+
+Instalar certificado a Nginx:
+
+```sh
+$ sudo certbot --nginx
+```
+
+Configuración de Certbot:
+
+* Ingresar correo electrónico (para avisos urgentes de renovación y seguridad).
+
+* Aceptar términos y condiciones.
+
+* Seleccionar los dominos para habilitar HTTPS.
+
+* Seleccionar la opción para redirigir todo el tráfico HTTP a HTTPS y quitar acceso a HTTP.
+
+Los certificados tienen una vigencia de 90 días, para automatizar la renovación ejecutar el siguiente comando:
+
+```sh
+$ sudo certbot renew --dry-run
+```
+
 <a id="act"></a>
 ## Actualización servidor
 En la raíz del proyecto deberá de crearse un script que sirva para poder activar el virtual environment, bajar las actualizaciones del repositorio, realizar las migraciones necesarias y actualizar el servidor en caso de que haya algún cambio en el proyecto.
@@ -264,5 +314,11 @@ Para poder integrar TravisCI se deben de seguir de seguir varios pasos:
   ### Jenkins
   
   [Link al manual de Jenkins.](https://github.com/CaveLabs-1/Wiki/blob/master/Integración%20Continua%20Jenkins.pdf)
+  
+## Bitácora
+No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
+---------------|--------|-------|----------|-----------------
+1.0 | Integrar a la wiki | Marco Mancha | Marco Luna |  23 Abril 2018
+1.1 | Habilitar HTTPS: certificado SSL  | Santiago | Marco Luna |  23 Abril 2018
 
-última edición: @MarcoMancha, 23 Abril 2018.
+última edición: @agovc, 23 Abril 2018.
