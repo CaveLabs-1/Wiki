@@ -73,7 +73,7 @@ Recuerda poner al final del documento "Última edición: @username mes dia, año
 
 Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master.
 
-En el caso de que sea un proceso el manager de procesos tendrá que validarlo mediante github para que después el manager de configuración lo valide y lo merge a master.
+En el caso de que sea un proceso, el manager de procesos tendrá que validarlo mediante github para que después el manager de configuración lo valide y lo merge a master.
 
 De esta manera será posible ver cuándo un documento fue creado, que será cuando no tenga número, y el número de veces que fue modificado.
 
