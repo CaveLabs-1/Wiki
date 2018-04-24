@@ -13,6 +13,8 @@ El propósito de esta guía es que cualquier miembro de CaveLabs sea capaz de di
 
 * [Configuración servidor](#servidor)
 
+* [Configuración del dominio](#dominio)
+
 * [Habilitar HTTPS: certificado SSL](#seguridad)
 
 * [Actualización Servidor](#act)
@@ -182,10 +184,72 @@ Para poder aplicar práticas como Continious Integration y Automated Deployment,
 
 Tip: Si se llega a encontrar con un error 500 y no se encontró el error usando los comandos mencionados, puede recurrir a cambiar el DEBUG=True del archivo de configuración del proyecto de django.
 
+<a id="dominio"></a>
+## Configuración del dominio
+
+> Requisitos: Dominio y cuenta de Digital Ocean.
+
+Entrar a la configuración de DNS en la cuenta donde se adquirió el dominio.
+
+<img src="https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Manuales/dns.png" width="350"/>
+
+Agregar los nameservers de Digital Ocean:
+
+* ns1.digitalocean.com
+* ns2.digitalocean.com
+* ns3.digitalocean.com
+
+Abrir Digital Ocean y agregar el dominio a la cuenta:
+
+<img src="https://assets.digitalocean.com/articles/pdocs/site/control-panel/networking/domains/digitalocean.love-listed.png" width="700px"/>
+
+Entrar a los registros del DNS: 
+
+<img src="https://assets.digitalocean.com/articles/pdocs/site/control-panel/networking/domains/digitalocean-love-records.png" width="700px"/>
+
+Agregar registros de:
+
+* **A**: Un registro A asigna una dirección IPv4 a un nombre de dominio. Esto determina dónde dirigir las solicitudes de un nombre de dominio.
+* **MX**: Un registro MX especifica los servidores de correo responsables de aceptar el correo electrónico en nombre de su dominio.
+* **CNAME**: Un registro CNAME define un alias para un registro A; apunta un dominio a otro dominio en lugar de a una dirección IP. Cuando la dirección IP del registro A asociado cambia, el CNAME seguirá a la nueva dirección.
+
+### Redirigir subdominio www al dominio raíz con Nginx
+
+Ingresar al servidor.
+
+Abrir el documento default de sites-available:
+
+```sh
+nano /etc/nginx/sites-available/default
+```
+
+Agregar lo siguiente hasta arriba del documento:
+
+```sh
+server {
+    server_name  www.dominio.com;
+    rewrite ^(.*) https://dominio.com$1 permanent;
+}
+```
+
+Cerrar y guardar el documento:
+
+```sh
+Ctrl + X
+Y
+```
+
+Reiniciar Nginx:
+
+```sh
+service nginx restart
+```
+
+
 <a id="seguridad"></a>
 ## Habilitar HTTPS: certificado SSL
 
-> Requisitos: Dominio configurado en Digital Ocean, Nginx y Ubuntu (14.4 o posterior)
+> Requisitos: Dominio configurado en Digital Ocean, Nginx y Ubuntu (14.4 o posterior).
 
 Ingresar al servidor y ejecutar los siguientes comandos:
 
