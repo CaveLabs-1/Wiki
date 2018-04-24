@@ -28,38 +28,38 @@ Por lo tanto la wiki de Cavelabs será un sitio dónde se encontrará la documen
 
 <a id="README"></a> 
 ## ¿Qué es lo que va en el README y cómo va ordenado? 
-El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontrarán los links a los documentos cuyo propósito sea general. Por ejemplo un link hacia la página de minutas, o la página de los procesos que son utilizados en arquitectura, configuración, planning, etc.
+El README es la página principal de la Wiki, donde solamente puede contener un index donde se encontrarán los links a los procesos y a los documentos cuyo propósito sea general, por ejemplo un link hacia la página de minutas, o lista de herramientas
 
-El index contiene dos apartados:
-  * Procesos: Documentos que dirigen a los procesos de cada módulo del CMMI, por ejemplo, el link que te dirige a los procesos de configuración, calidad, requerimientos. 
-  * General: Documentos que dirige a cosas generales, por ejemplo el link de las minutas o tutoriales.
+En el README se encontrará el mapa de procesos de Cavelabs, abajo de se encontrarán las siguientes etapas:
+* Procesos Generales
+* Incepción
+* Construcción
+* Transición
 
-![Readme](https://image.prntscr.com/image/S_Q9Ka2XQdqSKp23URZLQA.png)
+Los procesos deben de estar ordenados en su etapa correspondiente y el número depende del flujo en el que se ejecuta, es decir, si primero se ejecuta el proceso de requerimientos y después el de arquitectura, requerimientos es 1.1 y arquitectura 1.2.
 
-El nombre del link debe de ser pequeño pero que explique a qué es lo que contiene. Debajo del nombre una pequeña descripción no mayor a un renglón de qué es lo que se encuentra en ese archivo.
+En la sección de general que se encuentra debajo del mapa de procesos estarán los links hacia los documentos de caracter general. El nombre del link debe de ser pequeño pero que explique a qué es lo que contiene. Debajo del nombre una pequeña descripción no mayor a un renglón de qué es lo que se encuentra en ese archivo.
 
 <a id="NuevoDocumento"></a> 
 ## ¿Cómo creo un nuevo documento y dónde lo guardo?
-Para cada guía y formato es necesario crear un documento nuevo que se encuentre en la carpeta de su fase correspondiente, por ejemplo la guía de requisitos de la fase de incepción se encontrará en la carpeta de “Incepción”; si es necesario se puede crear un documento nuevo para el script, sin embargo es preferible que todos los scripts se encuentren en el documento de su respectiva fase, por ejemplo el script de requerimientos que es utilizado en la fase inicial debería de estar en el documento de Fase Incepcion.md
+Todos los procesos deben de estar en una carpeta cuyo nombre sea el nombre del área de CMMI a la que pertenece.
 
 Si la carpeta no está creada, se puede crear fácilmente de la siguiente manera
 ![carpetas](https://i.stack.imgur.com/9Ifmj.gif)
 
-Todos los documentos con excepción de las minutas y los documentos donde estarán todos los links (configuracion.md, arquitectura.md, etc) deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en configuración serán guardadas en “configuracion/guias/Guia Ejemplo.md” y así sucesivamente.
+Los documentos que son utilizados por los procesos deberán de estar en una carpeta específica para cada uno, por ejemplo todas las guías que son usadas en configuración serán guardadas en “configuracion/guias/Guia Ejemplo.md” y así sucesivamente.
 
 ![formato](https://image.prntscr.com/image/G-z1g-2jRz_-GzJoXsaBqg.png)
 
-Los documentos donde se encuentran sólamente links (configuración.md, arquitectura.md, calidad.md, etc) estarán en el root del proyecto.
-
 Las minutas deberán de ser un pdf, para saber más de las minutas puedes ir al apartado de [Minutas](#Minutas), mientras que los formatos deberán de estar como un documento de word.
 
-Donde se escribe el nombre de la carpeta en el espacio correspondiente al nombre del archivo y despues se escribe “/” para indicar que es una carpeta. 
+Los entregables de cada proyecto deben de ser un .pdf o si es un excel un .csv.
 
-Si sólo se requiere un documento para un documento de propósito general puede ser creado en el root del proyecto.
+En el caso de los procesos deben de ser .md
 
 <a id="Nombro"></a> 
 ## ¿Cómo nombro a mi nuevo documento?
-El documento debe de tener el nombre en español y debe de utilizar espacios para que sea más fácil leer el nombre. La longitud del nombre de preferencia debe de ser de máximo dos palabras. Es importante recordar poner la extensión “.md” al final del nombre para que Github lo reconozca como un documento de markdown.
+El documento debe de tener el nombre en español y debe de utilizar espacios para que sea más fácil leer el nombre. La longitud del nombre de preferencia debe de ser de máximo dos palabras. Es importante recordar poner la extensión “.md” a los procesos al final del nombre para que Github lo reconozca como un documento de markdown.
 
 <a id="DocumentoListo"></a> 
 ## Ya tengo mi documento ¿Ahora qué?
@@ -71,11 +71,11 @@ Para los documentos de procesos es necesario tener un apartado de "Procesos Gene
 
 Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018". Si más personas aportaron al documento entonces se tienen que también poner sus usernames, por ejemplo "Última edición: @pirty6, @filyv enero 22, 2018".
 
-Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master. 
+Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master.
+
+En el caso de que sea un proceso el manager de procesos tendrá que validarlo mediante github para que después el manager de configuración lo valide y lo merge a master.
 
 De esta manera será posible ver cuándo un documento fue creado, que será cuando no tenga número, y el número de veces que fue modificado.
-
-**Si lo único que hiciste fue corregir typos puedes hacer merge directamente.**
 
 ![rama](https://image.prntscr.com/image/k-CINQVrTs2_iyL_lO_oAA.png)
 
@@ -105,6 +105,8 @@ Todas las minutas deben de tener el siguiente nombre "Minuta Fecha" donde Fecha 
 
 Después debe de haber un link en el archivo llamado “Minutas.md”, encontrado en el root de la wiki, en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales", lo mismo sucede con los formatos utilizados para las minutas.
 
+Donde se establece que elemento de configuración encontrado en la [línea base](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) es correspondiente al documento subido.
+
 ## ¿Por qué git y no drive?
 Porque git te permite tener un control de los cambios que se han realizado, quién lo hizo y cuándo se realizo. Toda esta información se encuentra en el botón de history que se encuentra en cualquier archivo de git. 
 
@@ -113,4 +115,4 @@ Porque git te permite tener un control de los cambios que se han realizado, qui�
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 enero 01, 2018.
+Última edición: @pirty6 abril 24, 2018.
