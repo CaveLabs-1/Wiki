@@ -140,5 +140,6 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.9 | Cambio de roles | Valter Núñez | 6 de abril de 2018
 1.10 | Cambio de roles | Filiberto Vázquez | 6 de abril de 2018
 1.11 | Cambio de roles | Valter Núñez | 13 de abril de 2018
+1.12 | Cambio de roles | Mariana Pérez | 17 de abril de 2018
 
 Última edición: @pirty6 17 de abril de 2018
