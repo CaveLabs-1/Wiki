@@ -19,29 +19,100 @@ La gestión de los elementos de configuración es importante porque de esta mane
 <a id="Lista"></a>
 ## Lista de Elementos de Configuración
 Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
+<ul>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md">
+   Herramientas
+  </a>
+ </li>
+ <li>
+  <a href="https://support.gitkraken.com/git-workflows-and-extensions/git-flow">
+   Código(No es necesario utilizar gitflow, sin embargo la teoría de gitflow se tiene que utilizar: la cual es no trabajar directamente en develop, por lo tanto se tiene que trabajar en ramas)
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md">
+   Procesos
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md">
+   Roles
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md">
+   Documentación de cada proyecto
+  </a>
+  <ul>
+   <li>Definición del proyecto</li>
+   <li>Propuesta del Proyecto</li>
+   <li>Matriz de trazabilidad</li>
+   <li>Riesgos</li>
+   <li>Componentes del sistema</li>
+   <li>Flujo de vistas</li>
+   <li>Arquitectura inicial</li>
+   <li>Estimación de function points</li>
+   <li>Plantilla de acciones correctivas</li>
+   <li>Estatus del Proyecto en la 1era iteración
+    <ul>
+     <li>WBS</li>
+     <li>Reporte</li>
+     <li>Valor Ganado</li>
+     <li>Costo Actual</li>
+     <li>Valor Ganado vs Valor Planeado</li>
+     <li>Costo Actual vs Costo estimado</li>
+     <li>Retrospectiva</li>
+    </ul>
+    </li>
+   <li>Estatus del Proyecto en la 2da iteración
+    <ul>
+     <li>WBS</li>
+     <li>Reporte</li>
+     <li>Valor Ganado</li>
+     <li>Costo Actual</li>
+     <li>Valor Ganado vs Valor Planeado</li>
+     <li>Costo Actual vs Costo estimado</li>
+     <li>Retrospectiva</li>
+    </ul>
+    </li>
+   <li>Estatus del Proyecto en la 3ra iteración
+    <ul>
+     <li>WBS</li>
+     <li>Reporte</li>
+     <li>Valor Ganado</li>
+     <li>Costo Actual</li>
+     <li>Valor Ganado vs Valor Planeado</li>
+     <li>Costo Actual vs Costo estimado</li>
+     <li>Retrospectiva</li>
+    </ul>
+    </li>
+  <li>Estatus del Proyecto en Transición
+   <ul>
+    <li>WBS</li>
+    <li>Reporte</li>
+    <li>Valor Ganado</li>
+    <li>Costo Actual</li>
+    <li>Valor Ganado vs Valor Planeado</li>
+    <li>Costo Actual vs Costo estimado</li>
+    <li>Riesgos actuales</li>
+   </ul>
+  </li>
+  <li>Estatus del Proyecto general
+   <ul>
+    <li>Reporte</li>
+    <li>Valor Ganado vs Valor Planeado</li>
+    <li>Costo Actual vs Costo estimado</li>
+   </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
 
-* [Herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md)
-* [Código](https://support.gitkraken.com/git-workflows-and-extensions/git-flow) (No es necesario utilizar gitflow, sin embargo la teoría de gitflow se tiene que utilizar: la cual es no trabajar directamente en develop, por lo tanto se tiene que trabajar en ramas)
-* [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
-* [Roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
-* [Documentación de cada proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md)
-  * Definición del proyecto
-  * Propuesta del Proyecto
-  * Matriz de trazabilidad
-  * Riesgos
-  * Componentes del sistema
-  * Flujo de vistas
-  * Arquitectura inicial
-  * Estimación de function points
-  * Plantilla de acciones correctivas
-  * Estatus del Proyecto en la 1era iteración
-  * Estatus del Proyecto en la 2da iteración
-  * Estatus del Proyecto general
- 
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
  Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir.
   
 
 
-Última edición: @pirty6 abril 07, 2018.
+Última edición: @pirty6 abril 25, 2018.
