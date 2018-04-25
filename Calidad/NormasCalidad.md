@@ -1,35 +1,104 @@
 # Normas de Calidad
-Versión 1.3
+Versión 2.0
+
+**Estándares**
+
+**Python**
+
+- El  máximo de caracteres por línea deberá ser 80.
+
+      foo\_bar(self, width, height, color=&#39;black&#39;, design=None, x=&#39;foo&#39;,
+                         emphasis=None, highlight=0)
+
+      if (width == 0 and height == 0 and
+              color == &#39;red&#39; and emphasis == &#39;strong&#39;):
+
+- Indentar código a 4 espacios.
+
+-
+  - No combinar tabs y espacios.
+  - En caso de hacer un salto de línea por llegar al maximo de caracteres, la indentación debe ir alineada al paréntesis que marca el inicio del grupo al que pertenece (igual al ejemplo anterior).
+
+- Nombres
+  - module_name, package_name, ClassName, method_name, ExceptionName, function_name, GLOBAL_CONSTANT_NAME, global_var_name, instance_var_name, function_parameter_name, local_var_name.
+
+   
+
+[https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
+
+**Django**
+
+- Seguir los mismos estándares expuestos en la sección de python.
+
+- El primer parámetro de una view debe ser llamado &#39;request&#39;.
+
+      def my\_view (request, foo):
+        #...
+
+- Las clases de los modelos y sus campos deberán ser nombrados siguiendo los estándares de python, a si mismo los campos deberán ir enseguida sin salto de línea y las funciones o clases que estén dentro de la primera con un salto de línea como separación.
+
+          class Person(models.Model):
+              first\_name = models.CharField(max\_length=20)
+              last\_name = models.CharField(max\_length=40)
+
+          class Meta:
+                 verbose\_name\_plural = &#39;people&#39;
+
+- Dentro de los templates de Django, el código se pone entre llaves dobles, separadas por un espacio entre.
+
+Sí: {{ foo }}
+
+No: {{foo}}
+
+[https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+
+**HTML/CSS**
+
+- Indentación a dos espacios, no combinar tabs con espacios.
+
+- Todo el código tiene que estar escrito en minúsculas, esto aplica para
+
+-
+  - HTML: elementos, nombres, atributos y valores de estos.
+  - CSS: selectores, propiedades y valores de estas.
+
+[https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
 
 
-## Índice
-* [Procesos](#procesos)
-* [User Stories](#US)
 
-<a id="procesos"></a>
-## Procesos
+**Requerimientos**
 
-1. Revisar el proceso correspondiente.
-1. Crear un documento de reporte de calidad para el producto correspondiente. ([Link a plantilla](https://docs.google.com/document/d/15oornAUCWT1yzm99BOdBoMFmlb2Im9zS4xnGPaqICj0/edit))
-1. Realizar peer review.
-1. En caso de realizar cambios o correcciones documentarlos en la plantilla.
-1. Comparar el proceso realizado con el real.
-1. Repertir procedimiento en caso de no cumplir con lo establecido en el proceso.
+[http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/good\_requirements\_594ACCBD.html](http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/good_requirements_594ACCBD.html)
 
-<a id="US"></a>
-## User Stories
+**Funcionalidad**
 
-1. Crear la plantilla de validación. Solo debe de existir una por proyecto. Además, se asignará un encargado por equipo el cual se asegurará del uso apropiado de esta.  ([Link a plantilla](https://docs.google.com/spreadsheets/d/1Sqc37nXJkPJiw0T0BJ-GhtfTWmNsYuW5yb1orBni9XQ/edit#gid=0))
-1. Llenar la plantilla con los ID’s de las US.
-1. Añadir campos a la plantilla de acuerdo al metodo de desarrollo del equipo y requisitos especificos para cada task y work item.
-1. Evaluar si se han cumplido todos los rubros. (Asignar una x si cumple, dejar vacio de lo contrario)
-1. Al finalizar un task o US inmediatamente se realizara lo siguiente mediante al peer review:
-    1. Revisar que se ha documentado el código. (Comentado)
-    1. Revisar que se han cumplido los requisitos especificos en su totalidad.
-    1. En caso de realizar cambios o correcciones documentarlos en la plantilla y volver a realizar peer review. 
+El elemento cumple con la funcionalidad establecida en su análisis y diseño.
 
-* El objetivo del proceso es que el producto terminado siga la misión y visión del departamento. Manteniendo presentes estos valores en todo momento. 
-* El task o US no se podrá marcar como terminado hasta que se cumpla con sus requisitos especificos.
+El elemento pasa las pruebas establecidas durante su análisis.
+
+El elemento brinda retroalimentación continua al usuario respecto a lo que acontece en el sistema.
+
+**Eficiencia**
+
+El elemento realiza su función de la mejor forma.
+
+En caso de que exista una mejor forma de realizar la misma tarea esta debe ser implementada.
+
+**Comentarios de documentación.**
+
+Son escritos para aquellas personas (incluyendo al autor) que en un futuro vayan a mantener, refactorizar o extender tu código.
+
+Antes de documentar, asegura que tu código sea lo más sencillo y eficiente posible. &quot;Good code is self documenting.&quot;
+
+Evita comentarios innecesarios.
+
+Los comentarios explican por qué se hacen las cosas, el código explica cómo se hace.
+
+El comentario se escribe una línea sobre la sección a documentar.
+
+El comentario se escribe siguiendo los estándares de código dependiendo del lenguaje de programación del archivo.
+
+
 
 ## Calendarizar tareas
 1.  Al realizar la planeación de la iteración será necesario asignar prioridad a cada historia de usuario y dentro de esta misma, a las diferentes tareas.
@@ -47,3 +116,4 @@ Versión 1.3
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.4 | Agregar calendarización para tareas | Rodolfo Martínez | . | 4/02/2018
+2.0 | Nuevas Normas de Calidad | Victor Hugo Torres | . | 20/04/2018
