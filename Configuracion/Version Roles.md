@@ -1,5 +1,6 @@
 # Versión de los Roles
 Versión 1.13
+
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
 ## [Managers de Proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Practicas/ProgramManagers.md)
