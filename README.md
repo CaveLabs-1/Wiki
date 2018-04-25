@@ -62,8 +62,10 @@ Versión 2.0
   * #### Asistencias:
     [Lista](https://drive.google.com/open?id=1-PlNH_aFjIOZEFwT5u8G7qJLZWaiHsBdNgrNcYpM8NI) de asistencias para los módulos de clases en el semestre i. 
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
-  * #### [Políticas de Calidad](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md)
+    
+  * #### [Políticas de Calidad](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md):
     Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+    
   * #### [Nuestra manera de trabajo](https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf):
     Guía de la manera de trabajo de CAVELABS.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
@@ -90,17 +92,18 @@ Versión 2.0
 ## Bitácora
 No. de Versión | Cambio | Autor | Fecha de cambio
 ------------|------|-------------|-----------
-1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
-1.1 | Adición de Riesgos | Ian  | 23/02/18 |
-1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
-1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
-1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
-1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
-1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
-1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
-1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
-1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 |
-2.0 | Adición de Proceso SWAT | Ian | 23/04/18 |
+1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18
+1.1 | Adición de Riesgos | Ian  | 23/02/18 
+1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 
+1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 
+1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 
+1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 
+1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 
+1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 
+1.8 | Adición de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 
+1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 
+2.0 | Adición de Proceso SWAT | Ian | 23/04/18 
+2.1 | Adición de políticas de calidad | Mariana|25/04/18
 
 Hecho con ❤️ por:
 
