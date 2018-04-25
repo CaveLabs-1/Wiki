@@ -12,3 +12,5 @@ En caso de que la guía no se encuentre dentro de un formato de excel, tendrá q
 * Si cuenta con 2 o más apartados que al inicio tenga un index.
 * Bitácora de la wiki (Última edición: @pirty6 febrero 12, 2018).
 * Que haya un link en el proceso para llegar a la guía.
+
+Última edición: @pirty6 abril 25, 2018
