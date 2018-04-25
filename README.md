@@ -62,7 +62,9 @@ Versión 2.0
   * #### Asistencias:
     [Lista](https://drive.google.com/open?id=1-PlNH_aFjIOZEFwT5u8G7qJLZWaiHsBdNgrNcYpM8NI) de asistencias para los módulos de clases en el semestre i. 
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
-  * #### [Nuestra manera de trabajo](https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf):
+  * #### [Políticas de Calidad](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md)
+    Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+  * #### [Nuestra manera de trabajo](https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf):
     Guía de la manera de trabajo de CAVELABS.
   * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
     Lista de todos los resultados de las auditorias realizadas por el departamento
