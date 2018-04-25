@@ -6,7 +6,7 @@
 
 [Quien lo ejecutó]
 
-| Descripción | Valor Esperado | Valor Obtenido | Analis (Razón de porque esta asi) |
+| Descripción | Valor Esperado | Valor Obtenido | Análisis (Razón de porque esta asi) |
 | --- | --- | --- | --- |
 | Tiempo cuando empieza a renderizar |   |   |   |
 | Tiempo total del renderizado |   |   |   |

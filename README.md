@@ -59,46 +59,147 @@ Versión 2.0
  
   ## General
   
+  
   * #### Asistencias:
     [Lista](https://drive.google.com/open?id=1-PlNH_aFjIOZEFwT5u8G7qJLZWaiHsBdNgrNcYpM8NI) de asistencias para los módulos de clases en el semestre i. 
     [Acuerdo](https://github.com/CaveLabs-1/Wiki/blob/master/Acuerdo%20de%20asistencias.pdf) del departamento con respecto a las asistencias a los módulos de clase.
-  * #### [Nuestra manera de trabajo](https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf):
-    Guía de la manera de trabajo de CAVELABS.
-  * #### [Auditorías](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md):
+<ul>
+<li>
+  <h4>
+      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md">Políticas de Calidad:
+      </a>
+     </h4>
+  <p>
+    Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf">
+    Nuestra manera de trabajo:
+  </a>
+  </h4>
+  <p>
+    Guía de la manera de trabajo de CAVELABS.
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias.md">
+    Auditorías:
+  </a>
+  </h4>
+  <p>
     Lista de todos los resultados de las auditorias realizadas por el departamento
-  * #### [Métricas y estatus](https://github.com/CaveLabs-1/Wiki/blob/master/MA/Metricas.md):
-    Métricas definidas por equipos y el departamento. Y docuemntos del estatus del proyecto.
-  * #### [Prácticas para entregar ítem de trabajo](https://docs.google.com/spreadsheets/u/1/d/1R8L9a-ujOteCezdlZ_pRg9uxfuB2eIKZjW0UA2jFAAA/edit?usp=sharing):
-    Matriz que contiene las prácticas definidas por el departamento para entregar ítem de trabajo. 
-  * #### [Código de Comportamiento](https://github.com/CaveLabs-1/Wiki/blob/master/C%C3%B3digo%20de%20Comportamiento.pdf):
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/MA/Metricas.md">
+    Métricas y estatus:
+  </a>
+  </h4>
+  <p>
+    Métricas definidas por equipos y el departamento. Y docuemntos del estatus del proyecto.
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://docs.google.com/spreadsheets/u/1/d/1R8L9a-ujOteCezdlZ_pRg9uxfuB2eIKZjW0UA2jFAAA/edit?usp=sharing">
+    Prácticas para entregar ítem de trabajo:
+  </a>
+  </h4>
+  <p>
+    Matriz que contiene las prácticas definidas por el departamento para entregar ítem de trabajo.
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/C%C3%B3digo%20de%20Comportamiento.pdf">
+    Código de Comportamiento:
+  </a>
+  </h4>
+  <p>
     Reglamento que establece las bases de convivencia y comportamiento del departamento
-  * #### [Guía Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md) :
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md">
+    Guía Wiki:
+  </a>
+  </h4>
+  <p>
     Guía para editar o agregar contenido a la Wiki oficial de CaveLabs
-  * #### [Lista de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Versiones%20Herramientas.md) :
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Versiones%20Herramientas.md">
+    Lista de herramientas:
+  </a>
+  </h4>
+  <p>
     Lista de la versión de las herramientas utilizadas por el departamento.
-  * #### [Lista de roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Version%20Roles.md) :
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Version%20Roles.md">
+    Lista de roles:
+  </a>
+  </h4>
+  <p>
     Lista de roles usados por el departamento.
-  * #### [Minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md) :
-    Lista de las minutas realizadas por el departamento
-  * #### [Guía de documentación del usuario](https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf) :
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Minutas.md">
+    Minutas:
+  </a>
+  </h4>
+  <p>
+    ista de las minutas realizadas por el departamento.
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf">
+    Guía de documentación del usuario:
+  </a>
+  </h4>
+  <p>
     Guía que ayudará al departamento a desarrollar el manual de usuario
-  * #### [WBS](https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md) :
+  </p>
+</li>
+<li>
+<h4>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/WBS.md">
+    WBS:
+  </a>
+  </h4>
+  <p>
     Documentación del Work Breakdown Structure definido en clase.
+  </p>
+</li>
+</ul>
     
 ## Bitácora
 No. de Versión | Cambio | Autor | Fecha de cambio
 ------------|------|-------------|-----------
-1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18|
-1.1 | Adición de Riesgos | Ian  | 23/02/18 |
-1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 |
-1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 |
-1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 |
-1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 |
-1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 |
-1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 |
-1.8 | Adicción de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 |
-1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 |
-2.0 | Adición de Proceso SWAT | Ian | 23/04/18 |
+1.0 | Crear mapa de procesos| Santiago Valencia| 18/02/18
+1.1 | Adición de Riesgos | Ian  | 23/02/18 
+1.2 | Adición de Plan de Iteración y Plan de entrega de Ítem de trabajo | Santiago  | 26/02/18 
+1.3 | Adición de Proceso mejora de procesos | Marco Mancha  | 26/02/18 
+1.4 | Agregar acuerdo de asistencias | Santiago Valencia  | 13/03/18 
+1.5 | Agregar proceso de cierre de iteración | Santiago Valencia  | 13/03/18 
+1.6 | Mejorar mapa de procesos | Santiago Valencia y Hugo Torres  | 15/03/18 
+1.7 | Incluir procesos de seguimiento de riesgos y de reporte de estatus al mapa | Filiberto Vázquez | 02/04/18 
+1.8 | Adición de Proceso de Aceptación de Requerimientos, Solicitud de Cambios y Modificación de Requerimientos al Mapa de Procesos | Marco 🌙 | 20/04/18 
+1.9 | Adición de la manera de trabajo de CAVELABS | Santiago Valencia | 20/04/18 
+2.0 | Adición de Proceso SWAT | Ian | 23/04/18 
+2.1 | Adición de políticas de calidad | Mariana|25/04/18
 
 Hecho con ❤️ por:
 

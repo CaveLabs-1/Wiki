@@ -67,8 +67,6 @@ Es importante tener como título principal el nombre del documento para que la p
 
 ![sintaxis](https://image.prntscr.com/image/qWt7qq-ESa_Ky4r3YVCyhg.png)
 
-Para los documentos de procesos es necesario tener un apartado de "Procesos Generales" que son todos los procesos que son utilizados en cualquier momento del desarrollo, después, si es necesario, tiene que tener un apartado de "Procesos utilizados en incepción" , donde estarán todos los procesos que se utilizan sólamente en la fase de incepción y así sucesivamente con las fases restantes (construcción y transición). Dentro de cada apartado no sólo se encontraran los procesos sino que también debe de haber apartados dentro de éstos para guías, formatos, etc. en el apartado correspondiente, por ejemplo, la plantilla para crear procesos deberá de estar dentro del apartado de "Formatos" que se encuentra en "Procesos Generales" en el archivo "procesos.md"
-
 Recuerda poner al final del documento "Última edición: @username mes dia, año.", por ejemplo "Última edición: @pirty6 enero 22, 2018". Si más personas aportaron al documento entonces se tienen que también poner sus usernames, por ejemplo "Última edición: @pirty6, @filyv enero 22, 2018".
 
 Al terminar de editar el documento que se ha creado o uno ya hecho, siempre se tiene que hacer un commit donde se crea un pull request. Después el manager de configuración validará los cambios, si todo esta bien, entonces el manager de configuración hará el merge a master.
