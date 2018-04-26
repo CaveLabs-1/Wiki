@@ -8,7 +8,7 @@ Métricas utilizadas |Áreas de CMMI a las que aporta cada fase del proceso.
 Repositorio de Métricas | Columna en Definición de Fases llamada ‘Áreas a las que Aporta’ 
 Entrada del Proceso | Una necesidad no resuelta
 Criterios de entrada | Que la necesidad esté alineada a los objetivos del departamento. 
-Políticas y estándares | Cumplir con lo establecido en la Guía para Generar un Proceso. LINK.   No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
+Políticas y estándares | Cumplir con lo establecido en la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso) No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
 Salidas del proceso | Proceso definido utilizable
 Criterios de salida | Que el proceso cumpla con el Checklist (LINK). Que sea validado por el SEPG de esa área y el encargado de Procesos. 
 
