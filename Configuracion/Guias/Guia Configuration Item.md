@@ -47,72 +47,18 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
   <ul>
    <li>Definición del proyecto</li>
    <li>Propuesta del Proyecto</li>
-   <li>Matriz de trazabilidad</li>
-   <li>Riesgos</li>
    <li>Componentes del sistema</li>
    <li>Flujo de vistas</li>
    <li>Arquitectura inicial</li>
    <li>Estimación de function points</li>
-   <li>Plantilla de acciones correctivas</li>
-   <li>Estatus del Proyecto en la 1era iteración
-    <ul>
-     <li>WBS</li>
-     <li>Reporte</li>
-     <li>Valor Ganado</li>
-     <li>Costo Actual</li>
-     <li>Valor Ganado vs Valor Planeado</li>
-     <li>Costo Actual vs Costo estimado</li>
-     <li>Retrospectiva</li>
-    </ul>
-    </li>
-   <li>Estatus del Proyecto en la 2da iteración
-    <ul>
-     <li>WBS</li>
-     <li>Reporte</li>
-     <li>Valor Ganado</li>
-     <li>Costo Actual</li>
-     <li>Valor Ganado vs Valor Planeado</li>
-     <li>Costo Actual vs Costo estimado</li>
-     <li>Retrospectiva</li>
-    </ul>
-    </li>
-   <li>Estatus del Proyecto en la 3ra iteración
-    <ul>
-     <li>WBS</li>
-     <li>Reporte</li>
-     <li>Valor Ganado</li>
-     <li>Costo Actual</li>
-     <li>Valor Ganado vs Valor Planeado</li>
-     <li>Costo Actual vs Costo estimado</li>
-     <li>Retrospectiva</li>
-    </ul>
-    </li>
-  <li>Estatus del Proyecto en Transición
-   <ul>
-    <li>WBS</li>
-    <li>Reporte</li>
-    <li>Valor Ganado</li>
-    <li>Costo Actual</li>
-    <li>Valor Ganado vs Valor Planeado</li>
-    <li>Costo Actual vs Costo estimado</li>
-    <li>Riesgos actuales</li>
-   </ul>
-  </li>
-  <li>Estatus del Proyecto general
-   <ul>
-    <li>Reporte</li>
-    <li>Valor Ganado vs Valor Planeado</li>
-    <li>Costo Actual vs Costo estimado</li>
-   </ul>
-   </li>
+   <li>Manual del usuario</li>
+   <li>Handbook de arquitectura</li>
+   <li>WBS</li>
   </ul>
- </li>
-</ul>
-
+   
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
- Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir.
-  
+ Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir. Los documentos que no llevan un control de versiones se agregarán a la línea de trabajo, como lo es el estatus del proyecto, repositorio de métricas, etc.
 
 
-Última edición: @pirty6 abril 25, 2018.
+Última edición: @pirty6 abril 26, 2018.
