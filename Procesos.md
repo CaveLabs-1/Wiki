@@ -10,7 +10,7 @@ Entrada del Proceso | Una necesidad no resuelta
 Criterios de entrada | Que la necesidad esté alineada a los objetivos del departamento. 
 Políticas y estándares | Cumplir con lo establecido en la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso) No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
 Salidas del proceso | Proceso definido utilizable
-Criterios de salida | Que el proceso cumpla con el Checklist (LINK). Que sea validado por el SEPG de esa área y el encargado de Procesos. 
+Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.google.com/spreadsheets/d/1zOmqRjviLrij09tR2fLJbWjU23B3wcWVyoNYkBf4eyU/edit?usp=sharing). Que sea validado por el SEPG de esa área y el encargado de Procesos. 
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado | Áreas
