@@ -16,21 +16,10 @@ En el caso de las guías y formatos se subirán en la carpeta correspondiente a 
 
 <a id="Link"></a>
 ## ¿Dónde pongo links para que visualizen mi proceso?
-Para que los miembros del departamento puedan encontrar fácilmente tu proceso, es necesario que pongas un link que dirija a tu nuevo proceso en el archivo correspondiente al área del proceso. Este archivo se encuentra en el root del repositorio, por ejemeplo Arquitectura.md, Configuración.md, Calidad.md, etc., (Si no existe el documento correspondiente del área que se necesita puedes crearlo).
 
-![Principal](https://image.prntscr.com/image/tZPaLcX7Tdm8NrlHnWgyAw.png)
-
-El link hacia tu proceso tendrá que estar dentro del apartado que le corresponde dentro del archivo. Existen cuatro apartados:
-* Procesos Generales: Procesos que son utilizados en cualquier fase del desarrollo
-* Procesos para Incepción: Procesos que sólamente se utilizan en la fase de incepción
-* Procesos para Construcción: Procesos que sólamente se utilizan en la fase de construcción
-* Procesos para Transición: Procesos que sólamente se utilizan en la fase de transición
-
-De preferencia pon los procesos en orden de ejecución.
+Debe de haber un link hacia tu proceso en el mapa de procesos en la fase correspondiente. Deberá de estar en orden de ejecución.
 
 ## ¿Cómo lo tengo que subir?
 Todos los archivos que sean agregados a la wiki se subiran de la misma manera. Es decir creando un pull-request para que de ésta forma el manager de configuración valide la información agregada. Para más información en cómo hacer el pull-request, o que se tiene que hacer después checa [la guía de la Wiki](https://github.com/CaveLabs-1/Wiki/blob/master/Guia%20Wiki.md). Ésta información se encuentra dentro del apartado "Ya tengo mi documento ¿Ahora qué?"
 
-Si lo único que hiciste fue corregir typos puedes hacer merge directamente.
-
-Última edición: @pirty6 enero 31, 2018.
+Última edición: @pirty6 abril 26, 2018.
