@@ -21,7 +21,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 4 | Definición de Fases | Describir los pasos a seguir para generar la salida del proceso. | Creador del Proceso | PPQA, OPD, PP
 5 | Definición de Implementación | Describir acciones necesarias para poner en acción el proceso a generar. | Creador del Proceso | OPD, PP
 6 | Verificación | Corroborar con el Checklist generado en la Fase 3, que el proceso ya generado cumpla con los estándares establecidos. | SEPG del área o sustituto | OPD, VER, PPQA
-7 | Validación | Corroborar que el proceso haya pasado el Checklist y publicarlo| SEPG de Procesos | OPD, VAL, PPQA
+7 | Validación | Corroborar que el proceso haya pasado el Checklist y publicarlo| SEPG de Procesos | OPD, VER, PPQA
 8 | Implementación | Llevar a cabo las acciones planificadas en la Fase 4. | Creador del Proceso | OPD, PP
 9 | Análisis de Métricas | Identificar la cantidad total de Áreas a las que aporta el proceso. Se muestran en la tabla de Definición de Fases, en la columna de ‘Área’. | Creador del Proceso  | MA 
 
