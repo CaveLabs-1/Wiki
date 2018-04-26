@@ -15,7 +15,7 @@ Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.goog
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------| -----------------------------
-1 | Análisis | <ul><li>Definir objetivo</li><li>Índices y métricas</li><li>Entradas del Proceso</li><li>Criterios de Entrada </li><li>Salidas del Proceso </li></</ul> |Creador del Proceso | MA, PPQA	
+1 | Análisis | <ul><li>Definir objetivo</li><li>Índices y métricas</li><li>Entradas del Proceso</li><li>Criterios de Entrada </li><li>Salidas del Proceso </li></ul> |Creador del Proceso | MA, PPQA	
 2 | Políticas y Estándares | Definir los criterios mínimos para determinar que los artefactos a generar en el proceso son de la calidad establecida por CaveLabs. | Creador del Proceso | PPQA
 3 | Criterios de Salida | Generar un documento con Checklist que se deberá llenar al evaluar cada artefacto de salida del proceso. | Creador del Proceso |PPQA 
 4 | Definición de Fases | Describir los pasos a seguir para generar la salida del proceso. | Creador del Proceso | PPQA, OPD, PP
@@ -36,3 +36,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 2.0 | Agregar repositorio y análisis de métricas | Melannie Torres | Valter Nuñez | 16 de Abril
 2.1 | Mejora de proceso del área de M&A | Melannie Torres y Santiago Valencia | Valter Núñez | 19 de Abril
 3.0 | Cambio y corrección al proceso. Generación de guía | Valter Núñez y Hugo Torres | Manuel Flores | 26 de abril 2018
+3.1 | Corrección de tags y cambiar área CMMI | Marco Mancha | Hugo Torres | 26 de abril 2018
