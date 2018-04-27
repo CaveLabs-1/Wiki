@@ -6,7 +6,7 @@ Para que una guía sea consideraba de buena calidad deberá de cumplir con los s
 En caso de que la guía no se encuentre dentro de un formato de excel, tendrá que tener los siguientes puntos:
 * Extensión .md.
 * Que esté guardado en su carpeta correspondiente (Nombre Proceso/Guias).
-* Que su nombre empiece con "Guia".
+* Que su nombre empiece con "Guía".
 * Que su título sea un h1 (En markdown es #).
 * Que después del título se encuentre una breve descripción de para que sirve.
 * Si cuenta con 2 o más apartados que al inicio tenga un index.
