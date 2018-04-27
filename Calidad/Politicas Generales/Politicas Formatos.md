@@ -6,5 +6,6 @@ Para que un formato sea considerado de buena calidad deberá de cumplir los sigu
 * Que esté guardado en su carpeta correspondiente (Nombre Proceso/Formatos).
 * Extensión .xlsx o .docx.
 * Que haya un link en el proceso para llegar al formato.
+* Nombre del archivo empieza con "Formato" y no contiene números
 
-Última edición: @pirty6 abril 25, 2018
+Última edición: @pirty6 abril 27, 2018
