@@ -42,7 +42,7 @@ Llenar esta plantilla cada vez que haya un cambio o se haya generado el proceso.
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
-1.0 |Creación del proceso | Mariana Pérez & Mauricio Hernández | Valter Nuñez | 28 de Enero
+1.0 | Creación del proceso | Mariana Pérez | Valter Núñez | 26 de abril
 
 ## Versiones
 Para definir la versión a la que el cambio pertenece, seguir la siguiente guía. 
