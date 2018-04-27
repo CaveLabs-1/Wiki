@@ -1,5 +1,5 @@
 # Guía de de Elementos de Configuración
-Ésta guía te ayudará a identificar los elementos de configuración que se versionarán a lo largo del proceso  de versionar para mantener un acuerdo sobre cuál versión se está trabajando. 
+Esta guía te ayudará a identificar los elementos de configuración que se versionarán a lo largo del proceso  de versionar para mantener un acuerdo sobre cuál versión se está trabajando. 
 
 ## Index
 * [¿Qué es un elemento de configuración?](#Elemento)
