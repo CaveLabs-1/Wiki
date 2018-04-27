@@ -26,12 +26,12 @@ Descripción de pasos a seguir para generar la Salida del Proceso de forma exito
 
 Debe seguir la siguiente plantilla: 
 
-## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------| -----------------------------
 Enumeración, iniciando en 1, y yendo de 1 en 1. | Nombre de esta Fase | Acciones necesarias para cumplir esta Fase | Rol del encargado de supervisar esta Fase | Área de CMMI a la que aporta esta Fase
 
 La Definición de Fases debe contar, al final, con la Fase de ‘Análisis de Métricas’. 
+
 TIP: Responder ¿Cómo se analiza e interpretan los datos? ¿Cómo se muestran las métricas (Ej. gráficas, tendencias, etc.)? ¿Cómo va a ser reportada a los interesados (Ej. juntas de team leaders, reportes de estatus, etc.) y con qué frecuencia?
 
 ## Plan de Implementación
