@@ -53,7 +53,9 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
    <li>Estimación de function points</li>
    <li>Manual del usuario</li>
    <li>Handbook de arquitectura</li>
-   <li>WBS</li>
+   <li>Model Goal Question Metric</li>
+   <li>Resultados de Heurística</li>
+   <li>WBS</li>
   </ul>
    
  <a id="No"></a>
