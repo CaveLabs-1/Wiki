@@ -1,5 +1,6 @@
 # Versión de los Roles
-Versión 1.11
+Versión 1.12
+
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
 ## [Managers de Proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Practicas/ProgramManagers.md)
@@ -142,4 +143,3 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.11 | Cambio de roles | Valter Núñez | 13 de abril de 2018
 1.12 | Cambio de roles | Mariana Pérez | 17 de abril de 2018
 
-Última edición: @pirty6 17 de abril de 2018
