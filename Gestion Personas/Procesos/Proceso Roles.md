@@ -18,7 +18,7 @@ No. de Fase | Fase | Actividades | Encargado
 1 | Exploración de prospecto | Identificar persona interesada que quiera desarrollar las habilidades de cierto rol. | Persona con el rol actual o interesado
 2 | Evaluación | Evaluar a los prospectos y determinar si el nuevo integrante va a tomar el papel del rol y el cambio es viable. | Persona con el rol actual o interesada
 3 | Validación | Validar el cambio de rol con los Program Managers y subirlo a la Wiki en la sección de roles indicando el día que el integrate toma el nuevo rol.| Persona con el rol actual y los Program Managers
-4 | Análisis | Revisar los periodos de tiempo en gestión de las personas. En caso de que alguien lleve mucho tiempo en un rol, se puede proponer cambio para desarrollar las habilidades de los demás. Cada vez que se hace un cambio de rol avisar a todo el depatamento como lo indica el plan de implementación. Revisión de los periodos en gestión semanalmanete por los Program Managers. | Persona con el rol actual o interesada o Program Managers
+4 | Análisis | Revisar los periodos de tiempo en gestión de las personas. En caso de que alguien lleve mucho tiempo en un rol, se puede proponer cambio para desarrollar las habilidades de los demás. Cada vez que se hace un cambio de rol avisar a todo el depatamento como lo indica el plan de implementación. Revisión de los periodos en gestión semanalmente por los Program Managers. | Persona con el rol actual o interesada o Program Managers
 
 ## Plan de implementación
 1. Avisar a todo el grupo del cambio o asignación de rol.
