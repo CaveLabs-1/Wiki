@@ -203,6 +203,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.0 | Adición de Proceso SWAT | Ian | 23/04/18 
 2.1 | Adición de políticas de calidad | Mariana|25/04/18
 2.2 | Adición de procesos de gestión de Personas | Mariana | 25/04/18
+2.3 | Ajustar guías de planificación a políticas de calidad | Daniel Amezcua | 01/05/2018
 
 Hecho con ❤️ por:
 
