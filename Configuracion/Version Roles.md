@@ -3,8 +3,8 @@ Versión 1.11
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
 ## [Managers de Proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Practicas/ProgramManagers.md)
-  * Mariana Pérez (17 de abril - presente)
-  * Marco Mancha (6 de abril - presente)
+  * Mariana Pérez (17 de abril - presente)
+  * Marco Mancha (6 de abril - presente)
   * Mauricio Hernández (5 de marzo - 16 de abril)
   * Valter Núñez (28 de febrero - 6 de abril)
   * Santiago Valencia (15 de enero - 15 de marzo)
@@ -50,7 +50,7 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Alejandro Salmón (13 de enero - presente)
     
 * ### Riesgos
-  * Filiberto Vázquez (6 de abril - presente)
+  * Filiberto Vázquez (6 de abril - presente)
   
 ## Equipo SWAT de ambiente de testing
 * Mauricio Hernández (13 de enero - presente)
@@ -68,7 +68,7 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Mauricio Hernández
   * Marco Luna
 * ### Líder de Equipo
-  * Luis Rodríguez (2 de abril - presente)
+  * Luis Rodríguez (2 de abril - presente)
   * Filiberto Vázquez (23 de febrero - 2 de abril)
   * Marco Mancha (19 de enero - 23 de febrero)
 * ### Dueño del Producto
@@ -129,8 +129,8 @@ En este documento se encuentra el historial de todos los roles del departamento 
 No. de versión | Cambio | Autor | Fecha de Cambio
 ---------------|--------|-------|-----------------
 1.0 | Creación | Mariana Pérez | 23 Ene 2018
-1.1 | Modicicación de roles | Santiago y Hugo | 26 Ene 2018
-1.2 | Modicicación de roles | Santiago | 23 Feb 2018
+1.1 | Modificación de roles | Santiago y Hugo | 26 Ene 2018
+1.2 | Modificación de roles | Santiago | 23 Feb 2018
 1.3 | Actualización y rotación de los roles | Santiago | 13 Mar 2018
 1.4 | Equipos de trabajo | Mauricio | 13 Mar 2018
 1.5 | Actualización y rotación de los roles. Corrección de versión. | Valter | 14 de Mar 2018
