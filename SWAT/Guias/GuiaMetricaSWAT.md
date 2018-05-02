@@ -1,5 +1,7 @@
-# Metricas de SWAT
-Versión 1.0
+# Guía Metricas de SWAT
+
+Esta guía pretende ayudar a lector a definir cuáles son sus criterios óptimos para cada sistema que esté realice.
+
 
 ## Criterios
 <ol>
@@ -40,9 +42,5 @@ Así que si el sistema actualmente lo usaran 10 personas es recomendable conside
 
 Los sistemas no pueden estar siempre activos, por eso se establece el valor mínimo del porcentaje que el sistema debe de estar funcionado.  La media actual de sistemas es de 99%. 
 
-
-Bitacora
-No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
-------------|------|-------------|-----------|-----------
-1.0 |Creación de la guia | Iancarlo Romero |  | 23 de Abril
+Última edición: @ianroses mayo 2, 2018
 
