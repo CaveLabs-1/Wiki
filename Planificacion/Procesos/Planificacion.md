@@ -38,12 +38,12 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Documento Planning | Ramón Romero | | 29/ene/2018
-1.1 | Especificación de criterio de entrada y políticas | Mauricio Hernández | | 30/ene/2018
-1.2 | Agregar estimación | Ramón Romero | |
-1.3 | Agregar encargados | Melannie Torres | | 11/feb/2018
+1.0 | Documento Planning | Ramón Romero | Valter Núñez | 29/ene/2018
+1.1 | Especificación de criterio de entrada y políticas | Mauricio Hernández | Valter Núñez | 30/ene/2018
+1.2 | Agregar estimación | Ramón Romero | Valter Núñez |
+1.3 | Agregar encargados | Melannie Torres | Valter Núñez | 11/feb/2018
 2.0 | Adaptar a proceso real | Daniel Amezcua | Mauricio Hernández | 22/mar/2018 
-2.1 | Incluir análisis y repositorio de métricas | Daniel Amezcua, Santiago Valencia|  | 17/abr/2018
-2.2 | Añadir justificación ágil | Daniel Amezcua| | 18/abr/2018
-2.3 | Renombrar fase de involucramiento | Daniel Amezcua | | 26/abr/2018 |
-3.0 | Ajustar a los cambios del proceso de planeación | Daniel Amezcua | | 01/may/2018
+2.1 | Incluir análisis y repositorio de métricas | Daniel Amezcua, Santiago Valencia| Valter Núñez | 17/abr/2018
+2.2 | Añadir justificación ágil | Daniel Amezcua| Valter Núñez | 18/abr/2018
+2.3 | Renombrar fase de involucramiento | Daniel Amezcua | Valter Núñez | 26/abr/2018 |
+3.0 | Ajustar a los cambios del proceso de planeación | Daniel Amezcua | Valter Núñez | 01/may/2018
