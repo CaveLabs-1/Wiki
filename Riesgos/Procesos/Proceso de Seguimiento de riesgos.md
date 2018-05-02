@@ -30,5 +30,3 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.3 | Mejora del proceso: Análisis de métricas | Filiberto Vázquez | Valter Nuñez| 19/04/18
 1.4 | Mejora del proceso: Enlistar plan de implementación | Filiberto Vázquez | Valter Nuñez| 20/04/18
 1.5 | Mejora del proceso: Detallar métricas | Filiberto Vázquez | Valter Nuñez| 20/04/18
-
-Última edición: @filyv abril 20, 2018.
