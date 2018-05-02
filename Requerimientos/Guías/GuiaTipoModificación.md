@@ -1,20 +1,19 @@
 
 
 # Guía para Determinar el Tipo de Modificación del Requerimientos
-
-        A la hora de estimar una modificación es complicado determinar un estándar debido a que no todos los cambios son de la misma naturaleza, algunos son más grandes que otros o más complejos. Con esta guía se busca determinar el tipo de modificación y con ello lograr una estimación adecuada para el mismo.
+A la hora de estimar una modificación es complicado determinar un estándar debido a que no todos los cambios son de la misma naturaleza, algunos son más grandes que otros o más complejos. Con esta guía se busca determinar el tipo de modificación y con ello lograr una estimación adecuada para el mismo.
 
 
 
 **Desarrollo** :
 
-        Las modificaciones en los requerimientos se basan en las necesidades cambiantes de los stakeholders y se necesita poder estimar de manera correcta la modificación para hacer el cambio del plan y determinar si es posible o no el cambio. Estimar debe de ser lo más exacto posible para tener un plan actualizado sin tener la incertidumbre de si el proyecto sigue dentro del costo y alcance acordado.
+Las modificaciones en los requerimientos se basan en las necesidades cambiantes de los stakeholders y se necesita poder estimar de manera correcta la modificación para hacer el cambio del plan y determinar si es posible o no el cambio. Estimar debe de ser lo más exacto posible para tener un plan actualizado sin tener la incertidumbre de si el proyecto sigue dentro del costo y alcance acordado.
 
         Para determinar la estimación se debe determinar el tipo de modificación:
 
 **Modificación de Poco Impacto:**
 
-**       ** La modificación de poco impacto ( **MPI** ) consiste en un cambio muy sencillo de diseño o modelado, el cambio debe de ser rápido y en caso de afectar la funcionalidad, debe ser mínima. La modificación no debe ser mayor a una hora de trabajo y no debe afectar en más de dos ítems de trabajo.
+** La modificación de poco impacto ( **MPI** ) consiste en un cambio muy sencillo de diseño o modelado, el cambio debe de ser rápido y en caso de afectar la funcionalidad, debe ser mínima. La modificación no debe ser mayor a una hora de trabajo y no debe afectar en más de dos ítems de trabajo.
 
         El objetivo de esta modificación es cambiar detalles de la aplicación para mantener la alineación entre las necesidades del stakeholder y los requerimientos.
 
@@ -38,7 +37,7 @@ El cliente quiere la modificación de la posición de un botón, este al ser una
 
 **Modificación de Mediano Impacto:**
 
-**       ** La modificación de mediano impacto ( **MMI** ) consiste en una modificación importante, tanto de diseño como en funcionalidad en la base de un requerimiento existente. La modificación no es algo que pueda resolverse de manera sencilla; estas modificaciones ocupan un esfuerzo mayor a MCI, ocupando aproximadamente entre 1 y 3 horas en completarlo.
+** La modificación de mediano impacto ( **MMI** ) consiste en una modificación importante, tanto de diseño como en funcionalidad en la base de un requerimiento existente. La modificación no es algo que pueda resolverse de manera sencilla; estas modificaciones ocupan un esfuerzo mayor a MCI, ocupando aproximadamente entre 1 y 3 horas en completarlo.
 
         A diferencia de las MPI, las MMI impactan en la mayoría de las categorías de los requerimientos. MMI trata de corregir/mejorar un problema que no fue evaluado en la fase de incepción del proyecto.
 
