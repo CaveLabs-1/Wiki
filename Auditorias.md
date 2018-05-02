@@ -1,6 +1,4 @@
 # Resultados de las auditorías
-Versión 1.2
-
 En este documento se encontrarán todos los resultados de las auditorías realizadas por el departamento.
 
 ## CAVELABS
@@ -37,14 +35,4 @@ En este documento se encontrarán todos los resultados de las auditorías realiz
 * [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Libelulas/Auditoria%20Libelulas%20-%20Sheet1.csv)
 
 
-## Bitácora
-No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
----------------|--------|-------|----------|-----------------
-1.0 | Creación | Santiago | - | 14 de Mar 2018
-1.1 | Agregar bitácora y auditorías recientes | Santiago | Valter Núñez | 20 de Abr 2018
-1.2 | Agregar auditorías MA | Santiago | Valter Núñez | 2 de May 2018
-
-
-
-
-Última edición: @agovc mayo 2, 2018.
+Última edición: @pirty6 mayo 2, 2018.
