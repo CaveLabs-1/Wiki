@@ -1,6 +1,6 @@
 # Guía Metricas de SWAT
 
-Esta guía pretende ayudar a lector a definir cuáles son sus criterios óptimos para cada sistema que esté realice.
+Esta guía pretende ayudar a lector a definir cuáles son sus criterios óptimos para cada sistema que este realice.
 
 
 ## Criterios
