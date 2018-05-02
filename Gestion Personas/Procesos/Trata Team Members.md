@@ -1,15 +1,17 @@
 # Proceso Trata de Team Members
-Versión 1.1
+Versión 2.0
 
 
 []() | []()
 --|--
 Objetivo| Identificar al mejor candidato que podrá complementar las áreas de oportunidad del equipo necesitado, sin dejar de lado las necesidades de su equipo actual dentro del departamento de Cavelabs.
 Métricas utilizadas | Velocidad del equipo, porcentaje de avance el momento y horas de esfuerzo.
-Criterios de entrada | Necesidad del equipo.
-Definir políticas y estándares | Analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes involucrados en el posible cambio.
-Salidas del proceso | Documento de trata de team members Jean Valjean.
-Criterios de salida | Rotación de team members del departamento.
+Repositorio de Métricas | El progreso se medirá por el Team Leader del equipo involucrado de forma periodica (Definido por el Team Leader); los resultados serán almacenados en el [Reporte de Progreso](https://github.com/CaveLabs-1/Wiki/blob/MHSILES/TrataTeamMembers/Gestion%20Personas/Procesos/M%C3%A9trica%20Trata%20de%20Team%20Members)
+Entrada del Proceso | Necesidad identificada por el Team Leader del equipo necesitado y que necesita regularse o mejorarse
+Criterios de Entrada | La necesidad con evidencia de bajo o nulo rendimiento
+Políticas y Estándares | Analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes involucrados en el posible cambio.
+Salidas del Proceso | Documento de trata de team members Jean Valjean.
+Criterios de Salida | Rotación de team members del departamento.
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
@@ -19,6 +21,7 @@ No. de Fase | Fase | Actividades | Encargado
 3 | Identificar a los team members | Se deberán evaluar y seleccionar a los Team Members (de todo el departamento) que sean aptos para cubrir la necesidad que presenta el equipo en cuestión, tomando en cuenta su impacto sobre el equipo en el que actualmente se encuentra. | Program Managers y Team Leaders
 4 | Comentar el cambio / Negociación | Se citarán a todos los involucrados en el posible cambio, comentando la situación y conociendo de igual forma su punto de vista con respecto al movimiento.  | Program Managers, Team Leader y Team Members Preseleccionados
 5 | Rotación | Se formalizará la rotación de los integrantes de los equipos | Program Managers
+6 | Análisis de resultados | El Team Leader evaluará el impacto del nuevo miembro del equipo, camparando el estado anterior con el estado actual del equipo | Team Leader
 
 ## Plan de implementación
 1. Se comentará el cambio en el departamento, para hacerlo del conocimiento de todos
@@ -30,11 +33,12 @@ No. de Fase | Fase | Actividades | Encargado
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-1.0 | Creación | Mauricio Hernández | Valter Núñez | 13 Mar 2018
-1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13 Mar 2018
-1.2| Actualizar proceso | Mauricio Hernández | - | 13 Mar 2018
+1.0 | Creación | Mauricio Hernández | Valter Núñez | 13/03/18
+1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13/03/18
+1.2| Actualizar proceso | Mauricio Hernández | - | 13/03/18
+2.0| Proceso con Medición y An´álisis de Métricas | Mauricio Hernández | - | 02/05/18
 
 
 
 
-Última edición: @mhsiles marzo 13, 2018.
+Última edición: @mhsiles 02/05/2018

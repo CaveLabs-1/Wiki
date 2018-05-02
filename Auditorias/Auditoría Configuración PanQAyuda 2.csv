@@ -1,0 +1,18 @@
+Auditorías de Configuración,,,,,,,,,,
+Fecha: 18/4/18,,,,,,,,,,
+Encargado:,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Actividad,Hora inicio,Tiempo estimado,Hora fin,Tiempo real,Errores,,Documentos a revisar:,CADHU,PanQAyuda,Libelulas
+Checar que la documentación realizada este en el repositorio correspondiente y sección correspondiente,10:28:00 AM,30,10:42:00 AM,14,-,,* Definición del proyecto,Guía de estilos y estándares,* Estatus del Proyecto en la 1era iteración,* Estatus del Proyecto en la 1era iteración
+Checar que los documentos  subidos siga los estándares establecidos,10:45:00 AM,10,10:58:00 AM,3,-,,*Propuesta de Proyecto,* Estatus del Proyecto en la 1era iteración,* Estatus del Proyecto en la 2nda iteración,* Estatus del Proyecto en la 2da iteración
+Checar que los documentos que estén en el repositorio sean las versiones más actualizadas,11:01:00 AM,10,11:13:00 AM,12,-,,* Matriz de trazabilidad,* Estatus del Proyecto en la 2da iteración,,
+Checar que se está siguiendo el estándar de no trabajar en develop directamente,09:51:00 AM,10,10:02:00 AM,11,-,,* Riesgos,,,
+"Checar que el equipo tenga la versión de herramientas que vienen en la wiki, y si no esta en la wiki, versionarlo",10:16:00 AM,10,10:25:00 AM,9,-,,* Componentes del sistema,,,
+,,,,,,,* Flujo de vistas,,,
+,,,,,,,* Arquitectura inicial,,,
+Tarea,Encargado,Fecha límite,,,,,* Estimación de function points,,,
+,,,,,,,* Plantilla de acciones correctivas,,,
+,,,,,,,* Estatus del Proyecto en la 1era iteración,,,
+,,,,,,,* Estatus del Proyecto en la 2da iteración,,,
+,,,,,,,* Estatus del Proyecto general,,,

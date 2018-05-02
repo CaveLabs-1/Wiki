@@ -1,5 +1,5 @@
-# Guía de de Elementos de Configuración
-Ésta guía te ayudará a identificar los elementos de configuración que se versionarán a lo largo del proceso  de versionar para mantener un acuerdo sobre cuál versión se está trabajando. 
+# Guía de Elementos de Configuración
+Esta guía te ayudará a identificar los elementos de configuración que se versionarán a lo largo del proceso  de versionar para mantener un acuerdo sobre cuál versión se está trabajando. 
 
 ## Index
 * [¿Qué es un elemento de configuración?](#Elemento)
@@ -19,29 +19,49 @@ La gestión de los elementos de configuración es importante porque de esta mane
 <a id="Lista"></a>
 ## Lista de Elementos de Configuración
 Identifica el elemento de configuración que se quiera versionar y al darle click te mandará a su respectiva guía.
-
-* [Herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md)
-* [Código](https://support.gitkraken.com/git-workflows-and-extensions/git-flow) (No es necesario utilizar gitflow, sin embargo la teoría de gitflow se tiene que utilizar: la cual es no trabajar directamente en develop, por lo tanto se tiene que trabajar en ramas)
-* [Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md)
-* [Roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
-* [Documentación de cada proyecto](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md)
-  * Definición del proyecto
-  * Propuesta del Proyecto
-  * Matriz de trazabilidad
-  * Riesgos
-  * Componentes del sistema
-  * Flujo de vistas
-  * Arquitectura inicial
-  * Estimación de function points
-  * Plantilla de acciones correctivas
-  * Estatus del Proyecto en la 1era iteración
-  * Estatus del Proyecto en la 2da iteración
-  * Estatus del Proyecto general
- 
+<ul>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md">
+   Herramientas
+  </a>
+ </li>
+ <li>
+  <a href="https://support.gitkraken.com/git-workflows-and-extensions/git-flow">
+   Código(No es necesario utilizar gitflow, sin embargo la teoría de gitflow se tiene que utilizar: la cual es no trabajar directamente en develop, por lo tanto se tiene que trabajar en ramas)
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md">
+   Procesos
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md">
+   Roles
+  </a>
+ </li>
+ <li>
+  <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md">
+   Documentación de cada proyecto
+  </a>
+  <ul>
+   <li>Definición del proyecto</li>
+   <li>Propuesta del Proyecto</li>
+   <li>Componentes del sistema</li>
+   <li>Flujo de vistas</li>
+   <li>Arquitectura inicial</li>
+   <li>Estimación de function points</li>
+   <li>Manual del usuario</li>
+   <li>Handbook de arquitectura</li>
+   <li>Model Goal Question Metric</li>
+   <li>Resultados de Heurística</li>
+   <li>WBS</li>
+   <li>Código</li>
+  </ul>
+   
  <a id="No"></a>
  ## ¿Qué pasa si mi elemento de configuración no se encuentra en la lista?
- Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir.
-  
+ Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir. Los documentos que no llevan un control de versiones se agregarán a la línea de trabajo, como lo es el estatus del proyecto, repositorio de métricas, etc.
 
 
-Última edición: @pirty6 abril 07, 2018.
+Última edición: @pirty6 mayo 2, 2018.
