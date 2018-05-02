@@ -1,11 +1,10 @@
 # Resultados de las auditorías
-Versión 1.1
-
 En este documento se encontrarán todos los resultados de las auditorías realizadas por el departamento.
 
 ## CAVELABS
-### Métricas de los procesos
+### Métricas y análisis de los procesos
 * [19 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Me%CC%81tricas%20-%20Sheet1.csv)
+* [2 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditor%C3%ADa%20M%C3%A9tricas%20-%20Hoja%201.csv)
 
 ### Kanban
 * [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
@@ -36,13 +35,4 @@ En este documento se encontrarán todos los resultados de las auditorías realiz
 * [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Libelulas/Auditoria%20Libelulas%20-%20Sheet1.csv)
 
 
-## Bitácora
-No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
----------------|--------|-------|----------|-----------------
-1.0 | Creación | Santiago | - | 14 de Mar 2018
-1.1 | Agregar bitácora y auditorías recientes | Santiago | Valter Núñez | 20 de Abr 2018
-
-
-
-
-Última edición: @agovc abril 20, 2018.
+Última edición: @pirty6 mayo 2, 2018.
