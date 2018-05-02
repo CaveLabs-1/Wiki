@@ -1,5 +1,5 @@
 # Lista de versiones de las Herramientas
-En esta lista se encontrarán las versiones de las herramientas utilizadas por el departamento de CaveLabs. Esto con la finalidad de mantener un estandar en las versiones utilizadas para evitar problemas de compatibilidad.
+En esta lista se encontrarán las versiones de las herramientas utilizadas por el departamento de CaveLabs. Esto con la finalidad de mantener un estándar en las versiones utilizadas para evitar problemas de compatibilidad.
 
 ## Index
 * [Versiones de Herramientas](#Herramientas)
