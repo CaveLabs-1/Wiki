@@ -32,3 +32,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Definición de Fases corregida | Francisco Monroy | Marco Mancha & Mauricio Hernández | 26 Abril 2018
 1.3 | Cambiar a forma de guía | Santiago Valencia | Valter Núñez | 1 Mayo 2018
 
+Última edición: @agovc mayo 2, 2018
