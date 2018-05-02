@@ -5,7 +5,7 @@ Versión 1.1
 --|--
 Objetivo | Probar un sistema de software.
 Métricas utilizadas | <ul><li>Tiempo de Respuesta</li><li>Throughput</li><li>Número de Conexiones</li><li>Disponibilidad</li></ul>[Guía de Metricas SWAT](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/Guias/GuiaMetricaSWAT.md)
-Repositorio de Métricas | [Formato Swat](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/Formatos/FormatoPruebasSWAT.docx)
+Repositorio de Métricas | [Formato Swat](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/Formatos/FormatoPruebasSWAT.docx), en la wiki de cada equipo.
 Entrada del Proceso | Un nuevo sistema no probado en ambiente final.
 Criterios de entrada | Un sistema que tenga el 100% de la funcionalidad hecha.
 Definir políticas y estándares | Formato de Reporte de Pruebas completa.
