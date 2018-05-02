@@ -8,7 +8,7 @@ Objetivo | Tener control documentado de una alienación de los ítems de trabajo
 Métricas Utilizadas | Número de requerimientos de cambios por iteración.
 Repositorio de Méticas | Las métricas se documentan en las hojas de Reporte de Entrega (Físico).
 Criterios de Entrada | <ul><li>Reporte de Entrega (Proceso de Validación de Cambio de Requerimientos)</li></ul>
-Definir Políticas y Estándares | <ul><li>La información derivada de los S.H. será obtenida por el Product Owner</li><li>[Guía para Determinar el Tipo de Modificación de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Formatos/Gu%C3%ADa%20Tipo%20de%20Modificaci%C3%B3n.pdf)</li><li>Los cambios deberán de ser aprobados por el Team Leader y el Architecture Owner en base a la estimación e impacto en plan de trabajo</li></ul>
+Definir Políticas y Estándares | <ul><li>La información derivada de los S.H. será obtenida por el Product Owner</li><li>[Guía para Determinar el Tipo de Modificación de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/0ed57487486108e0fc03a4e959d28df64023f436/Requerimientos/Gu%C3%ADas/GuiaTipoModificaci%C3%B3n.md)</li><li>Los cambios deberán de ser aprobados por el Team Leader y el Architecture Owner en base a la estimación e impacto en plan de trabajo</li></ul>
 Salidas del Proceso | <ul><li>Hoja de Modificación de Requerimientos terminada (Matriz de Trazabilidad)</li><li>Hoja de Bitácora de Modificaciones (Matriz de Trazabilidad)</li></ul>
 Criterios de Salida | Tener un work item stack actualizado con las nuevas tareas estimadas lista para ser aprobada por los stakeholders.
 

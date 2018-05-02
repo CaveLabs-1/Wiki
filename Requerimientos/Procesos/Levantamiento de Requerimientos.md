@@ -30,7 +30,7 @@ No. de Fase | Fase | Actividades | Área de CMMI
 ## Bitácora
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Creación de proceso | Alejandro Salmon | Mauricio Hernández| 29/ene/2018
+1.0 | Creación de proceso | Alejandro Salmón | Mauricio Hernández| 29/ene/2018
 1.1 |Plan de Implementación Complemento de la fase de análisis | Mauricio Hernández | Valter Nuñez | 1/feb/2018
 2.0 | Implementación par acumplir con CMMI 2 y agregado de fase de recopilación y limitación | Alejandro Salmón | Mauricio Hernández | 19/mar/018
-2.0.1 | Errores en links | Ian Romero |  | 2/abril/2018
+2.0.1 | Errores en links | Ian Romero | Alejandro Salmón | 2/abril/2018
