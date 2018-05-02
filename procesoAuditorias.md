@@ -11,6 +11,7 @@ Versión 1.1
 |    Entradas del Proceso   |    Proceso, documentos generados por el mismo proceso   |
 |    Salidas del proceso   |    Resultado de la Auditoría   |
 |    Criterios de salida   |    Razones de por qué un Checkpoint no fue aceptado   |
+|    Repositorio de Métricas   |    Aqui pongo el rep   |
 
 
 
