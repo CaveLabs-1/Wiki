@@ -1,5 +1,5 @@
 # Proceso Trata de Team Members
-Versión 2.0
+Versión 2.1
 
 
 []() | []()
@@ -14,14 +14,14 @@ Salidas del Proceso | Documento de trata de team members Jean Valjean.
 Criterios de Salida | Rotación de team members del departamento.
 
 ## Definición de Fases
-No. de Fase | Fase | Actividades | Encargado
-------------|------|-------------|-----------
-1 | Rotación de team members del departamento | El Team Leader o Program Manager deberán comunicar a los demás Team Leaders y Program Managers que existe una necesidad en el equipo. | Team Leader/Program Manager
-2 | Evaluar la necesidad | Los Program Managers y Team Leaders analizarán la necesidad, determinando de forma anticipada si es una necesidad que vaya más allá de un posible bajo rendimiento del equipo, evaluando su velocidad, esfuerzo y progreso. | Program Managers y Team Leaders
-3 | Identificar a los team members | Se deberán evaluar y seleccionar a los Team Members (de todo el departamento) que sean aptos para cubrir la necesidad que presenta el equipo en cuestión, tomando en cuenta su impacto sobre el equipo en el que actualmente se encuentra. | Program Managers y Team Leaders
-4 | Comentar el cambio / Negociación | Se citarán a todos los involucrados en el posible cambio, comentando la situación y conociendo de igual forma su punto de vista con respecto al movimiento.  | Program Managers, Team Leader y Team Members Preseleccionados
-5 | Rotación | Se formalizará la rotación de los integrantes de los equipos | Program Managers
-6 | Análisis de resultados | El Team Leader evaluará el impacto del nuevo miembro del equipo, camparando el estado anterior con el estado actual del equipo | Team Leader
+No. de Fase | Fase | Actividades | Encargado | Áreas
+------------|------|-------------|----------- | --------
+1 | Rotación de team members del departamento | El Team Leader o Program Manager deberán comunicar a los demás Team Leaders y Program Managers que existe una necesidad en el equipo. | Team Leader/Program Manager | PMC
+2 | Evaluar la necesidad | Los Program Managers y Team Leaders analizarán la necesidad, determinando de forma anticipada si es una necesidad que vaya más allá de un posible bajo rendimiento del equipo, evaluando su velocidad, esfuerzo y progreso. | Program Managers y Team Leaders | M&A
+3 | Identificar a los team members | Se deberán evaluar y seleccionar a los Team Members (de todo el departamento) que sean aptos para cubrir la necesidad que presenta el equipo en cuestión, tomando en cuenta su impacto sobre el equipo en el que actualmente se encuentra. | Program Managers y Team Leaders | PP & PMC
+4 | Comentar el cambio / Negociación | Se citarán a todos los involucrados en el posible cambio, comentando la situación y conociendo de igual forma su punto de vista con respecto al movimiento.  | Program Managers, Team Leader y Team Members Preseleccionados | PP
+5 | Rotación | Se formalizará la rotación de los integrantes de los equipos | Program Managers | PP & CM
+6 | Análisis de resultados | El Team Leader evaluará el impacto del nuevo miembro del equipo, camparando el estado anterior con el estado actual del equipo | Team Leader | M&A, PP, PPQA & CM
 
 ## Plan de implementación
 1. Se comentará el cambio en el departamento, para hacerlo del conocimiento de todos
@@ -37,8 +37,9 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13/03/18
 1.2| Actualizar proceso | Mauricio Hernández | - | 13/03/18
 2.0| Proceso con Medición y An´álisis de Métricas | Mauricio Hernández | - | 02/05/18
+2.1| Actualizar Plantilla Formato Proceso de Procesos | Mauricio Hernández | - | 03/05/18
 
 
 
 
-Última edición: @mhsiles 02/05/2018
+Última edición: @mhsiles 03/05/2018
