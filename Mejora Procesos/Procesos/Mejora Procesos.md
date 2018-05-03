@@ -17,7 +17,7 @@ Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.goog
 No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------|------
 1 | Identificación de mejoras |<ul><li>Identificar áreas de oportunidad y puntos a mejorar en el proceso</li>| Solicitantes | MA, PPQA
-2 | Implementación de mejoras |<ul><li>Modificar archivo .md del proceso en especfico y generar un pull request.</li>| Solicitantes | PPQA
+2 | Implementación de mejoras |<ul><li>Modificar archivo .md del proceso en específico y generar un pull request.</li>| Solicitantes | PPQA
 3 | Verificación proceso |<ul>Verificar que el proceso:<li>Cumple su propósito</li><li>A partir del script se producen los resultados esperados</li><li>Cumplir con la [Guía para Generar un Proceso]</li>| Cualquier miembro del departamento | PPQA, VER
 4 | Validación proceso | Aceptar el pull request que se había generado en la Fase 2. | SEPG de procesos o SEPG del área. | PPQA, VER
 5 | Implementación |<ul><li>Se deberá de ejecutar el plan de implementación.</li>| Solicitantes | PP, OPD
