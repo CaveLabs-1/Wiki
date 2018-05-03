@@ -34,7 +34,3 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Agregar métricas | Santiago Valencia | Valter Núñez | 19 Abr 2018
 1.3 | Agregar checklist y áreas | Santiago Valencia | Valter Núñez | 2 May 2018
 1.4 | Agregar criterio de entrada | Santiago Valencia | Iancarlo Romero | 3 May 2018
-
-
-
-Última edición: @agovc mayo 3, 2018.
