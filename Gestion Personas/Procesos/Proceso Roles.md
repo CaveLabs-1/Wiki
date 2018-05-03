@@ -28,7 +28,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Santiago y Hugo | Mauricio Hernandez | 21 de Feb 2018
-1.1 | Modificación de métricas | Santiago y Daniel | - | 19 de Abr 2018
+1.1 | Modificación de métricas | Santiago y Daniel | Valter Núñez | 19 de Abr 2018
 1.2 | Correcciónes ortográficas | Santiago | Valter Núñez | 20 de Abr 2018
 1.3 | Agregar checklist y áreas | Santiago | Valter Núñez | 2 de May 2018
 
