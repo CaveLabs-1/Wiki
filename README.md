@@ -20,7 +20,7 @@ Versión 2.3
  
  1.4 [Plan de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
  
- 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos.md)
+ 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md)
   
  1.6 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
 
@@ -203,7 +203,8 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.0 | Adición de Proceso SWAT | Ian | 23/04/18 
 2.1 | Adición de políticas de calidad | Mariana|25/04/18
 2.2 | Adición de procesos de gestión de Personas | Mariana | 25/04/18
-2.3 | Correción de errores | Mariana e Ian | 27/04/18
+2.3 | Corrección de errores | Mariana e Ian | 27/04/18
+2.4 | Corrección link a mejora de procesos | Mariana | 03/04/18
 
 Hecho con ❤️ por:
 
