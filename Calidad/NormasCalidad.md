@@ -115,5 +115,5 @@ El comentario se escribe siguiendo los estándares de código dependiendo del le
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.4 | Agregar calendarización para tareas | Rodolfo Martínez | . | 4/02/2018
-2.0 | Nuevas Normas de Calidad | Victor Hugo Torres | . | 20/04/2018
+1.4 | Agregar calendarización para tareas | Rodolfo Martínez | Valter Núñez | 4/02/2018
+2.0 | Nuevas Normas de Calidad | Victor Hugo Torres | Valter Núñez | 20/04/2018
