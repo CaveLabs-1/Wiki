@@ -18,7 +18,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------|------
 1 | Exploración de prospecto | Identificar persona interesada que quiera desarrollar las habilidades de cierto rol. | Persona con el rol actual o interesado | OPF, OPD
 2 | Evaluación | Evaluar a los prospectos y determinar si el nuevo integrante va a tomar el papel del rol y el cambio es viable. | Persona con el rol actual o interesada | OPF, OPD
-3 | Validación | Validar el cambio de rol con los Program Managers y subirlo a la Wiki en la sección de roles indicando el día que el integrate toma el nuevo rol.| Persona con el rol actual y los Program Managers | VAL
+3 | Validación | Validar el cambio de rol con los Program Managers y subirlo a la Wiki en la sección de roles indicando el día que el integrante toma el nuevo rol.| Persona con el rol actual y los Program Managers | VAL
 4 | Análisis | Revisar los periodos de tiempo en gestión de las personas. En caso de que alguien lleve mucho tiempo en un rol, se puede proponer cambio para desarrollar las habilidades de los demás. Cada vez que se hace un cambio de rol avisar a todo el depatamento como lo indica el plan de implementación. Revisión de los periodos en gestión semanalmente por los Program Managers. | Persona con el rol actual o interesada o Program Managers | MA
 
 ## Plan de implementación
@@ -28,8 +28,8 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
-1.0 | Creación | Santiago y Hugo | Mauricio Hernandez | 21 de Feb 2018
+1.0 | Creación | Santiago y Hugo | Mauricio Hernández | 21 de Feb 2018
 1.1 | Modificación de métricas | Santiago y Daniel | Valter Núñez | 19 de Abr 2018
-1.2 | Correcciónes ortográficas | Santiago | Valter Núñez | 20 de Abr 2018
+1.2 | Correcciones ortográficas | Santiago | Valter Núñez | 20 de Abr 2018
 1.3 | Agregar checklist y áreas | Santiago | Valter Núñez | 2 de May 2018
 1.4 | Cambiar criterios de entrada y entrada del proceso | Santiago | Valter Núñez | 3 de May 2018
