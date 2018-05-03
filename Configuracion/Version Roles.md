@@ -1,5 +1,5 @@
 # Versión de los Roles
-Versión 1.12
+Versión 1.14
 
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
@@ -93,8 +93,11 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * Alejandro López
   * Francisco Monroy
 * ### Líder de equipo
-  * Marco Mancha (14 de marzo - presente)
+  * Iancarlo Romero Rosas (23 de abril - presente )
+  * Alejandro Lopez ( 9 de abril - 23 de abril )
+  * Marco Mancha (14 de marzo - 9 de abril )
   * Ramon Romero (23 de febrero - 13 de marzo)
+  * Mariana Pérez (19 de enero - 23 de febrero)
 * ### Dueño del Producto
   * Francisco Monroy (13 de marzo - presente)
   * Carlos Román (19 de enero - 13 de marzo)
@@ -143,4 +146,5 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.11 | Cambio de roles | Valter Núñez | 13 de abril de 2018
 1.12 | Cambio de roles | Mariana Pérez | 17 de abril de 2018
 1.13 | Cambio de roles | Filiberto Vázquez | 19 de abril de 2018
+1.14 | Cambio de roles | Iancarlo Romero | 2 de Mayo de 2018
 
