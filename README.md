@@ -20,7 +20,7 @@ Versión 2.3
  
  1.4 [Plan de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
  
- 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos.md)
+ 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md)
   
  1.6 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
 
