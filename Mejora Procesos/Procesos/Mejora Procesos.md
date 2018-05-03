@@ -1,35 +1,38 @@
 # Mejora de procesos
-Versión 1.0
+Versión 2.0
 
-
-[]() | []()  
+[]() | []()
 --|--
-Objetivo| Identificar las mejoras para un cierto proceso.
-Métricas utilizadas | Número de propuestas de mejora al proceso.
-Criterios de entrada | [Plantilla de calidad de procesos](https://docs.google.com/document/d/15oornAUCWT1yzm99BOdBoMFmlb2Im9zS4xnGPaqICj0/edit), [Guía de mejora de proceso](https://github.com/CaveLabs-1/Wiki/blob/MarcoMancha-mejora_procesos/Mejora%20Procesos/Guias/Guia%20mejora%20procesos.md), Documentación proceso.
-Definir políticas y estándares | [Plantilla mejora de procesos](https://docs.google.com/document/d/17HQKwXKYE-ZBUbtkp2K9-PwuHS1AvEi2dewGykwelu8/edit)
-Salidas del proceso | Plantilla mejora de procesos con los cambios a realizar al proceso.
-Criterios de salida | Plantilla llena, validada y verificada por los encargados, proceso modificado.
+Objetivo | Identificar las áreas de oportunidad en procesos ya establecidos y propuestas de solución. 
+Métricas utilizadas | <ul><li>Áreas de CMMI a las que aporta cada fase del proceso antes y después de ser modificado</li><li>Tiempo transcurrido desde la solicitud de cambio hasta la implementación</li><li>Resultados de las métricas antes y después del cambio </li></ul>
+Repositorio de Métricas | [Análisis mejora de procesos](https://docs.google.com/spreadsheets/d/1dYzm2tHQ-OIIn0azT0ZlUm_s34FTUqMduSbuWIP936E/edit#gid=0)
+Entrada del Proceso | Proceso ya definido.
+Criterios de entrada | Que la necesidad esté alineada a los objetivos del departamento. 
+Políticas y estándares | Cumplir con lo establecido en la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso.md) No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
+Salidas del proceso | Proceso mejorado utilizable 
+Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.google.com/spreadsheets/d/1zOmqRjviLrij09tR2fLJbWjU23B3wcWVyoNYkBf4eyU/edit?usp=sharing). Que sea validado por el SEPG de esa área y el encargado de Procesos. 
 
 
 ## Definición de Fases
-No. de Fase | Fase | Actividades | Encargado
-------------|------|-------------|-----------
-1 | Identificación de mejoras |<ul><li>Identificar áreas de oportunidad y puntos a mejorar en el proceso</li>| Solicitantes
-2 | Planificación de mejoras |<ul><li>Llenar [plantilla mejora de procesos](https://docs.google.com/document/d/17HQKwXKYE-ZBUbtkp2K9-PwuHS1AvEi2dewGykwelu8/edit) con los datos de los solicitantes y observaciones</li><li>Definir fecha en la que se harán las modificaciones al proceso</li>| Solicitantes
-3 | Implementación de mejoras |<ul><li>Consultar la [guía de procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md) y checar estándares</li><li>Implementar mejoras, resaltar lo que se agregará y tachar lo que se quitará dentro del script del proceso, ubicado en la wiki</li><li>Registrar cambio en log de proceso</li>| Solicitantes
-4 | Verificación proceso |<ul>Verificar que el proceso:<li>Cumple su propósito</li><li>A partir del script se producen los resultados esperados</li><li>Sigue estándares de calidad o se han corregido los estándares faltantes</li>| Solicitantes
-5 | Validación proceso |<ul><li>Contactar a persona responsable por el proceso y al encargado de los procesos dentro del departamento para que aprueben los cambios</li><li>Remover información resaltada y tachada</li><li>Crear una pull request  la Wiki del departamento para que el encargado de configuración pueda checar que se siguen los estándares definidos| Encargado proceso, encargado procesos y encargado configuración</li>
-6 | Notificar mejoras |<ul><li>Se deberá notificar por el canal de slack procesos, la mejora del proceso</li>| Solicitantes
+No. de Fase | Fase | Actividades | Encargado | Áreas
+------------|------|-------------|-----------|------
+1 | Identificación de mejoras |<ul><li>Identificar áreas de oportunidad y puntos a mejorar en el proceso</li>| Solicitantes | MA, PPQA
+2 | Implementación de mejoras |<ul><li>Modificar archivo .md del proceso en específico y generar un pull request.</li>| Solicitantes | PPQA
+3 | Verificación proceso |<ul>Verificar que el proceso:<li>Cumple su propósito</li><li>A partir del script se producen los resultados esperados</li><li>Cumplir con la [Guía para Generar un Proceso]</li>| Cualquier miembro del departamento | PPQA, VER
+4 | Validación proceso | Aceptar el pull request que se había generado en la Fase 2. | SEPG de procesos o SEPG del área. | PPQA, VER
+5 | Implementación |<ul><li>Se deberá de ejecutar el plan de implementación.</li>| Solicitantes | PP, OPD
+6 | Análisis de métricas |<ul><li>Identificar la cantidad total de Áreas a las que aporta el proceso. Se muestran en la tabla de Definición de Fases, en la columna de ‘Área’.</li>| Solicitantes | MA
+
 ## Plan de implementación
 
-1. Una vez aprobado el proceso, notificar al grupo por el canal de slack de procesos que ya existe un proceso para la mejora de procesos.
-2. Subir la respectiva documentación a la wiki del departamento.
+1. Agendar junta con SEPG’s para dar a conocer el cambio y resolver dudas.
+2. Agregar al plan de CaveLabs una actividad para que todos los productos del proceso sean actualizados.
+3. Agregar al plan de CaveLabs una actividad para que una semana después de la mejora, se anoten las métricas y resultados en el [Análisis mejora de procesos](https://docs.google.com/spreadsheets/d/1dYzm2tHQ-OIIn0azT0ZlUm_s34FTUqMduSbuWIP936E/edit#gid=0)
 
 
 ## Bitácora
 
-
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.0 | Creación y Llenado de Documento | Marco Mancha | Mauricio Hernández | 22/2/2018
+2.0 | Actualización del proceso | Marco Mancha | Valter Núñez | 26/4/2018
