@@ -8,7 +8,7 @@ Versión 1.2
 --|--
 Objetivo| Garantizar el levantamiento adecuado de los riesgos presentes durante el desarrollo del proyecto.
 Métricas utilizadas | Probabilidad de ocurrencia de un riesgo.
-Repositorio de metricas | [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/matriz_de_riesgos.xlsx)
+Repositorio de métricas | [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/matriz_de_riesgos.xlsx)
 Entrada del proceso | Riesgo no gestionado.
 Criterios de entrada | Riesgo que impacte al desempeño del departamento.
 Definir políticas y estándares | Cumplir con la guia en el documento [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/matriz_de_riesgos.xlsx)
@@ -21,7 +21,7 @@ No. de Fase | Fase | Actividades | Encargado |Áreas|
 ------------|------|-------------|-----------|-----
 1 | Identificación |LLenar los siguientes campos de la matriz de riesgos: <ul><li>Origen</li><li>Impacto</li> <li>Categoria</li> <li>Probabilidad de riesgo</li><li>Factor de Riesgo</li></ul>  Nota: Multiplicar el factor de probabilidad del riesgo por el impacto (factor de riesgo) | Team members | PMC, RCKM
 2 | Análisis |<ul><li>Priorizar los riesgos a trabajar (ordenar de mayor a menor prioridad).</li><li>Creación del plan de mitigación para cada riesgo cuyo factor de riesgo sea mayor o igual a 9.</li><li>Definir una posible solución a cada riesgo cuyo factor de riesgo sea mayor o igual a 9.</li></ul>| Team members| MA
-3 | Verificación | Corroborar con el Checklist| Team Leader | VER, PMC, PPQA
+3 | Verificación | Corroborar con el Checklist que se halla completado la matriz de riesgos| Team Leader | VER, PMC, PPQA
 4 | Validación | Validar la matriz con al menos dos intregantes más del equipo de trabajo | Product Owner, Team Leader ó Architecture Owner| VER, PPQA
 
 
@@ -36,4 +36,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1 | Creación | Mariana, Ian, Manuel, Daniel, Luis y Valter | Mauricio Hernandez | 7 Feb 2018
 1.1 | Modificación | Mariana | |8 Feb 2018
-1.2 | Actualizar | Luis, Ian | |2 Mayo 2018
+1.2 | Actualizar | Luis, Ian |Valter Nuñez |2 Mayo 2018
