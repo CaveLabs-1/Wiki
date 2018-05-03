@@ -8,7 +8,7 @@ Métricas utilizadas | <ul><li>Áreas de CMMI a las que aporta cada fase del pro
 Repositorio de Métricas | [Análisis mejora de procesos](https://docs.google.com/spreadsheets/d/1dYzm2tHQ-OIIn0azT0ZlUm_s34FTUqMduSbuWIP936E/edit#gid=0)
 Entrada del Proceso | Proceso ya definido.
 Criterios de entrada | Que la necesidad esté alineada a los objetivos del departamento. 
-Políticas y estándares | Cumplir con lo establecido en la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso) No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
+Políticas y estándares | Cumplir con lo establecido en la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso.md) No exceder dos páginas (sin contar bitácora de registros de cambios). El proceso, guías y links de éste mismo escritos correctamente tanto ortográfica como gramáticamente. 
 Salidas del proceso | Proceso mejorado utilizable 
 Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.google.com/spreadsheets/d/1zOmqRjviLrij09tR2fLJbWjU23B3wcWVyoNYkBf4eyU/edit?usp=sharing). Que sea validado por el SEPG de esa área y el encargado de Procesos. 
 
@@ -35,4 +35,4 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.0 | Creación y Llenado de Documento | Marco Mancha | Mauricio Hernández | 22/2/2018
-2.0 | Actualización del proceso | Marco Mancha |  | 26/4/2018
+2.0 | Actualización del proceso | Marco Mancha | Valter Núñez | 26/4/2018
