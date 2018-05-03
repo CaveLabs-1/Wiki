@@ -33,8 +33,3 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Correcciónes ortográficas | Santiago | Valter Núñez | 20 de Abr 2018
 1.3 | Agregar checklist y áreas | Santiago | Valter Núñez | 2 de May 2018
 1.4 | Cambiar criterios de entrada y entrada del proceso | Santiago | Valter Núñez | 3 de May 2018
-
-
-
-
-Última edición: @agovc mayo 3, 2018.
