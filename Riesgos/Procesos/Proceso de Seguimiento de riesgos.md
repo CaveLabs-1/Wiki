@@ -6,10 +6,10 @@ Versión 1.6
 --|--
 Objetivo| Dar un seguimiento a los riesgos identificados.
 Métricas utilizadas |<ul><li>No. de riesgos presentados por semana vs No. de riesgos presentados que se mitigaron por semana.</li></ul>
-Repositorio de Métricas | [Matriz de riesgos de CAVELABS](https://docs.google.com/spreadsheets/d/14xPSNR5b1Wt4JDrhTX16BLKfgs6pFyGvbsGxAcOfQQ0/edit#gid=2120187583) La matriz de riesgos de cada proyecto se encuentra dentro de la wiki de cada proyecto en la carpeta llamada Matriz de Riesgos. 
+Repositorio de Métricas | <ul><li>[Matriz de riesgos de CAVELABS](https://docs.google.com/spreadsheets/d/14xPSNR5b1Wt4JDrhTX16BLKfgs6pFyGvbsGxAcOfQQ0/edit#gid=2120187583)</li><li>La matriz de riesgos de cada proyecto se encuentra dentro de la wiki de cada proyecto en la carpeta llamada Matriz de Riesgos.</li></ul>
 Entrada del proceso | Matriz de riesgos de cada proyecto y de CAVELABS 
 Criterios de entrada | Matriz de riesgos de cada proyecto y de CAVELABS actualizadas semanalmente
-Políticas y estándares |<ul><li>[Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/filyv-MEJORAS-PROCESOS/Riesgos/Formatos/Formato%20Matriz%20de%20riesgos%20v1.3.xlsx)</li><li>[Proceso de Plan de Riesgos](https://github.com/CaveLabs-1/Wiki/blob/filyv-MEJORAS-PROCESOS/Riesgos/Procesos/Plan_de_Riesgos.md)</li></ul>
+Políticas y estándares |<ul><li>[Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/Formato%20Matriz%20de%20riesgos.xlsx)</li><li>[Proceso de Plan de Riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)</li></ul>
 Salidas del proceso | Matriz de riesgos actualizada
 Criterios de salida | [Checklist de Seguimiento de Riesgos](https://docs.google.com/spreadsheets/d/1F7OruBbn_xNM2sIs57PbzoDlE9E39_3lIR_uEy-v8dE/edit#gid=0)
 
