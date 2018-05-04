@@ -10,8 +10,8 @@ Versión 1.1
 |    Estándares/Políticas   |    [Politicas y Estandares](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Estandares_y_Politicas_2.docx)    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
 |    Entradas del Proceso   |    El proceso y el documento generado por el proceso   |
-|    Salidas del proceso   |    Resultado de la Auditoría   |
-|    Criterios de salida   |    Razones porque un checkpoint no fue aceptado   |
+|    Salidas del proceso   |    [Resultado de la Auditoría](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx)   |
+|    Criterios de salida   |    Razones porque un checkpoint no fue aceptado, evaluación con las califiaciones anteriores    |
 | Guia | [Checklist de practicas](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Checklist_2.docx) |
 
 
