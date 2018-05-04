@@ -34,6 +34,3 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.4 | Modificación: Identar | Filiberto Vázquez | Valter Nuñez | 20/04/18
 1.5 | Mejora al proceso | Filiberto Vázquez y Santiago Valencia | Valter Nuñez | 25/04/18
 1.6 | Actualización del proceso | Filiberto Vázquez | Iancarlo Romero | 03/05/18
-
-
-Última edición: @filyv mayo 3, 2018.
