@@ -7,12 +7,12 @@ Versión 1.1
  |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados; y revisa el cumplimiento   |
 |    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué. LINK  A PLANTILLA DE REPORT |
 | Repositorio de Métricas | Auditorias/ReportesInternos |
-|    Estándares/Políticas   |    Politicas[https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Estandares_y_Politicas_2.docx]    |
+|    Estándares/Políticas   |    [Politicas y Estandares](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Estandares_y_Politicas_2.docx)    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
 |    Entradas del Proceso   |    El proceso y el documento generado por el proceso   |
 |    Salidas del proceso   |    Resultado de la Auditoría   |
 |    Criterios de salida   |    Razones porque un checkpoint no fue aceptado   |
-| Guia | Checklist de practicasLINK DE CHECKLIST |
+| Guia | [Checklist de practicas](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Checklist_2.docx) |
 
 
 
