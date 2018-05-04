@@ -5,7 +5,6 @@ Versión 1.1
  |      |      |
  | --- | --- |
  |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados; y revisa el cumplimiento   |
-| --- | --- |
 |    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué. LINK  A PLANTILLA DE REPORT |
 | Repositorio de Métricas | Auditorias/ReportesInternos |
 |    Estándares/Políticas   |    ISO 19011:2011-El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso-Se debe de llenar el el reporte de auditoría y cumplir con la fase de analisis    |
