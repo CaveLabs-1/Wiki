@@ -76,6 +76,15 @@ Versión 2.3
   </p>
 </li>
 <li>
+  <h4>
+      <a href="https://docs.google.com/spreadsheets/d/14xPSNR5b1Wt4JDrhTX16BLKfgs6pFyGvbsGxAcOfQQ0/edit#gid=2120187583">Riesgos:
+      </a>
+     </h4>
+  <p>
+    Seguimiento de los riesgos que ha encontrado y mitigado el departamento.
+  </p>
+</li>
+<li>
 <h4>
   <a href="https://github.com/CaveLabs-1/Wiki/blob/master/FormaDeTrabajo.pdf">
     Nuestra manera de trabajo:
@@ -204,6 +213,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.1 | Adición de políticas de calidad | Mariana|25/04/18
 2.2 | Adición de procesos de gestión de Personas | Mariana | 25/04/18
 2.3 | Correción de errores | Mariana e Ian | 27/04/18
+2.4 | Adición de acciones correctivas y riesgos del departamento | Filiberto Vázquez | 03/05/18
 
 Hecho con ❤️ por:
 
