@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.3
+Versión 2.4
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
