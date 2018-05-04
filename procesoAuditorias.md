@@ -25,6 +25,8 @@ Versión 1.1
 |     3    |     Generar Resultado    | Llenar el reporte de auditoría, especificando por qué una de las prácticas no se han cumplido. | Integrante del Departamento que no haya desarrollado el proceso          | PPQA |
 | 4 | Analisis | Al tener los resultados hacer un cálculo usando SCAMPI-A para tener un aproximado a nuestro avance a CMMI-2Asignar una acción correctiva por cada crítica del proceso. | SEPG Encargado del Proceso | MA |
 
+**ASEGURAR QUE CADA PROCESO CUMPLA CON LO ESTABLE DE CALIDAD Y MEDICONES/ANALISIS**
+
 **PPQA**
 
 - El checklist o guía que provee el proceso es lo suficiente para asegurar calidad de los artefactos generados.
