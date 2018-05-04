@@ -1,5 +1,5 @@
 # Mejora de procesos
-Versión 2.0
+Versión 2.1
 
 []() | []()
 --|--
@@ -18,7 +18,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------|------
 1 | Identificación de mejoras |<ul><li>Identificar áreas de oportunidad y puntos a mejorar en el proceso</li>| Solicitantes | MA, PPQA
 2 | Implementación de mejoras |<ul><li>Modificar archivo .md del proceso en específico y generar un pull request.</li>| Solicitantes | PPQA
-3 | Verificación proceso |<ul>Verificar que el proceso:<li>Cumple su propósito</li><li>A partir del script se producen los resultados esperados</li><li>Cumplir con la [Guía para Generar un Proceso]</li>| Cualquier miembro del departamento | PPQA, VER
+3 | Verificación proceso |<ul>Verificar que el proceso:<li>Cumple su propósito</li><li>A partir del script se producen los resultados esperados</li><li>Cumplir con la [Guía para Generar un Proceso](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Guias/Guia%20para%20Generar%20un%20Proceso.md)</li>| Cualquier miembro del departamento | PPQA, VER
 4 | Validación proceso | Aceptar el pull request que se había generado en la Fase 2. | SEPG de procesos o SEPG del área. | PPQA, VER
 5 | Implementación |<ul><li>Se deberá de ejecutar el plan de implementación.</li>| Solicitantes | PP, OPD
 6 | Análisis de métricas |<ul><li>Identificar la cantidad total de Áreas a las que aporta el proceso. Se muestran en la tabla de Definición de Fases, en la columna de ‘Área’.</li>| Solicitantes | MA
@@ -36,3 +36,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.0 | Creación y Llenado de Documento | Marco Mancha | Mauricio Hernández | 22/2/2018
 2.0 | Actualización del proceso | Marco Mancha | Valter Núñez | 26/4/2018
+2.1 | Corrección de liga | Marco Mancha | Iancarlo Romero | 04/05/2018
