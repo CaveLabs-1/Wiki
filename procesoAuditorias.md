@@ -43,5 +43,5 @@ Versión 2.0
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1.1 | Crear la primera versión del procesos con correcciones de sintaxis| Alejandro López | Valter Núñez | 20 de abril
-2.0 | Adaptar el proceso con el proceso de creacion de proceso| Alejandro López | Ian Rosa | 4 de Mayo
+2.0 | Adaptar el proceso con el proceso de creación de proceso| Alejandro López | Ian Rosa | 4 de Mayo
 
