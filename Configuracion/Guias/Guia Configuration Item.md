@@ -55,7 +55,6 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
    <li>Handbook de arquitectura</li>
    <li>Model Goal Question Metric</li>
    <li>Resultados de Heurística</li>
-   <li>WBS</li>
    <li>Código</li>
   </ul>
    
@@ -64,4 +63,4 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
  Si el elemento que quieres versionar no se encuentra en la lista, y crees que es necesario versionarlo, agrégalo a la lista y crea su respectiva guía. En esta guía se deberá de explicar dónde se va a guardar el elemento de configuración y cómo se va a subir. Los documentos que no llevan un control de versiones se agregarán a la línea de trabajo, como lo es el estatus del proyecto, repositorio de métricas, etc.
 
 
-Última edición: @pirty6 mayo 2, 2018.
+Última edición: @pirty6 mayo 7, 2018.
