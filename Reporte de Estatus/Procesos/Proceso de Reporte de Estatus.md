@@ -22,7 +22,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 4 | Análisis de Métricas | <ul><li>Hacer un análisis e interpretación de los datos comparando el valor ganado contra el valor real y el costo estimado contra el costo real.</li><li>Representar las métricas en gráficas de línea.</li><li>Reportar las gráficas de línea a los interesados en el reporte de estatus.</li></ul> | Team Leaders y PMC Manager | PMC, M&A
 
 ## Plan de implementación
-Cada Team Leader se asegura de monitorear las acciones correctivas diariamente y las agenda en el calendario de mejoras para mejorar continuamente. Además se revisa la retroalimentación, comentarios y notas de minutas pasadas para poder tomar decisiones con base en la información documentada de presentaciones pasadas.
+<ul><li>Cada Team Leader se asegura de monitorear las acciones correctivas diariamente y las agenda en el calendario de mejoras para mejorar continuamente.</li><li>Se revisa la retroalimentación, comentarios y notas de minutas pasadas para poder tomar decisiones con base en la información documentada de presentaciones pasadas.</li></ul>
 
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
