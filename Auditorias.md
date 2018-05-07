@@ -8,6 +8,7 @@ En este documento se encontrarán todos los resultados de las auditorías realiz
 
 ### Kanban
 * [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
+* [3 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/c5523f5168baaa088cd5985a631dfd8b9c0e3b09/Auditorias/Kanban/Kanban%202%20de%20mayo%20-%20Hoja%201.csv)
 
 ### Linguine
 * [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/auditoria_linguine.csv)
