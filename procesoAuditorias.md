@@ -39,8 +39,8 @@ Versión 2.0
 
 ## Plan de implementación
 
-1. Agendar junta con SEPG’s para dar a conocer el cambio y resolver dudas.
-2. Agregar al plan de CaveLabs una actividad para que todos los productos del proceso sean actualizados.
+1. El proceso de auditorías se harán de manera aleatoria 2 cada semana.
+2. Los SEPG tendrán que crear sus acciones correctivas para asegurar los cambios necesarios para asegurar los cambios.
 
   
 ## Bitácora
