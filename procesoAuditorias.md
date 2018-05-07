@@ -1,5 +1,5 @@
 # Proceso de Auditorías
-Versión 2.0
+Versión 2.1
 
 
  |      |      |
@@ -48,4 +48,5 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1.1 | Crear la primera versión del procesos con correcciones de sintaxis| Alejandro López | Valter Núñez | 20 de abril
 2.0 | Adaptar el proceso con el proceso de creación de proceso| Alejandro López | Ian Rosa | 4 de Mayo
+2.1 | Correciones | Alejandro López | Valter Núñez | 7 de Mayo
 
