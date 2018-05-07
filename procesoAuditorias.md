@@ -41,7 +41,7 @@ Versión 2.0
 ## Plan de implementación
 
 1. El proceso de auditorías se harán de manera aleatoria 2 cada semana.
-2. Los SEPG tendrán que crear sus acciones correctivas para asegurar los cambios necesarios para asegurar los cambios.
+2. Los SEPG tendrán que crear sus acciones correctivas para asegurar los cambios necesarios.
 
   
 ## Bitácora
