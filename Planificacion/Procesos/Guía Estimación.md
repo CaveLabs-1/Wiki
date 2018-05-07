@@ -13,7 +13,7 @@ Dentro de esta guía se va a detallar cómo estimar el tamaño de un proyecto co
 
 ## RET DET & FTR
 
-Tipo de elemento de registro (RET): un RET es un subgrupo de elementos de datos reconocibles por el usuario dentro de un ILF o un EIF. Lo mejor es observar las agrupaciones lógicas de datos para ayudar a identificarlas. El concepto de RET se discutirá en detalle en los capítulos que tratan sobre el archivo lógico interno y los archivos de la interfaz externa. (modelo)
+Tipo de elemento de registro (RET): un RET es un subgrupo de elementos de datos reconocibles por el usuario dentro de un ILF ("Internal Logical Files") o un EIF ("External Interface File"). Lo mejor es observar las agrupaciones lógicas de datos para ayudar a identificarlas. (modelo)
 
 Tipo de archivo referenciado (FTR): un FTR es un tipo de archivo al que hace referencia una transacción. Un FTR también debe ser un archivo lógico interno o un archivo de interfaz externo. (relaciones)
 
@@ -49,10 +49,6 @@ Captura de pantalla 2018-02-07 a la (s) 19.47.07.png
 Ejemplo:
 Una pantalla llena de información de la dirección del cliente sería un ejemplo de EQ.
 
-Vocabulario típico:
-Tenga en cuenta que las palabras son muy similares a las relacionadas con los resultados externos.
-Examinar Mostrar Extraer Buscar Buscar Recopilar Obtener listas desplegables Buscar en las líneas En lista de salida de salida Consulta de impresión Búsqueda de escaneo Seleccionar Mostrar informes de visualización
-
 ## Archivos lógicos
 
 Captura de pantalla 2018-02-07 a la (s) 19.48.52.png
@@ -72,6 +68,13 @@ Se usa para calcular el factor para el ajuste de los puntos de función. (Ejempl
   * 4 Influencia significativa
   * 5 Fuerte influencia en todo
 
+La pregunta que debemos hacernos es: <br>
+
+  * ¿Tenemos datos históricos de proyectos similares? Es decir, ¿sabemos cuántas horas tardamos en hacer ciertas actividades de proyectos anteriores que se parecen a este?<br>
+
+  * Si la respuesta es no, tendremos que hacer nuestra mejor aproximación basándonos en nuestro criterio.<br>
+
+  * Si la respuesta es sí, entonces se procede a hacer la estimación utilizando regresión lineal.
 
 ## Referencias:
 
@@ -79,13 +82,6 @@ Se usa para calcular el factor para el ajuste de los puntos de función. (Ejempl
 
 * https://stackoverflow.com/questions/28136141/data-element-typedet-in-function-point-analysis
 
-La pregunta que debemos hacernos es: <br>
-
-* ¿Tenemos datos históricos de proyectos similares? Es decir, ¿sabemos cuántas horas tardamos en hacer ciertas actividades de proyectos anteriores que se parecen a este?<br>
-
-* Si la respuesta es no, tendremos que hacer nuestra mejor aproximación basándonos en nuestro criterio.<br>
-
-* Si la respuesta es sí, entonces se procede a hacer la estimación utilizando regresión lineal.
 
 
-Última edición: @MelannieTorres @davidsrn mayo 1, 2018
+Última edición: @davidsrn mayo 7, 2018
