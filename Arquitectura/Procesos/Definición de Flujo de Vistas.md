@@ -10,8 +10,8 @@ Repositorio de Métricas | Una gráfica de barras mostrando las vistas por histo
 Entrada del Proceso | Necesidad de crear un flujo de vistas para definir una arquitectura
 Criterios de entrada | Criterios para crear la arquitectura, componentes del sistema y requerimientos.
 Definir políticas y estándares | UML
-Salidas del proceso | Diagrama de flujo validado por el cliente, diagrama de despliegue óptimo, [Flujo de Vistas](https://github.com/CaveLabs-1/Wiki/tree/master/Arquitectura/Formatos/Formato%20Ernie%20(Flujo%20de%20Vistas%20y%20Arquitectura%20Inicial).docx), Cumplir con el [Checklist](https://docs.google.com/spreadsheets/d/1HmgptaVZD09DKs0Po2TJ3fVDQKbMR3NBtB9x4wKJ6nQ/edit?usp=sharing)
-Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagrama debe de ser validado por el cliente
+Salidas del proceso | Diagrama de flujo validado por el cliente, diagrama de despliegue óptimo, [Flujo de Vistas](https://github.com/CaveLabs-1/Wiki/tree/master/Arquitectura/Formatos/Formato%20Ernie%20(Flujo%20de%20Vistas%20y%20Arquitectura%20Inicial).docx)
+Criterios de salida | Los Modelos deben de seguir el estándar de UML y el diagrama debe de ser validado por el cliente, cumplir con el [Checklist](https://docs.google.com/spreadsheets/d/1HmgptaVZD09DKs0Po2TJ3fVDQKbMR3NBtB9x4wKJ6nQ/edit?usp=sharing)
 
 
 ## Definición de Fases
