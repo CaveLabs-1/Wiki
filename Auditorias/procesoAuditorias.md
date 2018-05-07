@@ -10,7 +10,7 @@ Versión 2.1
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
 |    Entradas del Proceso   |    El proceso y el documento generado por el proceso   |
 |    Salidas del proceso   |    [Resultado de la Auditoría](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx)   |
-|    Criterios de salida   |   [Llenar la plantilla](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx) Razones porque un checkpoint no fue aceptado, evaluación con las calificaciones anteriores. Al llenar el reporte de auditoría usa la  [Guia prácticas](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Checklist_2.docx) como apoyo. [Checklist de Criterios de Salida](https://docs.google.com/spreadsheets/d/1PPFMxL9YHxfM2FBPDoeMXvrjVf6_NenFBjPuo37E55U/edit#gid=0) |
+|    Criterios de salida   |   [Llenar la plantilla](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx) Razones porque un checkpoint no fue aceptado, evaluación con las calificaciones anteriores. Al llenar el reporte de auditoría usa la  [Guia prácticas](https://github.com/CaveLabs-1/Wiki/blob/ale-Auditorias/Auditorias/guia_proceso_auditoria.md) como apoyo. [Checklist de Criterios de Salida](https://docs.google.com/spreadsheets/d/1PPFMxL9YHxfM2FBPDoeMXvrjVf6_NenFBjPuo37E55U/edit#gid=0) |
 
 
 
