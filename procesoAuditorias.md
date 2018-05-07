@@ -37,6 +37,10 @@ Versión 2.0
 
 - El proceso debe proporcionar una manera de medir los resultado esperado contra los resultado obtenidos; y permite el análisis de esos datos para mejorar el proceso y saber la razón de las discrepancia presentadas
 
+## Plan de implementación
+
+1. Agendar junta con SEPG’s para dar a conocer el cambio y resolver dudas.
+2. Agregar al plan de CaveLabs una actividad para que todos los productos del proceso sean actualizados.
 
   
 ## Bitácora
