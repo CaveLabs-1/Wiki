@@ -49,3 +49,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 2.2 | Añadir justificación ágil | Daniel Amezcua| Valter Núñez | 18/abr/2018
 2.3 | Renombrar fase de involucramiento | Daniel Amezcua | Valter Núñez | 26/abr/2018 |
 3.0 | Ajustar a los cambios del proceso de planeación | Daniel Amezcua | Valter Núñez | 01/may/2018
+3.1 | Actualizar links rotos | Daniel Amezcua | Valter Núñez | 07/may/2018
