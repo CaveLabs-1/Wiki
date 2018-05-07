@@ -28,14 +28,14 @@ Un ejemplo es contar 3 DET para los 3 campos de entrada (Nombre del proyecto, Ti
 
 ## Entradas
 
-Captura de pantalla 2018-02-07 a la (s) 19.43.30.png
+![imagotype](https://i.imgur.com/GV71QGA.png)
 
 
 ## Salidas
 
  Los datos crean informes o archivos de salida enviados a otras aplicaciones.
 
-Captura de pantalla 2018-02-07 a la (s) 19.45.30.png
+![imagotype](https://i.imgur.com/LnEGZaz.png)
 
 
 Vocabulario típico: Explorar Mostrar Obtener resultados en línea Imprimir consulta Informes Solicitud Recuperar búsqueda Seleccionar vista
@@ -44,18 +44,18 @@ Vocabulario típico: Explorar Mostrar Obtener resultados en línea Imprimir cons
 
 Recuperación de datos de uno o más archivos lógicos internos y archivos de interfaz externos.
 
-Captura de pantalla 2018-02-07 a la (s) 19.47.07.png
+![imagotype](https://i.imgur.com/juE9lGH.png)
 
 Ejemplo:
 Una pantalla llena de información de la dirección del cliente sería un ejemplo de EQ.
 
 ## Archivos lógicos
 
-Captura de pantalla 2018-02-07 a la (s) 19.48.52.png
+![imagotype](https://i.imgur.com/ojuuEkw.png)
 
 ## Interfaces
 
-Captura de pantalla 2018-02-07 a la (s) 19.50.20.png
+![imagotype](https://i.imgur.com/g0tadlp.png)
 
 ## Influencia
 
