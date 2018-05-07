@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.5
+Versión 2.6
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -57,7 +57,7 @@ Versión 2.5
 
 ## Transición
 
- 6.1 [Pruebas SWAT](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/PruebasSWAT.md)
+ 6.1 [Pruebas SWAT](https://github.com/CaveLabs-1/Wiki/blob/master/SWAT/Procesos/ProcesoPruebasSWAT.md)
  
   ## General
   
@@ -215,6 +215,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.3 | Correción de errores | Mariana e Ian | 27/04/18
 2.4 | Adición de acciones correctivas y riesgos del departamento | Filiberto Vázquez | 03/05/18
 2.5 | Corrección liga mejora de procesos | Marco Mancha | 04/05/18
+2.6 | Modificación liga Proceso SWAT | Ian | 07/04/18
 
 Hecho con ❤️ por:
 
