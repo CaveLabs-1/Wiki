@@ -56,6 +56,7 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
    <li>Model Goal Question Metric</li>
    <li>Resultados de Heurística</li>
    <li>Código</li>
+   <li>Formato SWAT</li>
   </ul>
    
  <a id="No"></a>
