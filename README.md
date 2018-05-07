@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.4
+Versión 2.5
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -20,7 +20,7 @@ Versión 2.4
  
  1.4 [Plan de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Plan_de_Riesgos.md)
  
- 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos.md)
+ 1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md)
   
  1.6 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
 
@@ -214,6 +214,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.2 | Adición de procesos de gestión de Personas | Mariana | 25/04/18
 2.3 | Correción de errores | Mariana e Ian | 27/04/18
 2.4 | Adición de acciones correctivas y riesgos del departamento | Filiberto Vázquez | 03/05/18
+2.5 | Corrección liga mejora de procesos | Marco Mancha | 04/05/18
 
 Hecho con ❤️ por:
 
