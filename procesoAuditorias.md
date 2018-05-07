@@ -6,7 +6,7 @@ Versión 2.1
  | --- | --- |
  |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados; y revisa el cumplimiento   |
 |    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué.|
-|    Estándares/Políticas   |* Las plantilla de deber de tener la fecha * La plantilla debe de contener las calificación de la auditoría interna anterior y oficial * El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso * Se debe de llenar el el reporte de auditoría y cumplir con la fase de análisis * Al llenar la plantilla no siempre tener en cuenta el propósito de las auditorías.   |
+|    Estándares/Políticas   |* Las plantilla de deber de tener la fecha * La plantilla debe de contener las calificación de la auditoría interna anterior y oficial * El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso * Se debe de llenar el el reporte de auditoría y cumplir con la fase de análisis * Al llenar la plantilla no siempre tener en cuenta el propósito de las auditorías. * Este proceso debe de ser ejecutada mínimo dos veces por semana |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
 |    Entradas del Proceso   |    El proceso y el documento generado por el proceso   |
 |    Salidas del proceso   |    [Resultado de la Auditoría](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx)   |
