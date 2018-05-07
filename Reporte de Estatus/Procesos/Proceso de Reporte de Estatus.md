@@ -10,7 +10,7 @@ Repositorio de Métricas | Para cada fase de cada proyecto debe de haber un arch
 Entrada del proceso | <ul><li>Reporte de Estatus</li><li>Acciones Correctivas</li><li>Minuta de Reporte de Estatus de la presentación previa</li></ul> 
 Criterios de entrada | <ul><li>Reporte de Estatus actualizado para cada proyecto</li><li>Acciones Correctivas actualizadas para cada proyecto</li><li>Minuta de Reporte de Estatus previa en la carpeta de minutas dentro del folder de Minutas de Reportes de Estatus </li></ul>
 Políticas y estándares | <ul><li>Las presentaciones de reporte de estatus en el departamento se realizan cada jueves.</li><li> Las presentaciones con socios formadores se deben agendar con al menos una semana de anticipación y son sujetas a disponibilidad de los socios.</li><li> Las acciones correctivas deben ser monitoreadas diariamente en las juntas de coordinación (Daily Meetings).</li><li>[Formato de Minuta de Reporte de Estatus](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Formatos/Formato%20Minuta%20Reporte%20de%20Estatus.docx)</li><li>[Formato de Seguimiento de Acciones Correctivas](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Formatos/Formato%20Seguimiento%20de%20Acciones%20Correctivas.xlsx)</li></ul>
-Salidas del proceso | <ul><li>Presentación del reporte de estatus.</li><li>Minuta de la presentación de reporte de estatus.</li><li>Acciones Correctivas del departamento y de cada proyecto.</li><li>Calendario de mejora.</li></ul>
+Salidas del proceso | <ul><li>Presentación del reporte de estatus.</li><li>Minuta de la presentación de reporte de estatus.</li><li>Acciones Correctivas de cada proyecto.</li><li>Calendario de mejora.</li></ul>
 Criterios de salida | [Checklist de Reporte de Estatus](https://docs.google.com/spreadsheets/d/1c-d3avPdlsyyNQhaoRyOa5mnLa7lMAeLJ6KnqnNKN_U/edit#gid=0)
 
 ## Definición de Fases
@@ -22,7 +22,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 4 | Análisis de Métricas | <ul><li>Hacer un análisis e interpretación de los datos comparando el valor ganado contra el valor real y el costo estimado contra el costo real.</li><li>Representar las métricas en gráficas de línea.</li><li>Reportar las gráficas de línea a los interesados en el reporte de estatus.</li></ul> | Team Leaders y PMC Manager | PMC, M&A
 
 ## Plan de implementación
-Cada Team Leader se asegura de monitorear las acciones correctivas diariamente y las agenda en el calendario de mejoras para mejorar continuamente. Además se revisa la retroalimentación, comentarios y notas de minutas pasadas para poder tomar decisiones con base en la información documentada de presentaciones pasadas.
+<ul><li>Cada Team Leader se asegura de monitorear las acciones correctivas diariamente y las agenda en el calendario de mejoras para mejorar continuamente.</li><li>Se revisa la retroalimentación, comentarios y notas de minutas pasadas para poder tomar decisiones con base en la información documentada de presentaciones pasadas.</li></ul>
 
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
