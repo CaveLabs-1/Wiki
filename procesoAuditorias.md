@@ -25,7 +25,7 @@ Versión 2.1
 |     3    |     Generar Resultado    | Llenar el reporte de auditoría, especificando por qué una de las prácticas no se han cumplido. | Integrante del Departamento que no haya desarrollado el proceso          | PPQA |
 | 4 | Analisis | Al tener los resultados hacer un cálculo usando SCAMPI-A para tener un aproximado a nuestro avance a CMMI-2 Asignar una acción correctiva por cada crítica del proceso. | SEPG Encargado del Proceso | MA |
 
-**ASEGURAR QUE CADA PROCESO CUMPLA CON LO ESTABLECIDO DE CALIDAD Y MEDICONES/ANALISIS**
+**ASEGURAR QUE CADA PROCESO CUMPLA CON LO ESTABLECIDO DE CALIDAD Y MEDICIONES/ANÁLISIS**
 
 **PPQA**
 
@@ -48,5 +48,5 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ------------|------|-------------|-----------|-----------
 1.1 | Crear la primera versión del procesos con correcciones de sintaxis| Alejandro López | Valter Núñez | 20 de abril
 2.0 | Adaptar el proceso con el proceso de creación de proceso| Alejandro López | Ian Rosa | 4 de Mayo
-2.1 | Correciones | Alejandro López | Valter Núñez | 7 de Mayo
+2.1 | Correcciones | Alejandro López | Valter Núñez | 7 de Mayo
 
