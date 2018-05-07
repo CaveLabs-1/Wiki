@@ -5,7 +5,7 @@ Versión 2.0
  |      |      |
  | --- | --- |
  |    Objetivo   |    Revisar el apego y cumplimiento del Procesos a los requisitos a que fueron diseñados; y revisa el cumplimiento   |
-|    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué. LINK  A PLANTILLA DE REPORT |
+|    Métricas utilizadas   | El reporte de auditoría completado verificando si pasó una práctica y si no reportar el por qué.|
 | Repositorio de Métricas | Auditorias/Reportes_Internos |
 |    Estándares/Políticas   |* Las plantilla de deber de tener la fecha * La plantilla debe de contener las calificación de la auditoría interna anterior y oficial * El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso * Se debe de llenar el el reporte de auditoría y cumplir con la fase de análisis    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
