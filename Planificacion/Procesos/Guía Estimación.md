@@ -38,8 +38,6 @@ Un ejemplo es contar 3 DET para los 3 campos de entrada (Nombre del proyecto, Ti
 ![imagotype](https://i.imgur.com/LnEGZaz.png)
 
 
-Vocabulario típico: Explorar Mostrar Obtener resultados en línea Imprimir consulta Informes Solicitud Recuperar búsqueda Seleccionar vista
-
 ## Inquiere
 
 Recuperación de datos de uno o más archivos lógicos internos y archivos de interfaz externos.
