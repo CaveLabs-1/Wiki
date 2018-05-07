@@ -9,8 +9,8 @@ Versión 2.0
 | Repositorio de Métricas | Auditorias/Reportes_Internos |
 |    Estándares/Políticas   |    [Politicas y Estandares]   Las plantilla de deber de tener la fecha 
 La plantilla debe de contener las calificación de la auditoría interna anterior y oficial
--El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso
--Se debe de llenar el el reporte de auditoría y cumplir con la fase de análisis    |
+El/La auditor@ no puede ser ni haber sido el SEPG de ese proceso
+Se debe de llenar el el reporte de auditoría y cumplir con la fase de análisis    |
 |    Criterios de entrada   |    Un proceso ya establecido y usado mínimo una vez.   |
 |    Entradas del Proceso   |    El proceso y el documento generado por el proceso   |
 |    Salidas del proceso   |    [Resultado de la Auditoría](https://github.com/CaveLabs-1/Wiki/raw/ale-Auditorias/Auditorias/Plantilla_Reporte_De_Estatus_2.docx)   |
