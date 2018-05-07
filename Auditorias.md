@@ -1,39 +1,42 @@
 # Resultados de las auditorías
 En este documento se encontrarán todos los resultados de las auditorías realizadas por el departamento.
 
-## CAVELABS
-### Métricas y análisis de los procesos
-* [19 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Me%CC%81tricas%20-%20Sheet1.csv)
-* [2 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditor%C3%ADa%20M%C3%A9tricas%20-%20Hoja%201.csv)
+### Arquitectura
+##### Componentes del Sistema
+* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Arquitectura/Componentes%20del%20Sistema/Auditoria%20Componentes%20del%20Sistema%207%20marzo%202018.csv)
+
+##### Flujo de vistas y Arquitectura inicial
+* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Arquitectura/Flujo%20de%20Vistas/Auditoria%20Flujo%20de%20vistas%207%20marzo%202018.csv)
+
+
+### Configuración
+##### Libélulas
+* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Configuracion/Libelulas/Auditoria%20Configuracion%20Libelulas%207%20marzo%202018.csv)
+* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Configuracion/Libelulas/Auditoria%20Configuracion%20Libelulas%2018%20abril%202018.csv)
+
+##### CADHU
+* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Configuracion/CADHU/Auditoria%20Configuracion%20CADHU%2018%20abril%202018.csv)
+
+##### PanQ'Ayuda
+* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Configuracion/PanQAyuda/Auditoria%20Configuracion%20PanQAyuda%205%20de%20marzo%202018.csv)
+* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Configuracion/PanQAyuda/Auditoria%20Configuracion%20PanQAyuda%2018%20abril%202018.csv)
 
 ### Kanban
-* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Kanban%205%20de%20marzo.csv)
-* [3 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/c5523f5168baaa088cd5985a631dfd8b9c0e3b09/Auditorias/Kanban/Kanban%202%20de%20mayo%20-%20Hoja%201.csv)
+* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Kanban/Auditoria%20Kanban%205%20de%20marzo%202018.csv)
+* [3 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Kanban/Auditoria%20Kanban%203%20de%20mayo%202018.csv)
 
-### Linguine
-* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/auditoria_linguine.csv)
 
-### Flujo de vistas y Arquitectura inicial
-* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditoria_Enrie.csv%20-%20auditoria_linguine.csv.csv)
+### Métricas y análisis de los procesos
+* [19 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Metricas/Auditoria%20Metricas%2019%20abril%202018.csv)
+* [2 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Metricas/Auditoria%20Metricas%202%20mayo%202018.csv)
+
+
 
 ### Planificación
-* [10 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditoria-planificacio%CC%81n-6abril.pdf)
+* [6 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Planificacion/Auditoria%20Planificacion%206%20abril%202018.pdf)
+* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Planificacion/Auditoria%20Planificacion%2018%20abril%202018.pdf)
 
 ### Riesgos
-* [19 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditor%C3%ADa%20de%20Riesgos.csv)
+* [19 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/Hotfix/Arreglar-archivos-auditorias/Auditorias/Riesgos/Auditoria%20Riesgos%2019%20marzo%202018.csv)
 
-## Pan Q Ayuda
-### Configuración
-* [5 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditori%CC%81a%20Configuracio%CC%81n%20Pan%20Q'Ayuda%205%20de%20marzo.1.csv)
-
-## CADHU
-### Configuración
-* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditor%C3%ADa%20Configuraci%C3%B3n%20CADHU.csv)
-
-## Libélulas
-### Configuración
-* [7 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Auditoria_Configuracion_Libelulas.csv)
-* [18 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Libelulas/Auditoria%20Libelulas%20-%20Sheet1.csv)
-
-
-Última edición: @pirty6 mayo 2, 2018.
+Última edición: @pirty6 mayo 7, 2018.
