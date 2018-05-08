@@ -6,7 +6,7 @@ Dentro de esta guía se va a detallar cómo estimar el tamaño de un proyecto co
   * [Entradas](#entradas)
   * [Salidas](#salidas)
   * [Inquiere](#inquiere)
-  * [Archivos Lógicos](#arch)
+  * <a href="#arch">Archivos Lógicos</a>
   * [Interfaces](#interfaces)
   * [Influencia](#influencia)
 
