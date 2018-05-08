@@ -102,7 +102,7 @@ No: {{foo}}
 
 ## Calendarizar tareas
 1.  Al realizar la planeación de la iteración será necesario asignar prioridad a cada historia de usuario y dentro de esta misma, a las diferentes tareas.
-    1. En base a esta prioridad, se planearan fechas para completar cada una de estas tareas dentro del tiempo delimitado de dicha      iteración (respetando la prioridad previamente definida). Esto con fin de asegurar el seguimiento de tanto los tiempos y prioridad planeadas inicialmente.
+    1. En base a esta prioridad, se planearán fechas para completar cada una de estas tareas dentro del tiempo delimitado de dicha iteración (respetando la prioridad previamente definida). Esto con fin de asegurar el seguimiento de tanto los tiempos y prioridad planeadas inicialmente.
  
  
  1.  Al encontrar un defecto, este se calendarizará tomando en cuenta lo siguiente:
