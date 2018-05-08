@@ -37,8 +37,3 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13/03/18
 1.2| Actualizar proceso | Mauricio Hernández | - | 13/03/18
 2.0| Proceso con Medición y An´álisis de Métricas | Mauricio Hernández | - | 02/05/18
-
-
-
-
-Última edición: @mhsiles 02/05/2018
