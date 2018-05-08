@@ -1,5 +1,4 @@
-**Aviso** :
-
+# Guía para el proceso de Auditorías
 La intención del entrevistador es asegurar la calidad y el seguimiento de las métricas este checklist se usa para verificar que el proceso tiene un propósito para el departamento y comprobar el apego a través de la concordancia entre lo que establece el proceso y los artefactos creado por el mismo. Siempre tener presente el propósito de cada área de proceso al momento de auditar el proceso.
 
 **General**
@@ -25,14 +24,14 @@ La intención del entrevistador es asegurar la calidad y el seguimiento de las m
 Propósito:manejar los requerimientos del producto y asegurar el alineamiento de esto requerimientos con el plan de trabajo y tener un seguimiento en de los requimirmiento
 
 - SP 1.1
-  - El proceso genera documentos para que ambos el cliente y la compañía                 entiendan a un nivel medio de abstracción que se obtendrá sistema
+  - El proceso genera documentos para que ambos el cliente y la compañía entiendan a un nivel medio de abstracción que se obtendrá sistema
   - El proceso se asegura que esto documentos estén generados
-  - (Se debe tener los documentos) al leer lo requisitos y la problemática                 del cliente se logra entender de manera general que los                 requerimientos están acorde con lo cliente tal vez espere
-  - El proceso asegura que los requerimientos generados sean evaluados y                 aceptados por el stakeholder
+  - (Se debe tener los documentos) al leer lo requisitos y la problemática del cliente se logra entender de manera general que los requerimientos están acorde con lo cliente tal vez espere
+  - El proceso asegura que los requerimientos generados sean evaluados y aceptados por el stakeholder
 
 - SP 1.2
-  - EL proceso genera alguna forma de confirmar el compromiso de los                 integrantes del proyecto
-  - El proceso de forma explícita está preparado para cuando haya algún                 tipo de cambio en los requerimientos (agregar, eliminación o                 modificación) se re-evalúe el compromiso
+  - EL proceso genera alguna forma de confirmar el compromiso de los integrantes del proyecto
+  - El proceso de forma explícita está preparado para cuando haya algún tipo de cambio en los requerimientos (agregar, eliminación o modificación) se re-evalúe el compromiso
     - Si ha habido algún tipo de cambio en los requerimientos mostró el antes y después de la evaluación del compromiso de los         involucrados si no mostrar plantilla
 - SP 1.3
 
@@ -41,13 +40,13 @@ Propósito:manejar los requerimientos del producto y asegurar el alineamiento de
     - Si ha habido algún tipo de cambio en los requerimientos enseñar el antes y después de la evaluación del compromiso de los involucrados si no mostrar la plantilla de la bitácora
 
 -
-  - El proceso se asegura que haya una re-evaluación desde el punto de                 vista de los stakeholder del impacto del proyecto al hacer esto                 cambios
+  - El proceso se asegura que haya una re-evaluación desde el punto de vista de los stakeholder del impacto del proyecto al hacer esto cambios
     - Mostrar en qué parte la plantilla se anotará el análisis
 
 
 
 - SP 1.4
-  - El proceso se asegura de mantener el estado de los requerimientos                 usando una matriz de trazabilidad
+  - El proceso se asegura de mantener el estado de los requerimientos usando una matriz de trazabilidad
 
 - SP 1.5
 
@@ -62,46 +61,46 @@ Propósito: establecer un plan para iniciar el proyecto y mantenerlos y definir 
 
 - SP         1.1
   - El proceso genera un WBS de proyecto
-  - La plantilla del WBS se asegura que el paquete de trabajo se divida en                 task estimados, calendarizados y con sus responsables
+  - La plantilla del WBS se asegura que el paquete de trabajo se divida en task estimados, calendarizados y con sus responsables
   - Mostrar ejemplos en el proyecto
 
 - SP         1.2
-  - El proceso se asegura que los task serán estimados y llenados en el                 WBS
+  - El proceso se asegura que los task serán estimados y llenados en el WBS
   - Esta implementado
 
 
 
 - SP         1.3
   - El proceso se asegura que se documente el ciclo de vida del proyecto
-  - Acorde al ciclo de vida del proyecto los WBS generados se apegan a dicho         ciclo de vida
+  - Acorde al ciclo de vida del proyecto los WBS generados se apegan a dicho ciclo de vida
 
 - SP         1.4
-  - El proceso se asegura que se haga una estimación del proyecto en base a         esfuerzo y costo
+  - El proceso se asegura que se haga una estimación del proyecto en base a esfuerzo y costo
   - El método de estimación está documentado (plantilla o guía)
   - El proceso documenta el proceso de estimación
 
 - SP         2.1
-  - El procesos asegura toda la calendarización del proyecto con fechas                 importantes
+  - El procesos asegura toda la calendarización del proyecto con fechas importantes
   - Esta implementado
 
 - SP         2.2
-  - El proceso se asegura de que se va a generar un registro de riesgos con                 su mitigación
+  - El proceso se asegura de que se va a generar un registro de riesgos con su mitigación
   - El proceso asegura el conocimiento de los stakeholders a estos riesgos
-  - El proceso mantendrá actualizado el estado de los riesgos por algún                 cambio
+  - El proceso mantendrá actualizado el estado de los riesgos por algún cambio
   - Los documentos ya generados están acorde a los lineamiento pasados
 
  _No está implementado por todos los equipos_
 
 - SP         2.3
   - El proceso maneja el plan de los proyectos
-  - El documento generado por el proceso está acorde con el lineamiento                 pasado
+  - El documento generado por el proceso está acorde con el lineamiento pasado
 
 
 
 
 
 - SP         2.4
-  - El proceso de forma explícita maneja los recursos del departamento                 para asignar la cantidad correcta de recurso por proyecto
+  - El proceso de forma explícita maneja los recursos del departamento para asignar la cantidad correcta de recurso por proyecto
 
  _Falta incluir en el proceso cómo se reparte los recurso para iniciar los proyectos_
 
@@ -137,20 +136,20 @@ Propósito: establecer un plan para iniciar el proyecto y mantenerlos y definir 
 
 **PMC**
 
-Propósito: el propósito de PMC es tener un entendimiento del progreso  para poder tener acciones correctivas para cuando el plan se desviar de manera significante del plan
+Propósito: el propósito de PMC es tener un entendimiento del progreso para poder tener acciones correctivas para cuando el plan se desviar de manera significante del plan
 
 - SP         1.1
-  - El proceso se asegura de generar un documento donde se monitorea el                 progreso del proyecto contra el plan inicial
+  - El proceso se asegura de generar un documento donde se monitorea el progreso del proyecto contra el plan inicial
   - El proceso además de monitorear el progreso también monitorea el costo planeado con el costo actual
   - El documento existe y se puede ver el avance del proyecto
 - SP         1.2
-  - El proceso evalúa si el compromiso acordado en la creación de                 requerimiento se están cumpliendo, de manera externa e interna.
-  - El procesos identifica compromiso faltante e integra una fase de                 mitigacion
+  - El proceso evalúa si el compromiso acordado en la creación de requerimiento se están cumpliendo, de manera externa e interna.
+  - El procesos identifica compromiso faltante e integra una fase de mitigación
   - Los documento generado cumplen con los lineamientos del proceso
 
 - SP         1.3
   - El proceso asegura el seguimiento de los riesgos que si han sucedido
-  - El proceso se asegura de revisar y documentar al los stakeholder de los                 riesgos que han ocurrido
+  - El proceso se asegura de revisar y documentar a los stakeholder de los riesgos que han ocurrido
   - Los documentos generado si se cumple los lineamientos pasados
 
 - SP         1.4
@@ -158,11 +157,11 @@ Propósito: el propósito de PMC es tener un entendimiento del progreso  para po
   - Los documentos generada confirma el cumplimientos de los lineamientos pasados
 
 - SP         1.5
-  - El proceso se asegura de llevar una bitácora del involucramiento de los                 stakeholder
+  - El proceso se asegura de llevar una bitácora del involucramiento de los stakeholder
   - Mostrar plantilla y/o ejemplos
 
 - SP         1.6
-  - El proceso asegura de forma periódica presentaciones y análisis                 grupales del avance de los proyecto
+  - El proceso asegura de forma periódica presentaciones y análisis grupales del avance de los proyecto
   - El proceso registra el historial de estas presentaciones y análisis
   - Los documentos generado comprueban esto lineamientos
 
@@ -182,7 +181,7 @@ _               _
   - Se implementa
 
 - SP         2.2
-  - El proceso modifica el WBS para agregar la accion de mitigacion al los                 riesgo encontrado
+  - El proceso modifica el WBS para agregar la accion de mitigacion al los riesgo encontrado
   - Se implementa
 
 - SP         2.3
@@ -224,3 +223,5 @@ Propósito:el propósito es establecer  y mantener la integridad de todos lo pro
 - SP 3.2
   - El proceso especifica que se efectuarán auditorías de configuración para mantener el estándar de CM
   - Mostrar resultado de las auditorías
+
+Última edición: @AleLopezPerez mayo 7, 2018.
