@@ -1,5 +1,5 @@
 # Proceso para el Mantenimiento de Requerimientos
-Versión 1.0
+Versión 1.1
 
 
 []() | []()
@@ -32,4 +32,4 @@ No. de Fase | Fase | Actividades | Encargado | Area de CMMI
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.0 | Creación de proceso | Marco Antonio Luna Calvillo y Alejandro Salmón | Valter Núñez | 19/abr/2018
-1.1 | Se siguen estándares de calidad | Alejandro Salmón |  | 03/mayo/2018
+1.1 | Se siguen estándares de calidad | Alejandro Salmón | Valter Nuñez | 03/mayo/2018
