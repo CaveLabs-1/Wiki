@@ -6,7 +6,7 @@ Versión 2.0
 --|--
 Objetivo| Identificar al mejor candidato que podrá complementar las áreas de oportunidad del equipo necesitado, sin dejar de lado las necesidades de su equipo actual dentro del departamento de Cavelabs.
 Métricas utilizadas | Velocidad del equipo, porcentaje de avance el momento y horas de esfuerzo.
-Repositorio de Métricas | El progreso se medirá por el Team Leader del equipo involucrado de forma periodica (Definido por el Team Leader); los resultados serán almacenados en el [Reporte de Progreso](https://github.com/CaveLabs-1/Wiki/blob/MHSILES/TrataTeamMembers/Gestion%20Personas/Procesos/M%C3%A9trica%20Trata%20de%20Team%20Members)
+Repositorio de Métricas | El progreso se medirá por el Team Leader del equipo involucrado de forma periodica (Definido por el Team Leader); los resultados serán almacenados en el [Reporte de Progreso](https://github.com/CaveLabs-1/Wiki/blob/master/Gestion%20Personas/Procesos/M%C3%A9trica%20Trata%20de%20Team%20Members.md)
 Entrada del Proceso | Necesidad identificada por el Team Leader del equipo necesitado y que necesita regularse o mejorarse
 Criterios de Entrada | La necesidad con evidencia de bajo o nulo rendimiento
 Políticas y Estándares | Analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes involucrados en el posible cambio.
