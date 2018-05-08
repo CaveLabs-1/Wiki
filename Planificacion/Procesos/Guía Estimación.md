@@ -6,7 +6,7 @@ Dentro de esta guía se va a detallar cómo estimar el tamaño de un proyecto co
   * [Entradas](#entradas)
   * [Salidas](#salidas)
   * [Inquiere](#inquiere)
-  * [Archivos Lógicos](#archivos-logicos)
+  * [Archivos Lógicos](#arch)
   * [Interfaces](#interfaces)
   * [Influencia](#influencia)
 
@@ -47,7 +47,7 @@ Recuperación de datos de uno o más archivos lógicos internos y archivos de in
 Ejemplo:
 Una pantalla llena de información de la dirección del cliente sería un ejemplo de EQ.
 
-## Archivos lógicos
+## <h2 id_="arch">Archivos lógicos</h2>
 
 ![imagotype](https://i.imgur.com/ojuuEkw.png)
 
