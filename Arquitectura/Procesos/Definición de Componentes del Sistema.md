@@ -32,5 +32,5 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Creación y Llenado de Documento | David Ramírez y Marco Luna | . | 2/2/2018
+1.0 | Creación y Llenado de Documento | David Ramírez y Marco Luna | Valter Núñez | 2/2/2018
 1.1 | Entrada del Proceso, CheckList, Áreas del CMMI, Cambio de Nombres a Documentos | Marco Luna | Valter Núñez | 07/05/2018
