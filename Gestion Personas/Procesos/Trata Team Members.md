@@ -35,6 +35,6 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación | Mauricio Hernández | Valter Núñez | 13/03/18
 1.1| Modificación del documento | Mauricio Hernández & Santiago Valencia | Santiago Valencia | 13/03/18
-1.2| Actualizar proceso | Mauricio Hernández | - | 13/03/18
-2.0| Proceso con Medición y Análisis de Métricas | Mauricio Hernández | - | 02/05/18
-2.1| Actualizar Plantilla Formato Proceso de Procesos | Mauricio Hernández | - | 03/05/18
+1.2| Actualizar proceso | Mauricio Hernández | Valter Núñez | 13/03/18
+2.0| Proceso con Medición y Análisis de Métricas | Mauricio Hernández | Valter Núñez & Mariana Pérez | 02/05/18
+2.1| Actualizar Plantilla Formato Proceso de Procesos | Mauricio Hernández | Valter Núñez | 03/05/18
