@@ -31,15 +31,4 @@ Formular preguntas que sean de utilidad en la medición del avance alcanzado de 
 Identificar conjuntos de datos asociados con cada pregunta para poder responder de manera cuantitativa con una métrica potencial. Las métricas pueden ser:
 <ul><li>Objetivas: dependen sólo del objeto que se está midiendo y no del punto de vista desde el que se toman.</li><li>Subjetivas: dependen tanto del objeto que se está midiendo y del punto de vista desde el que se toman.</li></ul>
 
-
-## Bitácora
-No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
-------------|------|-------------|-----------|-----------
-1.0 |Creación del documento | Santiago Valencia Melannie Torres| Mauricio Hernández y Manuel Flores| 21 de Marzo de 2017
-2.0 |Agregar fases | Santiago Valencia | Valter Núñez | 2 de Abril de 2017
-3.0 |Agregar métricas utilizadas, cambio a Salida del Proceso y corrección de sintáxis | Valter Núñez Manuel Flores | | 3 de Abril de 2017
-4.0 |Cambiar a guía y actualización | Santiago Valencia | Valter Núñez | 17 de Abril de 2017
-4.1 |Correciones menores | Mauricio Hernández |  | 20 de Abril de 2017
-4.2 |Correciones menores | Mauricio Hernández |  | 03 de Mayo de 2017
-
-Última edición: @mhsiles Mayo 03, 2018
+Última edición: @mhsiles Mayo 07, 2018
