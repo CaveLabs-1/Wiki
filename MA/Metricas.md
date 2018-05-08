@@ -1,5 +1,4 @@
 # Métricas y repositorios
-Versión 1.2
 
 > NOTA: Se cuentan con repositorios físicos de métricas en las instalaciones del departamento. Estos repositorios incluyen Kanban y boards con gráficas.
 
@@ -27,15 +26,5 @@ Versión 1.2
 - [Estatus de la iteración 3](https://docs.google.com/spreadsheets/d/1HOu2gOFEposBDiOzPR4gn7nbcjro7fCdo37wtiKUuJI/edit)
 - [Estatus de la Transición](https://docs.google.com/spreadsheets/d/1tlLRjMDW6O1nGM8A04gJUfUCgnnmRbWYDfiglmK3vZQ/edit#gid=1638927579)
 - [Métricas del equipo](https://docs.google.com/document/d/1D8ps_p3XnuJsKKybMp0XbGi_UExrHuMNggM8yvcfS4Y/edit?usp=sharing)
-
-## Bitácora
-No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
----------------|--------|-------|----------|-----------------
-1.0 | Creación | Santiago | Mauricio Hernandez | 14 de Mar 2018
-1.1 | Actualizar repositorios | Santiago | Valter Núñez | 20 de Abr 2018
-1.2 | Actualizar repositorios | Santiago | Valter Núñez | 7 de May 2018
-
-
-
 
 Última edición: @agovc mayo 7, 2018.
