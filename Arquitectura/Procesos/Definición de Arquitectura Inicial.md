@@ -4,7 +4,7 @@ Versión 1.1
 
 []() | []()  
 --|--
-Objetivo| Definir la arquitectura inicial de un projecto
+Objetivo| Definir la arquitectura inicial de un proyecto
 Métricas utilizadas | Horas por día invertidas en la instalación e iniciación de cada tecnología seleccionada
 Repositorio de Métricas | Documento [Arquitectura Inicial](https://github.com/CaveLabs-1/Wiki/tree/master/Arquitectura/Formatos/Formato%20Herson%20(Definición%20de%20Arquitectura%20Inicial).docx)
 Entrada de Proceso | Forma en que se realizará el sistema
@@ -21,7 +21,7 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 2 | Validación |<ul><li>Validar la arquitectura con los requerimientos necesitados</li></ul>| Encargado de Arquitectura | VER
 3 | Desarrollo |<ul><li>Desarrollar MER de la base de datos según el flujo </li><li>Escoger Tecnología a usarse ya sean Back end framework, front end framework, base de datos, middleware, etc.)</li><li>Desarrollar [Technology Stack Diagram](https://github.com/dwyl/technology-stack) </li></ul> | Encargado de Arquitectura | PPQA y TS
 4 | Implementación | <ul><li>Preparar la tecnología a usarse *(ejemplo: framework con middleware y base de datos inicializada)*</li></ul> | Encargado de Arquitectura | TS
-5 | Documetación |<ul><li>Llenar [Arquitectura Inicial](https://github.com/CaveLabs-1/Wiki/tree/master/Arquitectura/Formatos/Formato%20Herson%20(Definición%20de%20Arquitectura%20Inicial).docx) y mantener los diagramas con el estándar UML o de las guías</li></ul>| Team Member | TS
+5 | Documentación |<ul><li>Llenar [Arquitectura Inicial](https://github.com/CaveLabs-1/Wiki/tree/master/Arquitectura/Formatos/Formato%20Herson%20(Definición%20de%20Arquitectura%20Inicial).docx) y mantener los diagramas con el estándar UML o de las guías</li></ul>| Team Member | TS
 6 | Análisis de Métricas | <ul><li>Medir las horas invertidas en la preparación de cada tecnología a usarse y en caso de cambios o crecimiento actualizarla</li></ul> | Architecture Owner | MA
 
 ## Plan de implementación
@@ -34,5 +34,5 @@ No. de Fase | Fase | Actividades | Encargado | Áreas
 
 No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
-1.0 | Creación y Llenado de Documento | David Ramirez y Marco Luna | . | 2/2/2018
+1.0 | Creación y Llenado de Documento | David Ramírez y Marco Luna | Valter Núñez | 2/2/2018
 1.1 | Entrada del Proceso, Checklist, Áreas del CMMI, Cambio de Nombres a Documentos | Marco Luna | Valter Núnez | 07/05/2018
