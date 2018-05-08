@@ -17,7 +17,7 @@ Versión 2.0
 
 -
   - No combinar tabs y espacios.
-  - En caso de hacer un salto de línea por llegar al maximo de caracteres, la indentación debe ir alineada al paréntesis que marca el inicio del grupo al que pertenece (igual al ejemplo anterior).
+  - En caso de hacer un salto de línea por llegar al máximo de caracteres, la indentación debe ir alineada al paréntesis que marca el inicio del grupo al que pertenece (igual al ejemplo anterior).
 
 - Nombres
   - module_name, package_name, ClassName, method_name, ExceptionName, function_name, GLOBAL_CONSTANT_NAME, global_var_name, instance_var_name, function_parameter_name, local_var_name.
@@ -72,31 +72,31 @@ No: {{foo}}
 
 **Funcionalidad**
 
-El elemento cumple con la funcionalidad establecida en su análisis y diseño.
+- El elemento cumple con la funcionalidad establecida en su análisis y diseño.
 
-El elemento pasa las pruebas establecidas durante su análisis.
+- El elemento pasa las pruebas establecidas durante su análisis.
 
-El elemento brinda retroalimentación continua al usuario respecto a lo que acontece en el sistema.
+- El elemento brinda retroalimentación continua al usuario respecto a lo que acontece en el sistema.
 
 **Eficiencia**
 
-El elemento realiza su función de la mejor forma.
+- El elemento realiza su función de la mejor forma.
 
-En caso de que exista una mejor forma de realizar la misma tarea esta debe ser implementada.
+- En caso de que exista una mejor forma de realizar la misma tarea esta debe ser implementada.
 
 **Comentarios de documentación.**
 
-Son escritos para aquellas personas (incluyendo al autor) que en un futuro vayan a mantener, refactorizar o extender tu código.
+- Son escritos para aquellas personas (incluyendo al autor) que en un futuro vayan a mantener, refactorizar o extender tu código.
 
-Antes de documentar, asegura que tu código sea lo más sencillo y eficiente posible. &quot;Good code is self documenting.&quot;
+- Antes de documentar, asegura que tu código sea lo más sencillo y eficiente posible. &quot;Good code is self documenting.&quot;
 
-Evita comentarios innecesarios.
+- Evita comentarios innecesarios.
 
-Los comentarios explican por qué se hacen las cosas, el código explica cómo se hace.
+- Los comentarios explican por qué se hacen las cosas, el código explica cómo se hace.
 
-El comentario se escribe una línea sobre la sección a documentar.
+- El comentario se escribe una línea sobre la sección a documentar.
 
-El comentario se escribe siguiendo los estándares de código dependiendo del lenguaje de programación del archivo.
+- El comentario se escribe siguiendo los estándares de código dependiendo del lenguaje de programación del archivo.
 
 
 
@@ -117,3 +117,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 ---------------|--------|-------|----------|----------------
 1.4 | Agregar calendarización para tareas | Rodolfo Martínez | Valter Núñez | 4/02/2018
 2.0 | Nuevas Normas de Calidad | Victor Hugo Torres | Valter Núñez | 20/04/2018
+2.1 | Agregar Bullet points | Victor Hugo Torres | Valter Núñez | 20/04/2018
