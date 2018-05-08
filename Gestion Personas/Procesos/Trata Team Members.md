@@ -10,7 +10,7 @@ Repositorio de Métricas | El progreso se medirá por el Team Leader del equipo 
 Entrada del Proceso | Necesidad identificada por el Team Leader del equipo necesitado y que necesita regularse o mejorarse
 Criterios de Entrada | La necesidad con evidencia de bajo o nulo rendimiento
 Políticas y Estándares | Analizar las fortalezas y debilidades tanto de los equipo como de los propios integrantes involucrados en el posible cambio.
-Salidas del Proceso | Documento de trata de team members Jean Valjean.
+Salidas del Proceso | Reporte de progreso lleno de forma periodica por el team leader
 Criterios de Salida | Rotación de team members del departamento.
 
 ## Definición de Fases
