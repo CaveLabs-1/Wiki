@@ -1,5 +1,5 @@
 # Versión de los Roles
-Versión 1.14
+Versión 1.15
 
 En este documento se encuentra el historial de todos los roles del departamento y las prácticas a seguir sugeridas por los integrantes que han tomado dicho rol.
 
@@ -33,8 +33,8 @@ En este documento se encuentra el historial de todos los roles del departamento 
   * David Ramírez (13 de enero - 28 de febrero)
   
 * ### Calidad
-  * Rodolfo Martínez (13 de enero - 10 de abril)
   * Hugo Torres (10 de abril - presente)
+  * Rodolfo Martínez (13 de enero - 10 de abril)
  
 * ### Configuración
   * Mariana Pérez (13 de enero - presente)
@@ -147,4 +147,5 @@ No. de versión | Cambio | Autor | Fecha de Cambio
 1.12 | Cambio de roles | Mariana Pérez | 17 de abril de 2018
 1.13 | Cambio de roles | Filiberto Vázquez | 19 de abril de 2018
 1.14 | Cambio de roles | Iancarlo Romero | 2 de Mayo de 2018
+1.15 | Verificación de calidad | Valter  Núñez | 7 de Mayo de 2018
 
