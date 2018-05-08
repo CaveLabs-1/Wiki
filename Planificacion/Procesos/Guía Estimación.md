@@ -47,7 +47,7 @@ Recuperación de datos de uno o más archivos lógicos internos y archivos de in
 Ejemplo:
 Una pantalla llena de información de la dirección del cliente sería un ejemplo de EQ.
 
-## <a name_="arch">Archivos lógicos</a>
+## <a name="arch">Archivos lógicos</a>
 
 ![imagotype](https://i.imgur.com/ojuuEkw.png)
 
