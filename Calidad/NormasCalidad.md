@@ -102,12 +102,12 @@ No: {{foo}}
 
 ## Calendarizar tareas
 1.  Al realizar la planeación de la iteración será necesario asignar prioridad a cada historia de usuario y dentro de esta misma, a las diferentes tareas.
-    1. En base a esta prioridad, se planearan fechas para completar cada una de estas tareas dentro del tiempo delimitado de dicha      iteración(respetando la prioridad previamente definida). Esto con fin de asegurar el seguimiento de tanto los tiempos y prioridad planeadas inicialmente.
+    1. En base a esta prioridad, se planearan fechas para completar cada una de estas tareas dentro del tiempo delimitado de dicha      iteración (respetando la prioridad previamente definida). Esto con fin de asegurar el seguimiento de tanto los tiempos y prioridad planeadas inicialmente.
  
  
- 1.  Al encontrar un defecto, este se calendarizara tomando en cuenta lo siguiente:
-        1. Si se estima un tiempo menor a una hora para realizar el defecto encontrado se corregirá en el momento por la misma persona que lo ha encontrado. Se registrará dentro de la bitacora de defectos.
-         1. Si se estima un tiempo mayor a una hora para realizar el defecto encontrado se generará una nueva tarea que corresponde a este mismo. Será necesario darle una prioridad en comparación con el resto de las tareas faltantes y colocarlo con estas añadiendo una fecha para su corrección según su importantcia. De ser necesario, se volvera a planear para las tareas que lo requieran.
+ 1.  Al encontrar un defecto, este se calendarizará tomando en cuenta lo siguiente:
+        1. Si se estima un tiempo menor a una hora para realizar el defecto encontrado se corregirá en el momento por la misma persona que lo ha encontrado. Se registrará dentro de la bitácora de defectos.
+         1. Si se estima un tiempo mayor a una hora para realizar el defecto encontrado se generará una nueva tarea que corresponde a este mismo. Será necesario darle una prioridad en comparación con el resto de las tareas faltantes y colocarlo con estas añadiendo una fecha para su corrección según su importancia. De ser necesario, se volverá a planear para las tareas que lo requieran.
 
 
 ## Bitácora
