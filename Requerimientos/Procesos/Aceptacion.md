@@ -7,10 +7,10 @@ Versión 2.0
 --|--
 Objetivo | Presentar una solución potencial al StakeHolder
 Métricas utilizadas | Items de trabajo completados VS Items de Trabajo Restantes
-Repositorio de Métricas | Wiki de cada Equipo <ul> <li>[Libélulas](https://github.com/CaveLabs-1/Libelulas-Wiki)</li><li>[CADHU](https://github.com/CaveLabs-1/CADHU-Wiki)</li><li>[PanQ'Ayuda](https://github.com/CaveLabs-1/PanQAyuda-Wiki)</li></ul>
+Repositorio de Métricas | Wiki de cada proyecto
 Entradas de Proceso | WorkItemStack de la Iteración
 Criterios de Entrada | <ul><li>WorkItemStack Completado Al Momento</li><li>WorkItemStack Restante</li><li></li></ul>
-Definir políticas y estándares | Plantilla [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY). <br><br>Encuesta  de [Retroalimentaci$
+Definir políticas y estándares | Plantilla [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Reporte%20de%20Entrega%20(Plantilla).docx). <br><br>Encuesta: [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)
 Salidas de Procesos | Reporte de Entrega
 Criterios de Salida | **Check-List** <ul><li>Reporte de Entrega Firmado por StakeHolders en Wiki de Proyecto</li></ul>
 
@@ -20,7 +20,7 @@ No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
 1 | Análisis | Identificar los items de trabajo realizados y los restantes | Team
 2 | Agendar la junta de presentación de avance con stakeholders | <ul><li>Agendar cita y roles para presentar la solución con los stakeholders.</li></ul> | Product owner
-3 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY)</li><br><li>Firmar Reporte de Entrega</li><ul>| Product owner acompañado por dos miembros del equipo
+3 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Reporte%20de%20Entrega%20(Plantilla).docx)</li><br><li>Firmar Reporte de Entrega</li><ul>| Product owner acompañado por dos miembros del equipo
 4 | Seguimiento de StakeHolder | <ul><li>Tras firmar el reporte, presentar encuesta de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)</li></ul>| Product owner acompañado por dos miembros del equipo
 
 ## Plan de implementación
