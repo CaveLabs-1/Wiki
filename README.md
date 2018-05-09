@@ -53,7 +53,7 @@ Versión 2.6
  
  4.3 [Modificación de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Mantenimiento%20de%20Requerimientos.md)
  
- 5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/ProcesoCierreIteraci%C3%B3n.md)
+ 5.1 [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/Construccion/Procesos/ProcesoCierreIteraci%C3%B3n.md)
 
 ## Transición
 
