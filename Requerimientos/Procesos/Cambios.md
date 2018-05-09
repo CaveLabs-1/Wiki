@@ -9,7 +9,7 @@ Objetivo | Gestionar los cambios solicitados por Stakeholders
 Métricas utilizadas | Cantidad Acumulada de: <ul><li>Items de Trabajo Restantes</li><li>Items de Trabajo Adicionales</li><li>Cambios en Items de Trabajo </li> </ul>  **VS Tiempo Restante**
 Repositorio de Métricas | Dentro de la Wiki de cada Proyecto
 Entradas de Proceso | WorkItemStack Restante y Solicitud de Cambios
-Definir políticas y estándares | Plantilla [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Solicitud%20de%20Cambio%20de%20Requerimientos%20(Plantilla).docx).
+Definir políticas y estándares | Formato de [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).
 Criterios de Entrada | Solicitud de cambios: llenada y priorizada con stakeholders
 Salidas de Procesos | WorkItemStack Priorizado y actualización de Plan
 Criterios de Salida | **Check-List:** <ul><li>WorkItemStack Priorizado y acordado con el cliente </li></ul>
@@ -20,7 +20,7 @@ Criterios de Salida | **Check-List:** <ul><li>WorkItemStack Priorizado y acordad
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Retroalimentación | <ul><li> **Escuchar** la retroalimentación de los stakeholders y anotar los cambios en la sección de la Plantilla [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Solicitud%20de%20Cambio%20de%20Requerimientos%20(Plantilla).docx).</li><br><li>Presentar plan actual para siguiente iteración</li><br><li>**Firmar plantilla de cambios** </li></ul>| Product owner acompañado por dos miembros del equipo
+1 | Retroalimentación | <ul><li> **Escuchar** la retroalimentación de los stakeholders y anotar los cambios en la sección del Formato [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).</li><br><li>Presentar plan actual para siguiente iteración</li><br><li>**Firmar plantilla de cambios** </li></ul>| Product owner acompañado por dos miembros del equipo
 2 | Análisis| <ul><li>**[Seguir el proceso de Mantenimiento de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Mantenimiento%20de%20Requerimientos.md)**</li></ul>| Product owner acompañado por dos miembros del equipo
 3 |  Presentación, Justificación y acuerdo |  <ul><li>Presentar los cambios evaluados y justificación del plan.</li></ul> | Product owner acompañado por dos miembros del equipo
 4 |  Actualización |  <ul><li>Actualizar plan de trabajo</li></ul> | Todo el equipo
