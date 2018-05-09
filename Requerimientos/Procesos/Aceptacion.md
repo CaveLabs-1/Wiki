@@ -1,23 +1,27 @@
+
 # Proceso de Aceptación de Requerimientos con Stakeholders
-Versión 1.1
+Versión 2.0
 
 
 []() | []()
 --|--
-Objetivo| Presentar una solución potencial al StakeHolder
-Métricas utilizadas | Items de trabajo por completados
-Criterios de entrada | Stack de Items Completados
-Definir políticas y estándares |Plantilla [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY). <br><br>Encuesta  de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)
-Criterios de salida | Reporte y funcionalidades autorizadas y firmadas por StakeHolder.
+Objetivo | Presentar una solución potencial al StakeHolder
+Métricas utilizadas | Items de trabajo completados VS Items de Trabajo Restantes
+Repositorio de Métricas | Wiki de cada proyecto con los documentos
+Entradas de Proceso | WorkItemStack de la Iteración
+Criterios de Entrada | <ul><li>WorkItemStack Completado Al Momento</li><li>WorkItemStack Restante</li></ul>
+Definir políticas y estándares | Plantilla [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY). <br><br>Encuesta [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)
+Salidas de Procesos | Reporte de Entrega
+Criterios de Salida | **Check-List** <ul><li>Reporte de Entrega Firmado por StakeHolders en Wiki de Proyecto</li><li>Encuesta llenada por StakeHolders </li></ul>
+
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado
 ------------|------|-------------|-----------
-1 | Agendar la junta de presentación de avance con stakeholders | <ul><li>Agendar cita y roles para presentar la solución con los stakeholders.</li></ul> | Product owner
-2 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY)</li><br><li>Firmar Reporte de Entrega</li><ul>| Product owner acompañado por dos miembros del equipo
-5 | Seguimiento de StakeHolder | <ul><li>Tras firmar el reporte, presentar ecuesta de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)</li></ul>| Product owner acompañado por dos miembros del equipo
-
-
+1 | Analisis | Identificar los items de trabajo realizados y los restantes y llenar la plantilla | Team
+2 | Agendar la junta de presentación de avance con stakeholders | <ul><li>Agendar cita y roles para presentar la solución con los stakeholders.</li></ul> | Product owner
+3 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://drive.google.com/open?id=1dQt7tJBiNJFSLvJRNuocROD5BtvH3cebT0HLsIKTwaY)</li><br><li>Firmar Reporte de Entrega</li><ul>| Product owner acompañado por dos miembros del equipo
+4 | Seguimiento de StakeHolder | <ul><li>Tras firmar el reporte, presentar ecuesta de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)</li></ul>| Product owner acompañado por dos miembros del equipo
 
 ## Plan de implementación
 1. Una vez llevado a cabo el proceso, se deberá docuementar en la wiki, juntando todos los documentos que muestran el progreso y análisis de la iteración en el repositorio por equipo de trabajo.
@@ -29,7 +33,7 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | Mauricio Hernández | 10 Abril 2018
 1.1 | Cambios | Ramón Romero | Mauricio Hernández |15 Abril 2018
 1.2 | Modificación Plantilla Reporte de Entrega | Mauricio Hernández | Santiago Valencia | 23 Abril 2018
-
+2.0 | Actializción y mejora de  proceso | Ramón Romero & Alejandro López | Valter Nuñez  | 8 Mayo 2018
 ----
 
-Última modificación: @MHSiles (23/04/2018)
+Última modificación: @ramonromerotec (08/05/2018)
