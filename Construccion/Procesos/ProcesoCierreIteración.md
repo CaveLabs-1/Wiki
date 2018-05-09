@@ -6,10 +6,10 @@ Versión 1.5
 --|--
 Objetivo| Identificar qué salió mal y qué salió bien en la iteración y buscar nuevas y mejores maneras para trabajar.
 Métricas utilizadas | Número de patrones y antipatrones presentes en la iteración.
-Repositorio de Métricas | Tabla de patrones y antipatrones en el documento de [Cierre de Iteración](https://drive.google.com/open?id=1czEdn-xYM2REV3wG9aS1eavqmrkX1tWFAqdNuSrUwk8) en la wiki de cada equipo. Actualizado cada fin de iteración por el team leader.
+Repositorio de Métricas | Tabla de patrones y antipatrones en el documento de [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/Construccion/Formatos/CierreDeIteracion.docx) en la wiki de cada equipo. Actualizado cada fin de iteración por el team leader.
 Entrada del Proceso | Reporte de estatus del proyecto y solución potencialmente consumible.
 Criterios de entrada | Reporte de estatus actualizado, lleno y con datos reales.
-Definir políticas y estándares | Usar plantilla [Cierre de Iteración](https://drive.google.com/open?id=1czEdn-xYM2REV3wG9aS1eavqmrkX1tWFAqdNuSrUwk8). El showcase debe de durar menos de una hora y la retrospectiva debe durar entre 30 a 60 minutos. El nombre del documento para la wiki de equipo debe ser como el siguiente ejemplo: "**Retrospectiva primera iteración**".
+Definir políticas y estándares | Usar plantilla [Cierre de Iteración](https://github.com/CaveLabs-1/Wiki/blob/master/Construccion/Formatos/CierreDeIteracion.docx). El showcase debe de durar menos de una hora y la retrospectiva debe durar entre 30 a 60 minutos. El nombre del documento para la wiki de equipo debe ser como el siguiente ejemplo: "**Retrospectiva primera iteración**".
 Salidas del proceso | Documento de Cierre de Iteración lleno.
 Criterios de salida | Documento de Cierre de Iteración completo que cumpla con el [Checklist](https://docs.google.com/spreadsheets/d/1E3PXosCO8mxCq0RUxvfxhA1UivitAMSOFn8_55uXOH0/edit#gid=1203402754) y estimaciones del proyecto actualizadas.
 
