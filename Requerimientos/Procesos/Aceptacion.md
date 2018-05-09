@@ -9,7 +9,7 @@ Objetivo | Presentar una solución potencial al StakeHolder
 Métricas utilizadas | Items de trabajo completados VS Items de Trabajo Restantes
 Repositorio de Métricas | Wiki de cada proyecto
 Entradas de Proceso | WorkItemStack de la Iteración
-Criterios de Entrada | <ul><li>WorkItemStack Completado Al Momento</li><li>WorkItemStack Restante</li><li></li></ul>
+Criterios de Entrada | En Formato [Reporte de Entrega]incluir: <ul><li>WorkItemStack Completado Al Momento</li><li>WorkItemStack Restante</li></ul>
 Definir políticas y estándares | Formato [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20de%20Reporte%20de%20Entrega.docx). <br><br>Encuesta: [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)
 Salidas de Procesos | Reporte de Entrega
 Criterios de Salida | **Check-List** <ul><li>Reporte de Entrega Firmado por StakeHolders en Wiki de Proyecto</li></ul>
