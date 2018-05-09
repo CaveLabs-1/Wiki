@@ -18,12 +18,12 @@ Criterios de Salida | **Check-List:** <ul><li>WorkItemStack Priorizado y acordad
 
 
 ## Definición de Fases
-No. de Fase | Fase | Actividades | Encargado
+No. de Fase | Fase | Actividades | Área del CMMI
 ------------|------|-------------|-----------
-1 | Retroalimentación | <ul><li> **Escuchar** la retroalimentación de los stakeholders y anotar los cambios en la sección del Formato [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).</li><br><li>Presentar plan actual para siguiente iteración</li><br><li>**Firmar plantilla de cambios** </li></ul>| Product owner acompañado por dos miembros del equipo
-2 | Análisis| <ul><li>**[Seguir el proceso de Mantenimiento de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Mantenimiento%20de%20Requerimientos.md)**</li></ul>| Product owner acompañado por dos miembros del equipo
-3 |  Presentación, Justificación y acuerdo |  <ul><li>Presentar los cambios evaluados y justificación del plan.</li></ul> | Product owner acompañado por dos miembros del equipo
-4 |  Actualización |  <ul><li>Actualizar plan de trabajo</li></ul> | Todo el equipo
+1 | Retroalimentación | <ul><li> **Escuchar** la retroalimentación de los stakeholders y anotar los cambios en la sección del Formato [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).</li><br><li>Presentar plan actual para siguiente iteración</li><br><li>**Firmar plantilla de cambios** </li></ul>| RD, RM
+2 | Análisis| <ul><li>**[Seguir el proceso de Mantenimiento de Requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Mantenimiento%20de%20Requerimientos.md)**</li></ul>| RD, RM
+3 |  Presentación, Justificación y acuerdo |  <ul><li>Presentar los cambios evaluados y justificación del plan.</li></ul> | RD, RM
+4 |  Actualización |  <ul><li>Actualizar plan de trabajo</li></ul> | RD, RM
 
 ## Plan de implementación
 1. Una vez llevado a cabo el proceso, se deberá documentar en la wiki, juntando todos los documentos que muestran el progreso y análisis en el repositorio por equipo de trabajo.
