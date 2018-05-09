@@ -12,16 +12,16 @@ Entradas de Proceso | WorkItemStack de la Iteración
 Criterios de Entrada | En Formato [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20de%20Reporte%20de%20Entrega.docx) incluir: <ul><li>WorkItemStack Completado Al Momento</li><li>WorkItemStack Restante</li></ul>
 Definir políticas y estándares | Formato [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20de%20Reporte%20de%20Entrega.docx). <br><br>Encuesta: [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)
 Salidas de Procesos | Reporte de Entrega
-Criterios de Salida | **Check-List:** <ul><li>Reporte de Entrega Firmado por StakeHolders en Wiki de Proyecto</li></ul>
+Criterios de Salida | **[Check-List](https://docs.google.com/spreadsheets/d/1a1DlKOA4XjkFwBeUp_hqVaGbot0yKJPywfv9CzhuONQ/edit?usp=sharing)**
 
 
 ## Definición de Fases
-No. de Fase | Fase | Actividades | Área CMMI
-------------|------|-------------|-----------
-1 | Análisis | Identificar los items de trabajo realizados y los restantes | RD, RM
-2 | Agendar la junta de presentación de avance con stakeholders | <ul><li>Agendar cita y roles para presentar la solución con los stakeholders.</li></ul> | RD, RM
-3 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20de%20Reporte%20de%20Entrega.docx)</li><br><li>Firmar Reporte de Entrega</li><ul>| RD, RM
-4 | Seguimiento de StakeHolder | <ul><li>Tras firmar el reporte, presentar encuesta de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)</li></ul>| RD, RM
+No. de Fase | Fase | Actividades | Encargado | Área CMMI
+------------|------|-------------|-----------|-----------
+1 | Análisis | Identificar los items de trabajo realizados y los restantes | Team | RD, RM
+2 | Agendar la junta de presentación de avance con stakeholders | <ul><li>Agendar cita y roles para presentar la solución con los stakeholders.</li></ul> | Product Owner | RD, RM
+3 | Presentación y aceptación | <ul><li>Presentar solución con los stakeholders para mostrar las funcionalidades del sistema y Actualizar estatus de item de trabajo **(aceptado/no aceptado)** dentro del [Reporte de Entrega](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20de%20Reporte%20de%20Entrega.docx)</li><br><li>Firmar Reporte de Entrega</li><ul>| Product owner acompañado por dos miembros del equipo | RD, RM
+4 | Seguimiento de StakeHolder | <ul><li>Tras firmar el reporte, presentar encuesta de [Retroalimentación y satisfacción del StakeHolder](https://goo.gl/forms/YiAKVsz9Xri5FAFC3)</li></ul>| Product owner acompañado por dos miembros del equipo |RD, RM
 
 ## Plan de implementación
 1. Una vez llevado a cabo el proceso, se deberá documentar en la wiki, juntando todos los documentos que muestran el progreso y análisis de la iteración en el repositorio por equipo de trabajo.
