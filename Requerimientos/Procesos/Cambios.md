@@ -5,7 +5,7 @@ Versión 2.0
 
 []() | []()
 --|--
-Objetivo | Gestionar los cambios solicitiodaos por Stakeholders
+Objetivo | Gestionar los cambios solicitados por Stakeholders
 Métricas utilizadas | Cantidad Acumulada de: <ul><li>Items de Trabajo Restantes</li><li>Items de Trabajo Adicionales</li><li>Cambios en Items de Trabajo </li> </ul>  **VS Tiempo Restante**
 Repositorio de Métricas | Dentro de la Wiki de cada Proyecto
 Entradas de Proceso | WorkItemStack Restante y Solicitud de Cambios
@@ -26,13 +26,10 @@ No. de Fase | Fase | Actividades | Encargado
 4 |  Actualización |  <ul><li>Actualizar plan de trabajo</li></ul> | Todo el equipo
 
 ## Plan de implementación
-1. Una vez llevado a cabo el proceso, se deberá docuementar en la wiki, juntando todos los documentos que muestran el progreso y análisis en el repositorio por equipo de trabajo.
+1. Una vez llevado a cabo el proceso, se deberá documentar en la wiki, juntando todos los documentos que muestran el progreso y análisis en el repositorio por equipo de trabajo.
 
 ## Bitácora
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | Mauricio Hernández | 10 Abril 2018
-2.0 | Actialización y mejora de  proceso | Ramón Romero & Alejandro López | Valter Nuñez  | 8 Mayo 2018
-----
-
-Última modificación: @ramonromerotec (08/05/2018)
+2.0 | Actualización y mejora de  proceso | Ramón Romero & Alejandro López | Valter Nuñez  | 8 Mayo 2018
