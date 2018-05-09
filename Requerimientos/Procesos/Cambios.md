@@ -12,7 +12,7 @@ Entradas de Proceso | WorkItemStack Restante y Solicitud de Cambios
 Definir políticas y estándares | Plantilla [Solicitud de cambios](https://docs.google.com/document/d/1j3td5814vCit3xAevWkEfNsnc0HTWgKXK-dcA1irmew/edit?usp=sharing).
 Criterios de Entrada | Solicitud de cambios: llenada y priorizada con stakeholders
 Salidas de Procesos | WorkItemStack Priorizado y actualización de Plan
-Criterios de Salida | **Check-List: ** <ul><li>WorkItemStack Priorizado y acordado con el cliente </li></ul>
+Criterios de Salida | **Check-List:** <ul><li>WorkItemStack Priorizado y acordado con el cliente </li></ul>
 
 
 
