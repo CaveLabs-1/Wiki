@@ -22,7 +22,7 @@ Versión 2.7
  
  1.5 [Mejora de Procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Mejora%20Procesos/Procesos/Mejora%20Procesos.md)
   
- 1.6 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/PMC/Proceso%20de%20Reporte%20de%20Estatus.md)
+ 1.6 [Proceso de reporte de estatus](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Procesos/Proceso%20de%20Reporte%20de%20Estatus.md)
 
  1.7 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Proceso%20de%20Seguimiento%20de%20riesgos.md)
  
@@ -34,7 +34,7 @@ Versión 2.7
 
  2.1 [Levantamiento de requerimientos](https://github.com/CaveLabs-1/Wiki/blob/master/Requerimientos/Procesos/Levantamiento%20de%20Requerimientos.md)
  
- 2.2 [Definición de arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Proceso%20para%20definir%20arquitectura%20general.md)
+ 2.2 [Definición de arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
  
  2.3 [Arquitectura inicial](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
  
