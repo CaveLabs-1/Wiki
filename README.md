@@ -66,11 +66,11 @@ Versión 2.8
 <ul>
 <li>
   <h4>
-      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md">Políticas de Calidad:
+      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Normas%20Calidad.md">Normas de Calidad:
       </a>
      </h4>
   <p>
-    Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+    Lista de normas de calidad para el desarrollo de proyectos.
   </p>
 </li>
 <li>
