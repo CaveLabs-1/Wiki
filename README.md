@@ -12,7 +12,7 @@ Versión 2.7
    [Trata de team members](https://github.com/CaveLabs-1/Wiki/blob/master/Gestion%20Personas/Procesos/Trata%20Team%20Members.md)
 
 ## Procesos generales
- 1.1 [Proceso de procesos](https://github.com/CaveLabs-1/Wiki/blob/pirty6-patch-13/Procesos/Procesos/Procesos.md)
+ 1.1 [Proceso de procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Procesos/Procesos/Procesos.md)
  
  1.2 [Versionar elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Procesos/Proceso%20Versionar.md)
  
