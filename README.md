@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.7
+Versión 2.8
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -26,9 +26,7 @@ Versión 2.7
 
  1.7 [Proceso de seguimiento de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Procesos/Proceso%20de%20Seguimiento%20de%20riesgos.md)
  
- 1.8 [Proceso de validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
- 
- 1.9 [Proceso de auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Procesos/procesoAuditorias.md)
+ 1.8 [Proceso de auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Procesos/procesoAuditorias.md)
 
 ## Incepción
 
@@ -217,6 +215,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.5 | Corrección liga mejora de procesos | Marco Mancha | 04/05/18
 2.6 | Modificación liga Proceso SWAT | Ian | 07/04/18
 2.7 | Modificación liga de Procesos | Mariana | 09/04/18
+2.8 | Eliminar el Proceso de validación | Mariana | 10/04/18
 
 Hecho con ❤️ por:
 
