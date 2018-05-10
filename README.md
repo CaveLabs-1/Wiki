@@ -28,7 +28,7 @@ Versión 2.7
  
  1.8 [Proceso de validación](https://github.com/CaveLabs-1/Wiki/blob/master/Validacion/Proceso%20de%20Validación.md)
  
- 1.9 [Proceso de auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/procesoAuditorias.md)
+ 1.9 [Proceso de auditoría](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Procesos/procesoAuditorias.md)
 
 ## Incepción
 
