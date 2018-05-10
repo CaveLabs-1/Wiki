@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.8
+Versión 2.9
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -100,6 +100,17 @@ Versión 2.8
   </h4>
   <p>
     Lista de todos los resultados de las auditorías realizadas por el departamento
+  </p>
+</li>
+<li>
+   <li>
+<h4>
+  <a href="https://docs.google.com/spreadsheets/d/1H5N6hwfm5ltdnVCZDHDoYp2PRxCwx2EqelhHW28PpLo/edit?usp=sharing">
+    Plan del departamento:
+  </a>
+  </h4>
+  <p>
+    Plan del departamento para lograr los objetivos definidos.
   </p>
 </li>
 <li>
@@ -216,6 +227,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.6 | Modificación liga Proceso SWAT | Ian | 07/04/18
 2.7 | Modificación liga de Procesos | Mariana | 09/04/18
 2.8 | Eliminar el Proceso de validación | Mariana | 10/04/18
+2.9 | Agregar liga al plan del departamento | Mariana | 10/04/18
 
 Hecho con ❤️ por:
 
