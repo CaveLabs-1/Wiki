@@ -1,14 +1,4 @@
 # Retroalimentación de planes
-## Checklist del proceso de planificación
-<ul> Puntos para planes:
-  <li> El plan contiene actividades que corresponden a la WBS </li>
-  <li> El plan toma en cuenta las posibles actividades de capacitación </li>
-  <li> El plan toma en cuenta las actividades que involucran a todos los stakeholders  </li>
-  <li> Las actividades tienen un tiempo estimado y fecha estimada de término </li>
-  <li> Las actividades tienen un encargado </li>
-  <li> Los riesgos se incluyen en el plan </li>
-  <li> El formato del plan da oportunidad para alimentar los tiempos y fechas de completitud</li>
-</ul>
 
 ## Planes
 Nombre del plan | Fecha | Retroalimentación | Tiempo que tardó | No. actividades | Creadores del plan | Calidad | Comentarios adicionales
