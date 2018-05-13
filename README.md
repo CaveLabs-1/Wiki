@@ -34,11 +34,9 @@ Versión 2.8
  
  2.2 [Definición de arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
  
- 2.3 [Arquitectura inicial](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
+ 2.3 [Componentes del sistema](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Componentes%20del%20Sistema.md)
  
- 2.4 [Componentes del sistema](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Componentes%20del%20Sistema.md)
- 
- 2.5 [Flujo de vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
+ 2.4 [Flujo de vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
 
 
 ## Construcción
