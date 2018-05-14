@@ -8,10 +8,10 @@ Versión 1.2
 --|--
 Objetivo| Garantizar el levantamiento adecuado de los riesgos presentes durante el desarrollo del proyecto.
 Métricas utilizadas | Probabilidad de ocurrencia de un riesgo.
-Repositorio de métricas | [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/Matriz%20de%20riesgos%20v1.2.xlsx)
+Repositorio de métricas | [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/Formato%20Matriz%20de%20riesgos.xlsx)
 Entrada del proceso | Riesgo no gestionado.
 Criterios de entrada | Riesgo que impacte al desempeño del departamento.
-Definir políticas y estándares | Cumplir con la guía en el documento [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/Matriz%20de%20riesgos%20v1.2.xlsx)
+Definir políticas y estándares | Cumplir con la guía en el documento [Matriz de riesgos](https://github.com/CaveLabs-1/Wiki/blob/master/Riesgos/Formatos/Formato%20Matriz%20de%20riesgos.xlsx)
 Salidas del proceso | Matriz de riesgos actualizada.
 Criterios de salida | Que el proceso cumpla con el [Checklist](https://docs.google.com/spreadsheets/d/1IKRxiR8k0Buta1lgj0rXs6HmwgHpKOlmKLUhBxl54A8/edit?usp=sharing). Que sea validado por el team leader.
 
