@@ -35,3 +35,4 @@ No. de Versión | Cambio | Autor | Aprobado | Fecha de cambio
 1.0 | Creación y Llenado de Documento | David Ramírez y Marco Luna | Mauricio Hernández | 2/2/2018
 2.0 | Actualización según el nuevo proceso de proceso | David Ramírez | Ian Rosas | 5/3/2018
 2.1 | Actualización Fase 2 | David Ramírez | Valter Núñez | 14/5/2018
+2.2 | Eliminación de paso innecesario | David Ramírez | Valter Núñez | 14/5/2018
