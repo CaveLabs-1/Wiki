@@ -39,4 +39,8 @@ En este documento se encontrarán todos los resultados de las auditorías realiz
 ### Riesgos
 * [19 de marzo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/Riesgos/Auditoria%20Riesgos%2019%20marzo%202018.csv)
 
-Última edición: @pirty6 mayo 7, 2018.
+### Reportes Internos
+* [29 de abril de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/ReportesInternos/Auditorias_Internas_Abril_29_2018.pdf)
+* [10 de mayo de 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Auditorias/ReportesInternos/Auditorias_Internas_Mayo_10_2018.pdf)
+
+Última edición: @pirty6 mayo 14, 2018.
