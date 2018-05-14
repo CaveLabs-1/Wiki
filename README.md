@@ -101,7 +101,6 @@ Versión 2.9
   </p>
 </li>
 <li>
-   <li>
 <h4>
   <a href="https://docs.google.com/spreadsheets/d/1H5N6hwfm5ltdnVCZDHDoYp2PRxCwx2EqelhHW28PpLo/edit?usp=sharing">
     Plan del departamento:
