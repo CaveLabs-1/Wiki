@@ -101,6 +101,17 @@ Versión 2.9
   </p>
 </li>
 <li>
+   <li>
+<h4>
+  <a href="https://docs.google.com/spreadsheets/d/1H5N6hwfm5ltdnVCZDHDoYp2PRxCwx2EqelhHW28PpLo/edit?usp=sharing">
+    Plan del departamento:
+  </a>
+  </h4>
+  <p>
+    Plan del departamento para lograr los objetivos definidos.
+  </p>
+</li>
+<li>
 <h4>
   <a href="https://github.com/CaveLabs-1/Wiki/blob/master/MA/Metricas.md">
     Métricas y estatus:
@@ -214,7 +225,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.6 | Modificación liga Proceso SWAT | Ian | 07/04/18
 2.7 | Modificación liga de Procesos | Mariana | 09/04/18
 2.8 | Eliminar el Proceso de validación | Mariana | 10/04/18
-2.9 | Eliminar el Proceso de validación | Victor Hugo | 10/05/18
+2.9 | Agregar liga al plan del departamento | Mariana | 10/04/18
 
 Hecho con ❤️ por:
 
