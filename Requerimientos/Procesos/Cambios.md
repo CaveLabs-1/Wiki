@@ -1,6 +1,6 @@
 
 # Proceso de Cambio de Requerimientos con Stakeholders
-Versión 2.0
+Versión 2.1
 
 
 []() | []()
@@ -32,3 +32,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1.0 | Creación de Plantilla Reporte y Proceso |Ramón Romero y Iancarlo Romero | Mauricio Hernández | 10 Abril 2018
 2.0 | Actualización y mejora de  proceso | Ramón Romero & Alejandro López | Valter Nuñez  | 8 Mayo 2018
+2.1 | Cambio de políticas | Marco | Valter Nuñez | 14 Mayo 2018
