@@ -99,18 +99,18 @@ Aquí hay una [guía oficial de Github](https://guides.github.com/features/maste
 
 El formato usado por el departamento para las minutas se encuentra en la carpeta Minutas/Formatos. Todos los formatos relacionados a las minutas deben de encontrarse en esa carpeta.
 
-Todas las minutas deben de tener el siguiente nombre "Minuta Fecha" donde Fecha es la fecha en que se realizó, por ejemplo si hubo una minuta en el día 24 de enero de 2018, el documento se llamará "Minuta del 24 de enero del 2018". Las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki, por ejemplo una minuta del equipo de "CADHU" debe de encontrarse en la dirección Minutas/CADHU. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma y los acuerdos y el resúmen de la junta. 
+Todas las minutas deben de tener el siguiente nombre "Minuta Fecha" donde Fecha es la fecha en que se realizó, por ejemplo si hubo una minuta en el día 24 de enero de 2018, el documento se llamará "Minuta del 24 de enero del 2018". Las minutas deben de encontrarse en la carpeta que les corresponde dentro de minutas, que se encuentra en el root de la wiki. Las minutas tienen que estar en pdf para que se pueda integrar la foto de los presentes junto con su firma, los acuerdos y el resúmen de la junta. 
 
 Después debe de haber un link en el archivo llamado “Minutas.md”, encontrado en el root de la wiki, en el apartado que le corresponda cuyo nombre sea “Minuta del dia, de mes, del año; por ejemplo una minuta general llevada a cabo el 19 de enero del 2018 debe de ser encontrada como "Minuta del 19 de Enero del 2018" que te dirija a la minuta en específico, y que se encuentre en el apartado de "Minutas Generales", lo mismo sucede con los formatos utilizados para las minutas.
 
 Donde se establece que elemento de configuración encontrado en la [línea base](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) es correspondiente al documento subido.
 
 ## ¿Por qué git y no drive?
-Porque git te permite tener un control de los cambios que se han realizado, quién lo hizo y cuándo se realizo. Toda esta información se encuentra en el botón de history que se encuentra en cualquier archivo de git. 
+Porque git te permite tener un control de los cambios que se han realizado, quién lo hizo y cuándo se realizó. Toda esta información se encuentra en el botón de history que se encuentra en cualquier archivo de git. 
 
 ![history](https://image.prntscr.com/image/6wG8dwR0Te22gdfV7ehfgQ.png)
 
 ![thatsAll](https://i.ytimg.com/vi/0FHEeG_uq5Y/maxresdefault.jpg)
 ---
 
-Última edición: @pirty6 abril 24, 2018.
+Última edición: @pirty6 mayo 14, 2018.
