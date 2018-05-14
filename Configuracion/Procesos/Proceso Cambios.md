@@ -18,7 +18,8 @@ Criterios de salida | Línea base aprobada por el manager de configuración y qu
 No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------|-------
 1 | Identificación | Identificar elemento de la línea base encontrada en la [guía de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Team member | CM
-2 | Validación | Validar los cambios y subirlos a la wiki | CM | PPQA, CM
+2 | Validación | Subir los archivos a la wiki mediante un pull request y seleccionar en reviewers al manager de configuración y si es necesario al SPEG del área 
+Validar los arhcivos mediante el checklist una vez que haya sido validado por el SPEG responsable | CM | PPQA, CM
 3 | Análisis de Métricas | Cada 3 días se harán auditorias, sin embargo, si el número de errores sea menor o igual a 5 las auditorías se harán cada semana, y si los errores son iguales o menores a 2 entonces se hará cada 2 semanas. [Formato de Auditorias](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Auditor%C3%ADa%20Configuraci%C3%B3n.xlsx) Los resultados de las auditrias se guardarán en la carpeta auditorias que se encuentra en el root del proyecto y se pondrá un link hacia él en el archivo "Auditorias.md". El nombre del link debe de ser la fecha en la cual fue realizada la auditoría. | CM de cada Equipo | MA
 
 
@@ -34,4 +35,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Agregar fase análisis | Mariana | Valter Núñez | 18 Abr 2018
 1.3 | Modificar redacción de métricas | Mariana  | Valter Núñez | 20 Abr 2018
 2.0 | Agregar áreas y checklists | Mariana | Valter Núñez| 2 May 2018
-2.1 | Cambiar Link checklist | Mariana | Valter Núñez | 14 May 2018
+2.1 | Cambiar link checklist | Mariana | Valter Núñez | 14 May 2018
