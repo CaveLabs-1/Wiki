@@ -1,6 +1,6 @@
 
 # Proceso de Aceptación de Requerimientos con Stakeholders
-Versión 2.0
+Versión 2.1
 
 
 []() | []()
