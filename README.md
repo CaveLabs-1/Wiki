@@ -34,11 +34,9 @@ Versión 2.9
  
  2.2 [Definición de arquitectura](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
  
- 2.3 [Arquitectura inicial](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Arquitectura%20Inicial.md)
+ 2.3 [Componentes del sistema](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Componentes%20del%20Sistema.md)
  
- 2.4 [Componentes del sistema](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Componentes%20del%20Sistema.md)
- 
- 2.5 [Flujo de vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
+ 2.4 [Flujo de vistas](https://github.com/CaveLabs-1/Wiki/blob/master/Arquitectura/Procesos/Definici%C3%B3n%20de%20Flujo%20de%20Vistas.md)
 
 
 ## Construcción
@@ -66,11 +64,11 @@ Versión 2.9
 <ul>
 <li>
   <h4>
-      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md">Políticas de Calidad:
+      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Normas%20Calidad.md">Normas de Calidad:
       </a>
      </h4>
   <p>
-    Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+    Lista de normas de calidad para el desarrollo de proyectos.
   </p>
 </li>
 <li>
