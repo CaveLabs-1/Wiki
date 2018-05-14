@@ -1,5 +1,5 @@
 # Proceso para Cambiar elementos de configuración
-Versión 2.0
+Versión 2.1
 
 
 []() | []()  
@@ -11,14 +11,14 @@ Entrada del Proceso | Artefacto que se quiera subir a la wiki
 Criterios de entrada | Elemento de configuración
 Definir políticas y estándares | Dependiendo el artefacto cumplir con las [políticas de guías](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Generales/Politicas%20Guias.md), [políticas de formatos](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Generales/Politicas%20Formatos.md), [guía de proyectos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md), [guía de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md), [guía de procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md), o [guía de roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
 Salidas del proceso | Línea base
-Criterios de salida | Línea base aprobada por el manager de configuración y que se encuentren en la Wiki tomando en cuenta el [checklist](https://docs.google.com/spreadsheets/d/18sip07IcwXP1hOEYeHXHiEgInX6_O9oWMhLfAf98j-c/edit?usp=sharing)
+Criterios de salida | Línea base aprobada por el manager de configuración y que se encuentren en la Wiki tomando en cuenta el [checklist](https://docs.google.com/spreadsheets/d/1UPLyFCOSov0Q--kri1iirjKbPqDrJe_D57o5t1-sE28/edit?usp=sharing)
 
 
 ## Definición de Fases
 No. de Fase | Fase | Actividades | Encargado | Áreas
 ------------|------|-------------|-----------|-------
 1 | Identificación | Identificar elemento de la línea base encontrada en la [guía de elemento de configuración](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Configuration%20Item.md) | Team member | CM
-2 | Validación | Validar los cambios y subirlos a la wiki | CM | PPQA, CM
+2 | Validación | Subir los archivos a la wiki mediante un pull request y seleccionar en reviewers al manager de configuración y si es necesario al SPEG del área </br>Validar los arhcivos mediante el [checklist](https://docs.google.com/spreadsheets/d/1UPLyFCOSov0Q--kri1iirjKbPqDrJe_D57o5t1-sE28/edit?usp=sharing) una vez que haya sido validado por el SPEG responsable | CM | PPQA, CM
 3 | Análisis de Métricas | Cada 3 días se harán auditorias, sin embargo, si el número de errores sea menor o igual a 5 las auditorías se harán cada semana, y si los errores son iguales o menores a 2 entonces se hará cada 2 semanas. [Formato de Auditorias](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Auditor%C3%ADa%20Configuraci%C3%B3n.xlsx) Los resultados de las auditrias se guardarán en la carpeta auditorias que se encuentra en el root del proyecto y se pondrá un link hacia él en el archivo "Auditorias.md". El nombre del link debe de ser la fecha en la cual fue realizada la auditoría. | CM de cada Equipo | MA
 
 
@@ -34,3 +34,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Agregar fase análisis | Mariana | Valter Núñez | 18 Abr 2018
 1.3 | Modificar redacción de métricas | Mariana  | Valter Núñez | 20 Abr 2018
 2.0 | Agregar áreas y checklists | Mariana | Valter Núñez| 2 May 2018
+2.1 | Cambiar link checklist | Mariana | Valter Núñez | 14 May 2018
