@@ -3,9 +3,8 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 
 ## Index
 * [Minutas Generales](#General)
+* [Minutas de Reporte de Estatus](#Estatus)
 * [Minutas Team Leaders](#Leaders)
-* [Minutas Libélulas](#Libelulas)
-* [Minutas CADHU](#CADHU)
 * [Guía](#Guía)
 * [Formatos](#Formatos)
 
@@ -20,29 +19,25 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 
 * [Minuta del 14 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Generales/Minuta%20de%2014%20de%20febrero%20de%202018.pdf)
 
+<a id="Estatus"></a>
+## Minutas de Reporte de Estatus
+
+* [Minuta del 12 de abril del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Minutas%20de%20Reporte%20de%20Estatus/Minuta%20Reporte%20de%20Estatus%2012%20de%20abril.pdf)
+
+* [Minuta del 19 de abril del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Minutas%20de%20Reporte%20de%20Estatus/Minuta%20Reporte%20de%20Estatus%2019%20de%20abril.pdf)
+
+* [Minuta del 26 de abril del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Minutas%20de%20Reporte%20de%20Estatus/Minuta%20Reporte%20de%20Estatus%2026%20de%20abril.pdf)
+
+* [Minuta del 3 de mayo del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Minutas%20de%20Reporte%20de%20Estatus/Minuta%20Reporte%20de%20Estatus%203%20de%20mayo.pdf)
+
+* [Minuta del 10 de mayo del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Reporte%20de%20Estatus/Minutas%20de%20Reporte%20de%20Estatus/Minuta%20Reporte%20de%20Estatus%2010%20de%20mayo.pdf)
+
 <a id="Leaders"></a>
 ## Minutas Team Leaders
 
 * [Minuta del 24 de enero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Team%20Leaders/Minuta%20de%2024%20enero%20de%202018.pdf)
 
 * [Minuta del 29 de enero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Team%20Leaders/Minuta%20de%2029%20de%20enero%20de%202018.pdf)
-
-<a id="Libelulas"></a>
-## Minutas Libélulas
-
-### Minutas Cliente
-* [Minuta del 7 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%20del%207%20de%20Febrero%202018.pdf)
-* [Minuta del 15 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%20del%2015%20de%20Febrero%202018.pdf)
-* [Minuta del 19 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Cliente/Minuta%2019%20de%20Febrero%202018.pdf)
-
-### Minutas Equipo
-* [Minuta del 21 de febrero del 2018](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Libelulas/Equipo/21%20de%20febrero%202018.pdf)
-
-<a id="Pan"></a>
-## Minutas Pan Q Ayuda
-
-<a id="CADHU"></a>
-## Minutas CADHU
 
 <a id="Guía"></a>
 ## Guía
@@ -58,4 +53,4 @@ Lista de recursos escritos de las reuniones, donde se podran encontrar al inicio
 ## Formatos
 * [Formato de minutas](https://github.com/CaveLabs-1/Wiki/blob/master/Minutas/Formatos/FORMATO%20MINUTA%20CAVELABS.docx)
 
-Última edición: @pirty6 febrero 21, 2018
+Última edición: @filyv mayo 14, 2018
