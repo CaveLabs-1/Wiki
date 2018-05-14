@@ -1,5 +1,5 @@
 # Proceso para Cambiar elementos de configuración
-Versión 2.0
+Versión 2.1
 
 
 []() | []()  
@@ -11,7 +11,7 @@ Entrada del Proceso | Artefacto que se quiera subir a la wiki
 Criterios de entrada | Elemento de configuración
 Definir políticas y estándares | Dependiendo el artefacto cumplir con las [políticas de guías](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Generales/Politicas%20Guias.md), [políticas de formatos](https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Generales/Politicas%20Formatos.md), [guía de proyectos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Proyecto.md), [guía de herramientas](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Herramientas.md), [guía de procesos](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Procesos.md), o [guía de roles](https://github.com/CaveLabs-1/Wiki/blob/master/Configuracion/Guias/Guia%20Roles.md)
 Salidas del proceso | Línea base
-Criterios de salida | Línea base aprobada por el manager de configuración y que se encuentren en la Wiki tomando en cuenta el [checklist](https://docs.google.com/spreadsheets/d/18sip07IcwXP1hOEYeHXHiEgInX6_O9oWMhLfAf98j-c/edit?usp=sharing)
+Criterios de salida | Línea base aprobada por el manager de configuración y que se encuentren en la Wiki tomando en cuenta el [checklist](https://docs.google.com/spreadsheets/d/1UPLyFCOSov0Q--kri1iirjKbPqDrJe_D57o5t1-sE28/edit?usp=sharing)
 
 
 ## Definición de Fases
@@ -34,3 +34,4 @@ No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 1.2 | Agregar fase análisis | Mariana | Valter Núñez | 18 Abr 2018
 1.3 | Modificar redacción de métricas | Mariana  | Valter Núñez | 20 Abr 2018
 2.0 | Agregar áreas y checklists | Mariana | Valter Núñez| 2 May 2018
+2.1 | Cambiar Link checklist | Mariana | Valter Núñez | 14 May 2018
