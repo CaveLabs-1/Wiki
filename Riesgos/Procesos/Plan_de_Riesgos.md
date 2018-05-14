@@ -1,5 +1,5 @@
 # Proceso de Plan de Riesgos (RSKM)
-Versión 1.2
+Versión 1.3
 
 
 ## Planeación
@@ -35,5 +35,6 @@ No. de Fase | Fase | Actividades | Encargado |Áreas|
 No. de versión | Cambio | Autor | Aprobado | Fecha de Cambio
 ---------------|--------|-------|----------|-----------------
 1 | Creación | Mariana, Ian, Manuel, Daniel, Luis y Valter | Mauricio Hernandez | 7 Feb 2018
-1.1 | Modificación | Mariana | |8 Feb 2018
+1.1 | Modificación | Mariana | Valter Núñez |8 Feb 2018
 1.2 | Actualizar | Luis, Ian |Valter, Mariana|2 Mayo 2018
+1.3 | Corrección link | Filiberto Vázquez | Valter Núñez | 14 Mayo 2018
