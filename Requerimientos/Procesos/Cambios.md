@@ -9,7 +9,7 @@ Objetivo | Gestionar los cambios solicitados por Stakeholders
 Métricas utilizadas | Cantidad Acumulada de: <ul><li>Items de Trabajo Restantes</li><li>Items de Trabajo Adicionales</li><li>Cambios en Items de Trabajo </li> </ul>  **VS Tiempo Restante**
 Repositorio de Métricas | Dentro de la Wiki de cada Proyecto
 Entradas de Proceso | WorkItemStack Restante y Solicitud de Cambios
-Definir políticas y estándares | Formato de [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).
+Definir políticas y estándares | <ul><li>Formato de [Solicitud de cambios](https://github.com/CaveLabs-1/Wiki/blob/ramonromero-procesosRM-aceptacion-cambios/Requerimientos/Formatos/Formato%20Solicitud%20de%20Requerimientos.docx).</li><li>Los documentos deberán tener al menos la firma de un testigo.</li></ul>
 Criterios de Entrada | Solicitud de cambios: llenada y priorizada con stakeholders
 Salidas de Procesos | WorkItemStack Priorizado y actualización de Plan
 Criterios de Salida | **[Check-List](https://docs.google.com/spreadsheets/d/1HmdLNMEtx6PdKl33UCusk_j1yYk1kwahNEucyir1liw/edit?usp=sharing)** 
