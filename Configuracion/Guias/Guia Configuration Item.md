@@ -45,8 +45,8 @@ Identifica el elemento de configuración que se quiera versionar y al darle clic
    Documentación de cada proyecto
   </a>
   <ul>
-   <li>Definición del proyecto</li>
-   <li>Propuesta del Proyecto</li>
+   <li>Contexto de la Problemática</li>
+   <li>Definició del Proyecto</li>
    <li>Componentes del sistema</li>
    <li>Flujo de vistas</li>
    <li>Arquitectura inicial</li>
