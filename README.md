@@ -2,7 +2,7 @@
 En este espacio se encuentra toda la documentación correspondiente a los procesos, guías y actividades de control diseñadas para el desarrollo de software de CaveLabs. Además de dicha documentación se pueden consultar las minutas de sesiones colaborativas al igual que formatos de documentación para uso del departamento.
 
 ## Mapa de Procesos
-Versión 2.8
+Versión 2.9
 
 ![imagotype](https://github.com/CaveLabs-1/Wiki/blob/master/mapaProcesos.jpg)
 
@@ -64,11 +64,11 @@ Versión 2.8
 <ul>
 <li>
   <h4>
-      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Politicas%20Calidad.md">Políticas de Calidad:
+      <a href="https://github.com/CaveLabs-1/Wiki/blob/master/Calidad/Normas%20Calidad.md">Normas de Calidad:
       </a>
      </h4>
   <p>
-    Lista de políticas de calidad para todos los procesos, formatos y guías del departamento.
+    Lista de normas de calidad para el desarrollo de proyectos.
   </p>
 </li>
 <li>
@@ -214,6 +214,7 @@ No. de Versión | Cambio | Autor | Fecha de cambio
 2.6 | Modificación liga Proceso SWAT | Ian | 07/04/18
 2.7 | Modificación liga de Procesos | Mariana | 09/04/18
 2.8 | Eliminar el Proceso de validación | Mariana | 10/04/18
+2.9 | Eliminar el Proceso de validación | Victor Hugo | 10/05/18
 
 Hecho con ❤️ por:
 
